@@ -1,0 +1,13 @@
+
+.cat-panel-1:before{
+    content: "\f3eb"; /* Set this to the icon you want */
+}
+
+.cat-panel-2:before{
+    content: "\f023"; /* Set this to the icon you want */
+}
+
+.cat-panel-3:before{
+    content: "\f20e"; /* Set this to the icon you want */
+}
+
