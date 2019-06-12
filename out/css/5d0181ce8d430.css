@@ -1,4 +1,11 @@
 
+/*.portal-header::before{
+  background-color: #19d2d2;
+}*/
+
+.portal-header::before{
+  background-color: #37e7e7;
+}
 .cat-panel-1:before{
     content: "\f3eb"; /* Set this to the icon you want */
 }

@@ -8,10 +8,10 @@
   <param name="algolia.custom.index.name" select=""/>
   <param name="use.fuse.search" select="1"/>
   <param name="use.multilingual.default.search" select="0"/>
-  <param name="custom.css.source" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5d01321183d45.css"/>
-  <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5ceef62975bfe.png"/>
-  <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5cef0fa9cd953.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig2/production-5d01611c0ce917.02018356/26496-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
+  <param name="custom.css.source" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26533/5d0181ce8d430.css"/>
+  <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26533/5ceef62975bfe.png"/>
+  <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26533/5cef0fa9cd953.png"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig2/production-5d01873dee5305.88721579/26496-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2019 Sysdig "/>
@@ -23,7 +23,7 @@
   <param name="google.analytics" select=""/>
   <param name="google.analytics.type" select="gtag"/>
   <param name="user.custom.script" select="0"/>
-  <param name="layout.custom.script" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5d01326584c55.js"/>
+  <param name="layout.custom.script" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26533/5d01326584c55.js"/>
   <param name="create.sitemap" select="0"/>
   <param name="destination.domain" select=""/>
   <param name="submit.feedback" select="0"/>
@@ -52,7 +52,7 @@
   <param name="use.section.toc" select="after"/>
   <param name="taxonomies.relationship" select=""/>
   <param name="use.top.nav" select="1"/>
-  <param name="external.top.nav.links" select=""/>
+  <param name="external.top.nav.links" select="text:Blog, url: https://sysdig.com/blog/;&#10;text:Contact Us, url:https://sysdig.com/contact/&#10;text:Resources, url: https://sysdig.com/use-cases/"/>
   <param name="top.nav.section.depth" select="3"/>
   <param name="gentext.for.top.nav" select="0"/>
   <param name="version.dropdown.values" select=""/>
