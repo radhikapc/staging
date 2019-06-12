@@ -11,7 +11,7 @@
   <param name="custom.css.source" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5d01321183d45.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5ceef62975bfe.png"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5cef0fa9cd953.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig2/production-5d0136e33d8a78.52146574/26496-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig2/production-5d01611c0ce917.02018356/26496-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2019 Sysdig "/>
