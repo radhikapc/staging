@@ -68,6 +68,7 @@ $(document).ready(function () {
         $(document).trigger('toc.ready');
     }
     
+    history.replaceState(window.location.href, null, window.location.href);
     addPopover();
     initChecklist();
     
