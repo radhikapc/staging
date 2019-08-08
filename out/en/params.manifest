@@ -11,7 +11,7 @@
   <param name="custom.css.source" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5d40bfcded91c.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5d3f790f093f5.png"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5d3f76a79081d.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig2/production-5d4c6bbcc2bc98.66356721/26547-Sysdig-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig2/production-5d4c76472c8070.27452026/26547-Sysdig-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2019 Sysdig "/>
@@ -27,8 +27,8 @@
   <param name="create.sitemap" select="0"/>
   <param name="destination.domain" select=""/>
   <param name="submit.feedback" select="0"/>
-  <param name="voting.panel" select="0"/>
-  <param name="feedback.email" select=""/>
+  <param name="voting.panel" select="1"/>
+  <param name="feedback.email" select="radhika@sysdig.com"/>
   <param name="feedback.description" select="Would you like to provide feedback? Just click here to suggest edits."/>
   <param name="voting.panel.text" select="Was this helpful?"/>
   <param name="yes" select="Yes"/>
@@ -37,8 +37,8 @@
   <param name="last.modified.text" select="Last modified: "/>
   <param name="categories.shown" select="4"/>
   <param name="single.topic.permalink" select=""/>
-  <param name="logo.link" select="https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/themes/sysdig/assets/images/logo-sysdig-black.svg"/>
-  <param name="feedback.toggle" select="no-button"/>
+  <param name="logo.link" select=""/>
+  <param name="feedback.toggle" select="yes-no-button"/>
   <param name="bootstrap.version" select="340"/>
   <param name="layout.custom.style.persistent.name" select="0"/>
   <param name="open.category.first.topic" select="1"/>
