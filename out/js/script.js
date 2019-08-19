@@ -178,8 +178,6 @@ function getEmbedCode(){
 }
 
 $(document).ready(function(){
-    getEmbedCode();
-
 	if ( $( "#toc-placeholder > .toc" ).length ) {
         $(document).trigger('toc.ready');
 	}
@@ -192,6 +190,8 @@ $(document).on('toc.ready', function(){
 	 * ========================================
 	 */
 	$("[data-toggle=popover]").popover({placement: 'top'});
+	
+	getEmbedCode();
 
 	/*
 	 * Make the next and previous link icons clickable

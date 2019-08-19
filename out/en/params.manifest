@@ -4,14 +4,14 @@
   <param name="html5.content.theme" select="2"/>
   <param name="use.algolia.search" select="0"/>
   <param name="use.algolia.free.docsearch" select="0"/>
-  <param name="publication.id" select="en-UUID-c2b24e2a-6f2f-27e1-1d9d-cf92c11c1d65"/>
+  <param name="publication.id" select="en-UUID-687a643c-ab95-cf39-49d7-81dedf0fb331"/>
   <param name="algolia.custom.index.name" select=""/>
   <param name="use.fuse.search" select="1"/>
   <param name="use.multilingual.default.search" select="0"/>
-  <param name="custom.css.source" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5d40bfcded91c.css"/>
-  <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5d3f790f093f5.png"/>
-  <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5d3f76a79081d.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig2/production-5d4c76472c8070.27452026/26547-Sysdig-html5/out/css/image/portal-bg.jpg"/>
+  <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-33838/5d40bfcded91c.css"/>
+  <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-33838/5d3f790f093f5.png"/>
+  <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-33838/5d3f76a79081d.png"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5d5af4cd7035c0.69189312/33836-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2019 Sysdig "/>
@@ -23,7 +23,7 @@
   <param name="google.analytics" select=""/>
   <param name="google.analytics.type" select="gtag"/>
   <param name="user.custom.script" select="0"/>
-  <param name="layout.custom.script" select="/var/www/ccms/usr/sysdig2/xsl/custom/assets/layout-26480/5d40c76616fc8.js"/>
+  <param name="layout.custom.script" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-33838/5d40c76616fc8.js"/>
   <param name="create.sitemap" select="0"/>
   <param name="destination.domain" select=""/>
   <param name="submit.feedback" select="0"/>
