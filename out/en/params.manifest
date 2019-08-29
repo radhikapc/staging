@@ -8,10 +8,10 @@
   <param name="algolia.custom.index.name" select=""/>
   <param name="use.fuse.search" select="1"/>
   <param name="use.multilingual.default.search" select="0"/>
-  <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-33838/5d40bfcded91c.css"/>
-  <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-33838/5d3f790f093f5.png"/>
-  <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-33838/5d3f76a79081d.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5d5af4cd7035c0.69189312/33836-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
+  <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-33909/5d6593bb1e613.css"/>
+  <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-33909/5d3f790f093f5.png"/>
+  <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-33909/5d3f76a79081d.png"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5d6813a1d05552.94776977/33836-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2019 Sysdig "/>
@@ -23,7 +23,7 @@
   <param name="google.analytics" select=""/>
   <param name="google.analytics.type" select="gtag"/>
   <param name="user.custom.script" select="0"/>
-  <param name="layout.custom.script" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-33838/5d40c76616fc8.js"/>
+  <param name="layout.custom.script" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-33909/5d6593c588242.js"/>
   <param name="create.sitemap" select="0"/>
   <param name="destination.domain" select=""/>
   <param name="submit.feedback" select="0"/>
@@ -35,7 +35,7 @@
   <param name="no" select="No"/>
   <param name="custom.meta.tags" select=""/>
   <param name="last.modified.text" select="Last modified: "/>
-  <param name="categories.shown" select="4"/>
+  <param name="categories.shown" select="6"/>
   <param name="single.topic.permalink" select=""/>
   <param name="logo.link" select=""/>
   <param name="feedback.toggle" select="yes-no-button"/>
@@ -49,7 +49,7 @@
   <param name="use.separate.relationship.toc" select="1"/>
   <param name="in.this.section.string" select="In this section"/>
   <param name="seealso.string" select="See also"/>
-  <param name="use.section.toc" select="after"/>
+  <param name="use.section.toc" select="none"/>
   <param name="taxonomies.relationship" select=""/>
   <param name="use.top.nav" select="1"/>
   <param name="external.top.nav.links" select=""/>

@@ -521,3 +521,8 @@ padding-top: 5px;
 }
 
 /* End Light highlight style for inline code samples */
+
+
+.nav>li.no-code-switcher{
+    display:none;
+}
