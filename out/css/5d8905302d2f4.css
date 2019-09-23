@@ -115,6 +115,15 @@ a, .text-primary, .btn-link, .pagination>li>a, .pagination>li>span, .publication
   color: #00b4c8;
 }
 
+/* image settings */
+table.image-viewport {
+  width: 100% !important;
+}
+
+  table.image-viewport img {
+  max-width : 100% !important;
+}
+
 /* Right menu */
 .theme1 .section-nav.nav li.active>a {
   color: #00b4c8;
