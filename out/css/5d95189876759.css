@@ -1,18 +1,26 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+@import url('https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/themes/sysdig/assets/fonts/maax-mono/reg/maax-mono-reg.woff2');
 
 body {
  font-family: 'Karla';
  color: #415546;
 }
+/* change header font */
 
 h1,h2,h3 {
-  font-family: 'Roboto Mono';
+  font-family: "Maax Mono",Monaco,Consolas,monospace;
   color: #0a1429;
 }
+
 h4,h5,h6 {
   color: #0a1429;
+}
+
+/* increase breadcrumb font size */
+topic-content .breadcrumb {
+   font-size: 16px;
 }
 
 /* Home page */
@@ -35,10 +43,36 @@ h4,h5,h6 {
   display: none;
 }
 
+/* replace header background */
 .portal-content .portal-header:after {
-  opacity: 1;
-  filter: none;
+    /* opacity: 1; */
+    /* filter: none; */
+    /* filter: grayscale(1); */
+    /* opacity: 0.5; */
+    background-color: #EEF3F3;
+    background-size: auto;
+    background-repeat: repeat;
+    background-image: linear-gradient(90deg, rgba(195,210,212,0.6) 0, rgba(255,255,255,0) 20%),linear-gradient(-90deg, rgba(195,210,212,0.6) 0, rgba(255,255,255,0) 20%),url(https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/themes/sysdig/assets/images/patterns/blockbits-gray-v1.svg);
+    background-position: center;
 }
+.portal-header::after {
+    /* background: url(css/image/portal-bg.png) no-repeat center center; */
+    /* background-size: cover; */
+}
+.portal-header::after {
+    /* z-index: -5; */
+    /* background: url(image/portal2b-bg.jpg) no-repeat center center; */
+    /* background-size: cover; */
+    /* opacity: .4; */
+    /* filter: grayscale(100%); */
+}
+.portal-header:after {
+    z-index: -5;
+    /* background: url(../images/portal1-bg.jpg) no-repeat center center; */
+    /* background-size: cover; */
+    /* opacity: 0.05; */
+}
+
 .portal-content .portal-header:before {
   background-color: transparent;
 }
@@ -56,7 +90,33 @@ h4,h5,h6 {
   color: #0a1429 !important;
 }
 
+/*search field changes*/
+.portal-header .search-field {
+    /* by default, white and a little transparent */
+    background-color: rgba(255, 255, 255, 0.8);
+    /* 0.1 second transition on background color change */
+    transition: .1s ease-in background-color;
+}
+
+.portal-header .search-field:hover,
+.portal-header .search-field:focus {
+    /* when hovering or focused, make background non transparent */
+    background-color: rgba(255, 255, 255, 1);
+}
+
+/* to change color and position of the text below the search input*/
+p.intro-para {
+   color: #253746;
+   margin-top: 1em;
+}
+
+/* to hide the menu toggle button if unused */
+.portal-header .navbar-toggle {
+   display: none;
+}
+
 /* Home page: Page icons */
+
 .publication-icon {
   background-color: #00b4ca !important;
 }
@@ -78,6 +138,7 @@ h4,h5,h6 {
 /* Side nav */
 .site-sidebar {
   background-color: white;
+  font-size: 16px;
   border-right: 4px solid #415546;
 }
 .nav-site-sidebar li a,
@@ -87,11 +148,23 @@ h4,h5,h6 {
 .nav-site-sidebar li a:hover {
   background-color: #eef3f3;
 }
+/* increase side menu font size */
+
+.nav-site-sidebar ul a {
+   font-size: 14px;
+ }
+
 .nav-site-sidebar .active>a {
   color: #0a1429;
 }
+/* search slightly better*/
 .site-sidebar-search {
-  background-color: #e3ebeb;
+    margin: 0 12px;
+    margin-bottom: 40px;
+}
+
+input#search {
+   background-color: #EEF3F3;
 }
 
 /* Unused top toolbar */
@@ -105,9 +178,10 @@ h4,h5,h6 {
 }
 
 /* Document left white space */
-@media (min-width: 768px)
-.theme1.page-toc main article {
-  padding-left: 10%;
+@media (min-width: 768px) {
+   .theme1.page-toc main article {
+    padding-left: 10%;
+  }
 }
 
 /* Most of the links */
@@ -150,6 +224,16 @@ table.image-viewport {
   -o-transition: all .2s ease-out;
   transition: all .2s ease-out;
  }
+
+ .pager li>a, .pager li>span {
+   color: #fff;
+   background-color: #63a4ff;
+   font-size: 16px;
+   transition: .1s ease-in background-color;
+}
+.pager li>a:hover, .pager li>span:hover {
+   background-color: hsla(215, 100%, 75%, 1);
+}
 
  .portal-single-publication img:hover { transform: scale(1.2); }
 
