@@ -194,8 +194,9 @@ table.image-viewport {
   width: 100% !important;
 }
 
-  table.image-viewport img {
+table.image-viewport img {
   max-width : 100% !important;
+  margin: inherit;
 }
 
 /* Right menu */

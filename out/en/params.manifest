@@ -8,10 +8,10 @@
   <param name="algolia.custom.index.name" select=""/>
   <param name="use.fuse.search" select="1"/>
   <param name="use.multilingual.default.search" select="0"/>
-  <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-150144/5d95189876759.css"/>
+  <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-150144/5d9629394bdc0.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-150144/5d94d5964425d.svg"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-150144/5d3f76a79081d.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5d952d47c8ab96.87551177/74418-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5d962968625629.53868342/74418-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2019 Sysdig "/>
@@ -28,7 +28,7 @@
   <param name="destination.domain" select=""/>
   <param name="submit.feedback" select="1"/>
   <param name="voting.panel" select="1"/>
-  <param name="feedback.email" select="radhika@sysdig.com"/>
+  <param name="feedback.email" select="doc-feedback@sysdig.com"/>
   <param name="feedback.description" select="Would you like to provide feedback? Just click here to suggest edits."/>
   <param name="voting.panel.text" select="Was this helpful?"/>
   <param name="yes" select="Yes"/>
