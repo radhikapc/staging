@@ -45,32 +45,15 @@ topic-content .breadcrumb {
 
 /* replace header background */
 .portal-content .portal-header:after {
-    /* opacity: 1; */
-    /* filter: none; */
-    /* filter: grayscale(1); */
-    /* opacity: 0.5; */
     background-color: #EEF3F3;
     background-size: auto;
     background-repeat: repeat;
     background-image: linear-gradient(90deg, rgba(195,210,212,0.6) 0, rgba(255,255,255,0) 20%),linear-gradient(-90deg, rgba(195,210,212,0.6) 0, rgba(255,255,255,0) 20%),url(https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/themes/sysdig/assets/images/patterns/blockbits-gray-v1.svg);
     background-position: center;
 }
-.portal-header::after {
-    /* background: url(css/image/portal-bg.png) no-repeat center center; */
-    /* background-size: cover; */
-}
-.portal-header::after {
-    /* z-index: -5; */
-    /* background: url(image/portal2b-bg.jpg) no-repeat center center; */
-    /* background-size: cover; */
-    /* opacity: .4; */
-    /* filter: grayscale(100%); */
-}
 .portal-header:after {
     z-index: -5;
-    /* background: url(../images/portal1-bg.jpg) no-repeat center center; */
-    /* background-size: cover; */
-    /* opacity: 0.05; */
+    opacity: 1;
 }
 
 .portal-content .portal-header:before {
@@ -113,6 +96,12 @@ p.intro-para {
 /* to hide the menu toggle button if unused */
 .portal-header .navbar-toggle {
    display: none;
+}
+
+/* hide the spooky background */
+
+.navbar-header {
+    display: none;
 }
 
 /* Home page: Page icons */
@@ -163,7 +152,7 @@ p.intro-para {
     margin-bottom: 40px;
 }
 
-input#search {
+.site-sidebar-search .search-field {
    background-color: #EEF3F3;
 }
 
