@@ -875,3 +875,7 @@ div.feedback-panel .btn:active:focus, div.feedback-panel .btn:focus {
     display: none;
 }
 
+.algolia-autocomplete .ds-dropdown-menu{
+    min-width: 0!important;
+}
+

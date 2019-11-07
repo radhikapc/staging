@@ -229,6 +229,14 @@ function loadContent(href, hash) {
         mapVersionPage();
         //Get dynamic code snippets from URL
         getEmbedCode();
+        
+        /* Page TOC scrollable */
+        $('.section-nav').affix({
+    		offset: {
+    			top: 0, 
+    		  	bottom: 30
+    		}
+    	});	        
     });
 }
 

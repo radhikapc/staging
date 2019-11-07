@@ -2,6 +2,14 @@ $(document).ready(function () {
     //Get code snippets dynamically, called also in LoadContent for ajax:
     getEmbedCode();
     
+    /* Page TOC scrollable */
+    $('.section-nav').affix({
+		offset: {
+			top: 0, 
+		  	bottom: 30
+		}
+	});	
+    
     /*Collapse sidebar:*/
     $(".collapsible-sidebar-nav .site-sidebar-header .navbar-toggle").click(function() {
         $(".site-body-row").toggleClass("collapse-sidebar-nav");
@@ -14,8 +22,8 @@ $(document).ready(function () {
     });
 
     /*Accordion glyphs:*/
-    $(document.body).on('click', '.panel-heading', function (event) {
-        $(this).toggleClass('active');
+    $(document.body).on('click', '.panel-heading .titlepage', function (event) {
+        $(this).parent().toggleClass('active');
     });
     
     $(document.body).on('click', '.feedback-panel .btn', function (e) {
