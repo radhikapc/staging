@@ -362,7 +362,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2019-11-09</lastmod>
+    <lastmod>2019-11-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/promql-dashboards.html</loc>
@@ -1058,7 +1058,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-prometheus-metrics.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-11-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/working-with-prometheus-metrics.html</loc>
@@ -1091,6 +1091,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/legacy-prometheus-application-check.html</loc>
     <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/enforcing-limit-on-prometheus-metric-collection.html</loc>
+    <lastmod>2019-11-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-jmx-metrics-from-java-virtual-machines.html</loc>
