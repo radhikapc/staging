@@ -4,14 +4,14 @@
   <param name="html5.content.theme" select="2"/>
   <param name="use.algolia.search" select="0"/>
   <param name="use.algolia.free.docsearch" select="0"/>
-  <param name="publication.id" select="en-UUID-1841e1bd-af03-2a9f-0cc5-f0aa570f82c7"/>
+  <param name="publication.id" select="en-UUID-62c5dc79-3458-fe18-475d-a51d02a6ee42"/>
   <param name="algolia.custom.index.name" select=""/>
   <param name="use.fuse.search" select="1"/>
   <param name="use.multilingual.default.search" select="0"/>
   <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5d978e791ee1e.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5d94d5964425d.svg"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5d3f76a79081d.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5dc9de1e537e24.84779841/153848-Sysdig_Documentation_Staging-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5dcc690b1064f3.96520145/74418-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2019 Sysdig "/>

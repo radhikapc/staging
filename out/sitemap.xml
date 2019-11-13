@@ -318,7 +318,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
-    <lastmod>2019-11-09</lastmod>
+    <lastmod>2019-11-12</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
@@ -359,14 +359,6 @@
   <url>
     <loc>https://docs.sysdig.com/en/save-and-restore-dashboards-with-scripts.html</loc>
     <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2019-11-11</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/promql-dashboards.html</loc>
-    <lastmod>2019-11-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/events.html</loc>
@@ -438,7 +430,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-secure.html</loc>
-    <lastmod>2019-10-10</lastmod>
+    <lastmod>2019-11-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started-with-sysdig-secure.html</loc>
@@ -455,6 +447,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/manage-rules.html</loc>
     <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/-beta--policy-advisor.html</loc>
+    <lastmod>2019-11-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/policy-events.html</loc>
@@ -477,8 +473,12 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/commands-audit.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/-beta--activity-audit.html</loc>
+    <lastmod>2019-11-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/-legacy--commands-audit.html</loc>
+    <lastmod>2019-11-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/captures-122718.html</loc>
@@ -582,7 +582,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/-beta--install-sysdig-using-the-installer.html</loc>
-    <lastmod>2019-10-31</lastmod>
+    <lastmod>2019-11-12</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/advanced-installer-options.html</loc>
@@ -658,7 +658,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/-beta--upgrade-sysdig-using-the-installer--platform-v2-5-0--.html</loc>
-    <lastmod>2019-11-01</lastmod>
+    <lastmod>2019-11-12</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/migration-tool-for-unified-events--platform-v--1149--.html</loc>
@@ -1282,7 +1282,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/release-notes.html</loc>
-    <lastmod>2019-11-07</lastmod>
+    <lastmod>2019-11-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
@@ -1290,11 +1290,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
-    <lastmod>2019-10-11</lastmod>
+    <lastmod>2019-11-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-secure-release-notes.html</loc>
-    <lastmod>2019-11-05</lastmod>
+    <lastmod>2019-11-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-on-premises-release-notes.html</loc>
