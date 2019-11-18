@@ -1,14 +1,6 @@
 $(document).ready(function () {
     //Get code snippets dynamically, called also in LoadContent for ajax:
-    getEmbedCode();
-    
-    /* Page TOC scrollable */
-    $('.section-nav').affix({
-		offset: {
-			top: 0, 
-		  	bottom: 30
-		}
-	});	
+    getEmbedCode();    
     
     /*Collapse sidebar:*/
     $(".collapsible-sidebar-nav .site-sidebar-header .navbar-toggle").click(function() {

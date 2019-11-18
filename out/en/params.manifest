@@ -11,7 +11,7 @@
   <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5d978e791ee1e.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5d94d5964425d.svg"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5d3f76a79081d.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5dccd539ef8139.28999520/74418-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5dd2d9289880a5.63267373/74418-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2019 Sysdig "/>
@@ -51,7 +51,7 @@
   <param name="seealso.string" select="See also"/>
   <param name="use.section.toc" select="none"/>
   <param name="taxonomies.relationship" select=""/>
-  <param name="use.top.nav" select="1"/>
+  <param name="use.top.nav" select="0"/>
   <param name="external.top.nav.links" select=""/>
   <param name="top.nav.section.depth" select="3"/>
   <param name="gentext.for.top.nav" select="0"/>
@@ -63,4 +63,5 @@
   <param name="portal.publication.title" select="Sysdig Documentation"/>
   <param name="collapsible.toc" select="1"/>
   <param name="focus.on.current.toc.section" select="1"/>
+  <param name="use.resource.version.suffix" select="0"/>
 </params>
