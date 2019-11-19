@@ -948,4 +948,12 @@ div.feedback-panel .btn:active:focus, div.feedback-panel .btn:focus {
 }
 
 
+ul.searchresults .search-highlight {
+    background-color: transparent;
+    padding: 0px;
+    font-weight: bold;
+    font-style: italic;
+    color: inherit;
+}
+
 

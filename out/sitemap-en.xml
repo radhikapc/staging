@@ -330,7 +330,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
-    <lastmod>2019-11-12</lastmod>
+    <lastmod>2019-11-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
@@ -359,6 +359,14 @@
   <url>
     <loc>https://docs.sysdig.com/en/managing-panels.html</loc>
     <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/-beta--using-promql.html</loc>
+    <lastmod>2019-11-19</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/-beta--promql-dashboards.html</loc>
+    <lastmod>2019-11-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/events.html</loc>
@@ -545,10 +553,6 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/architecture---system-requirements.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>
@@ -569,6 +573,10 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
     <lastmod>2019-10-29</lastmod>
   </url>
@@ -578,7 +586,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-sysdig-using-the-installer.html</loc>
-    <lastmod>2019-11-16</lastmod>
+    <lastmod>2019-11-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/advanced-installer-options.html</loc>
