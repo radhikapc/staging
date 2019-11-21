@@ -330,7 +330,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
-    <lastmod>2019-11-19</lastmod>
+    <lastmod>2019-11-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
@@ -361,12 +361,16 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/-beta--using-promql.html</loc>
-    <lastmod>2019-11-19</lastmod>
+    <loc>https://docs.sysdig.com/en/-beta--new-dashboards.html</loc>
+    <lastmod>2019-11-21</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/-beta--promql-dashboards.html</loc>
-    <lastmod>2019-11-13</lastmod>
+    <loc>https://docs.sysdig.com/en/-beta--using-new-dashboards.html</loc>
+    <lastmod>2019-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/-beta--using-promql.html</loc>
+    <lastmod>2019-11-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/events.html</loc>
@@ -586,7 +590,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-sysdig-using-the-installer.html</loc>
-    <lastmod>2019-11-19</lastmod>
+    <lastmod>2019-11-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/advanced-installer-options.html</loc>
@@ -1294,7 +1298,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
-    <lastmod>2019-11-14</lastmod>
+    <lastmod>2019-11-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-secure-release-notes.html</loc>
