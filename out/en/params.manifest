@@ -11,7 +11,7 @@
   <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5d978e791ee1e.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5d94d5964425d.svg"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5d3f76a79081d.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5ddef0c49faca9.51487695/74418-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5ddefc4e8208f5.56969174/74418-Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2019 Sysdig "/>
@@ -23,7 +23,7 @@
   <param name="google.analytics" select="UA-40398182-24"/>
   <param name="google.analytics.type" select="gtag"/>
   <param name="user.custom.script" select="0"/>
-  <param name="layout.custom.script" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5ddef0a56b1ee.js"/>
+  <param name="layout.custom.script" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5ddefc41ab3e2.js"/>
   <param name="create.sitemap" select="1"/>
   <param name="destination.domain" select="https://docs.sysdig.com"/>
   <param name="submit.feedback" select="1"/>
