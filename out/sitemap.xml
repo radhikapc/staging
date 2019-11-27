@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/overview.html</loc>
-    <lastmod>2019-11-06</lastmod>
+    <lastmod>2019-11-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/clusters-overview.html</loc>
@@ -366,15 +366,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/new-dashboards.html</loc>
-    <lastmod>2019-11-22</lastmod>
+    <lastmod>2019-11-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-new-dashboard.html</loc>
-    <lastmod>2019-11-22</lastmod>
+    <lastmod>2019-11-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2019-11-22</lastmod>
+    <lastmod>2019-11-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/events.html</loc>

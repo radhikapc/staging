@@ -14,6 +14,6 @@
   $(".cat-panel-6").closest("a").prepend("<img src='" + icon6 + "'></img>");
   $(".publication-icon").remove();
   $('.portal-header h1').text('Welcome to the Sysdig Documentation Hub!');
-  $( "<p class='intro-para'> This is our brand-new Doc site. Let us know what you think and, if there’s something we can improve or that would be helpful, we’re listening. You can send your feedback to <a href='mailto:doc-feedback@sysdig.com'>doc-feedback@sysdig.com</a>.</p>" ).insertAfter('.portal-search')
+  $( "<p class='intro-para'> This is our brand-new Doc site. Let us know what you think and, if there’s something we can improve, we’re listening. Please send your feedback to <a href='mailto:doc-feedback@sysdig.com'>doc-feedback@sysdig.com</a>.</p>" ).insertAfter('.portal-search')
   //$( "<p class='intro-para'> This is our brand-new Doc site. You may encounter some broken links and missing images. We are actively working on it. <br />In the meantime, explore the site and let us know what you think. Send your feedback to <a>doc-feedback@sysdig.com</a>.</p>" ).insertAfter('.portal-search')
  });
