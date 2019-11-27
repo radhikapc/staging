@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/clusters-overview.html</loc>
-    <lastmod>2019-11-06</lastmod>
+    <lastmod>2019-11-25</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/nodes-overview.html</loc>
@@ -22,11 +22,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/namespaces-overview.html</loc>
-    <lastmod>2019-11-07</lastmod>
+    <lastmod>2019-11-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/workloads-overview.html</loc>
-    <lastmod>2019-11-06</lastmod>
+    <lastmod>2019-11-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/how-to-troubleshoot-using-overview.html</loc>
@@ -330,7 +330,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
-    <lastmod>2019-11-21</lastmod>
+    <lastmod>2019-11-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
@@ -361,16 +361,20 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/-beta--new-dashboards.html</loc>
-    <lastmod>2019-11-21</lastmod>
+    <loc>https://docs.sysdig.com/en/pre-defined-dashboards.html</loc>
+    <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/-beta--using-new-dashboards.html</loc>
-    <lastmod>2019-11-21</lastmod>
+    <loc>https://docs.sysdig.com/en/new-dashboards.html</loc>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/-beta--using-promql.html</loc>
-    <lastmod>2019-11-21</lastmod>
+    <loc>https://docs.sysdig.com/en/using-new-dashboard.html</loc>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/using-promql.html</loc>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/events.html</loc>
@@ -458,7 +462,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/-beta--policy-advisor.html</loc>
-    <lastmod>2019-11-13</lastmod>
+    <lastmod>2019-11-25</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/policy-events.html</loc>
@@ -578,15 +582,35 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-11-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
     <lastmod>2019-10-29</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/sysdig-install-on-kubernetes-1-9-.html</loc>
-    <lastmod>2019-10-29</lastmod>
+    <loc>https://docs.sysdig.com/en/install-with-replicated.html</loc>
+    <lastmod>2019-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/airgapped-installation.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/install-components--replicated-.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/post-install-configuration.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/uninstall-replicated-installations.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/install-on-kubernetes-1-9-.html</loc>
+    <lastmod>2019-11-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-sysdig-using-the-installer.html</loc>
@@ -614,7 +638,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/troubleshoot-data.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-11-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-installation--openshift-.html</loc>
@@ -637,60 +661,40 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/sysdig-install-with-replicated.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/airgapped-installation.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/install-components--replicated-.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/post-install-configuration.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/uninstall-replicated-installations.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-on-premises-installation.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-upgrades.html</loc>
-    <lastmod>2019-10-28</lastmod>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/upgrade-sysdig-using-the-installer--platform-v2-5-0--.html</loc>
-    <lastmod>2019-11-16</lastmod>
+    <loc>https://docs.sysdig.com/en/v2-5-0--upgrade--installer--kubernetes-.html</loc>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/migration-tool-for-unified-events--platform-v--1149--.html</loc>
-    <lastmod>2019-09-23</lastmod>
+    <loc>https://docs.sysdig.com/en/v-2-3-0-upgrade--kubernetes-.html</loc>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/migration-tool-for-upgrading-to-sysdig-platform-v--1765--kubernetes-.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/v2435--2304,-2266,-2172--upgrade--kubernetes-.html</loc>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/v1765-migration-tool-for-upgrade--kubernetes-.html</loc>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/v1765-upgrade--kubernetes-.html</loc>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/v1149--migration-tool-for-unified-events.html</loc>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/basic-upgrade-kubernetes-installations.html</loc>
     <lastmod>2019-09-27</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/expanded-upgrade-kubernetes-installations-version-2-3-0.html</loc>
-    <lastmod>2019-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/expanded-upgrade-kubernetes-installations-for-sysdig-platform-v--1765.html</loc>
-    <lastmod>2019-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/expanded-upgrade-kubernetes-installations-version-2435--2304,-2266,-2172-.html</loc>
-    <lastmod>2019-09-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/upgrade-replicated-installations.html</loc>
@@ -821,16 +825,16 @@
     <lastmod>2019-09-24</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/understand-the-agent-config-files.html</loc>
-    <lastmod>2019-09-27</lastmod>
+    <loc>https://docs.sysdig.com/en/understand-agent-config.html</loc>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/table-1--environment-variables-for-agent-config-file.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/edit-the-agent-config-file-to-filter-data.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/filter-data.html</loc>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/blacklist-ports.html</loc>
@@ -861,20 +865,20 @@
     <lastmod>2019-09-24</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/enable-kube-state-metrics-collection-with-k8s_extra_resources.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/enable-kube-state-metrics.html</loc>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/optional--use-go-to-process-kubernetes-events.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/use-go-to-process-kubernetes-events.html</loc>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/optional--change-the-agent-log-level.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/change-agent-log-level.html</loc>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/optional--agent-auto-config.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/agent-auto-config.html</loc>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-upgrade.html</loc>
@@ -1294,7 +1298,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
-    <lastmod>2019-11-15</lastmod>
+    <lastmod>2019-11-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
