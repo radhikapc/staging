@@ -188,6 +188,10 @@ table.image-viewport img {
   margin: inherit;
 }
 
+.informaltable tbody {
+    vertical-align: text-top;
+}
+
 /* Right menu */
 .theme1 .section-nav.nav li.active>a {
   color: #00b4c8;

@@ -582,7 +582,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
-    <lastmod>2019-11-21</lastmod>
+    <lastmod>2019-11-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
@@ -614,7 +614,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-sysdig-using-the-installer.html</loc>
-    <lastmod>2019-11-20</lastmod>
+    <lastmod>2019-12-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/advanced-installer-options.html</loc>
@@ -670,7 +670,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v2-5-0--upgrade--installer--kubernetes-.html</loc>
-    <lastmod>2019-11-22</lastmod>
+    <lastmod>2019-12-02</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/v2-4-1--v2-5-0-upgrade--manual-kubernetes-.html</loc>
+    <lastmod>2019-12-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v-2-3-0-upgrade--kubernetes-.html</loc>
