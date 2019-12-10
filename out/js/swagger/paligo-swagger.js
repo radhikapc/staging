@@ -48,7 +48,7 @@ $(document).on('toc.ready', function () {
         $.each(links, function (i, name) {
             var menuitem = document.createElement("li");
             var link = document.createElement("a");
-            link.setAttribute("class", "topic-link");
+            link.setAttribute("class", "topic-link swagger-subnav");
             var href = "#" + "operations-tag-" + name;
             link.setAttribute("href", href);
             link.innerHTML = name;

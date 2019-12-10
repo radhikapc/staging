@@ -10,11 +10,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/overview.html</loc>
-    <lastmod>2019-11-27</lastmod>
+    <lastmod>2019-12-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/clusters-overview.html</loc>
-    <lastmod>2019-11-25</lastmod>
+    <lastmod>2019-12-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/nodes-overview.html</loc>
@@ -29,8 +29,8 @@
     <lastmod>2019-11-27</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/how-to-troubleshoot-using-overview.html</loc>
-    <lastmod>2019-11-07</lastmod>
+    <loc>https://docs.sysdig.com/en/troubleshoot-infrastructure-issues-with-overview.html</loc>
+    <lastmod>2019-12-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/explore.html</loc>
@@ -233,8 +233,8 @@
     <lastmod>2019-09-27</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/compliance.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/benchmarks-and-compliance.html</loc>
+    <lastmod>2019-12-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/docker-cis-benchmarks.html</loc>
@@ -442,7 +442,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-secure.html</loc>
-    <lastmod>2019-11-13</lastmod>
+    <lastmod>2019-12-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started-with-sysdig-secure.html</loc>
@@ -541,20 +541,20 @@
     <lastmod>2019-10-08</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/compliance-122845.html</loc>
-    <lastmod>2019-09-28</lastmod>
+    <loc>https://docs.sysdig.com/en/benchmarks.html</loc>
+    <lastmod>2019-12-06</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/configure-compliance-tasks.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/configure-benchmark-tasks.html</loc>
+    <lastmod>2019-12-05</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/review-compliance-test-results.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/review-benchmark-test-results.html</loc>
+    <lastmod>2019-12-06</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/use-compliance-dashboards-and-metrics.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-12-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-platform.html</loc>
@@ -610,11 +610,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-on-kubernetes-1-9-.html</loc>
-    <lastmod>2019-11-21</lastmod>
+    <lastmod>2019-12-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-sysdig-using-the-installer.html</loc>
-    <lastmod>2019-12-02</lastmod>
+    <lastmod>2019-12-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/advanced-installer-options.html</loc>
@@ -646,7 +646,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/set-up--openshift-.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-12-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-components--openshift-.html</loc>
@@ -674,7 +674,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v2-4-1--v2-5-0-upgrade--manual-kubernetes-.html</loc>
-    <lastmod>2019-12-02</lastmod>
+    <lastmod>2019-12-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v-2-3-0-upgrade--kubernetes-.html</loc>

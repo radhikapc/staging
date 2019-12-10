@@ -110,6 +110,11 @@ $(document).ready(function () {
         else if ($(this)[0].hasAttribute("target")){
             /*Just let link work as by default to go to other publication and reload TOC*/
         }  
+        
+        /*Swagger topics need a full refresh. Handles both the topic itself, and the sub toc links:*/
+        else if ($(event.target).is(".swagger-topic, .swagger-subnav")){
+            /*Just let link work as by default*/
+        } 
                 
         else if ($(this)[0].hasAttribute("data-olink")){
             /*Just let link work as by default to go to other publication and reload TOC*/
