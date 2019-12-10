@@ -29,8 +29,12 @@
     <lastmod>2019-11-27</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/troubleshoot-infrastructure-issues-with-overview.html</loc>
+    <loc>https://docs.sysdig.com/en/understanding-the-overview-data.html</loc>
     <lastmod>2019-12-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/enabling-overview-for-on-prem-deployments.html</loc>
+    <lastmod>2019-12-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/explore.html</loc>
