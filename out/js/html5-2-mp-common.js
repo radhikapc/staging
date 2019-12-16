@@ -2,6 +2,11 @@ $(document).ready(function () {
     //Get code snippets dynamically, called also in LoadContent for ajax:
     getEmbedCode();    
     
+    var url = window.location.href;
+    var hash = window.location.hash;
+    /*From another page:*/
+    displayAccordionTarget(hash);
+    
     /*Collapse sidebar:*/
     $(".collapsible-sidebar-nav .site-sidebar-header .navbar-toggle").click(function() {
         $(".site-body-row").toggleClass("collapse-sidebar-nav");
@@ -207,9 +212,9 @@ function chunkedPrevNext() {
 }
 
 function displayAccordionTarget(id) {
-    if ($(id).length && $(id).hasClass('accordion') && $(id).is(':hidden')) {
-        var parentbody = $(id).parent('.panel-body');
-        var parentheading = $(id).parent('.panel-body').prev('.panel-heading');
+    if ($(id).length && $(id).hasClass('accordion')) {
+        var parentbody = $(id).find('.panel-body');
+        var parentheading = $(id).find('.panel-heading');
         
         parentheading.addClass('active');
         parentbody.addClass('in');

@@ -10,27 +10,47 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/overview.html</loc>
-    <lastmod>2019-12-12</lastmod>
+    <lastmod>2019-12-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/clusters-overview.html</loc>
-    <lastmod>2019-12-09</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/nodes-overview.html</loc>
-    <lastmod>2019-11-06</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/namespaces-overview.html</loc>
-    <lastmod>2019-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/workloads-overview.html</loc>
-    <lastmod>2019-11-27</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/troubleshoot-infrastructure-issues-with-overview.html</loc>
+    <loc>https://docs.sysdig.com/en/enabling-overview-for-on-prem-deployments.html</loc>
     <lastmod>2019-12-11</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/view-the-clusters-data.html</loc>
+    <lastmod>2019-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/interpret-the-cluster-data.html</loc>
+    <lastmod>2019-12-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/view-the-nodes-data.html</loc>
+    <lastmod>2019-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/interpret-the-nodes-data.html</loc>
+    <lastmod>2019-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/view-the-namespaces-data.html</loc>
+    <lastmod>2019-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/interpret-the-namespaces-data.html</loc>
+    <lastmod>2019-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/view-the-workloads-data.html</loc>
+    <lastmod>2019-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/interpret-the-workloads-data.html</loc>
+    <lastmod>2019-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/troubleshooting-with-overview.html</loc>
+    <lastmod>2019-12-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/explore.html</loc>
@@ -582,11 +602,27 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
-    <lastmod>2019-11-28</lastmod>
+    <lastmod>2019-12-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
-    <lastmod>2019-10-29</lastmod>
+    <lastmod>2019-12-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/installer--kubernetes---openshift-.html</loc>
+    <lastmod>2019-12-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/advanced-installer-options.html</loc>
+    <lastmod>2019-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/manual-install--kubernetes-.html</loc>
+    <lastmod>2019-12-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/manual-install--openshift-.html</loc>
+    <lastmod>2019-12-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-with-replicated.html</loc>
@@ -609,60 +645,8 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/install-on-kubernetes-1-9-.html</loc>
-    <lastmod>2019-12-04</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/install-sysdig-using-the-installer.html</loc>
-    <lastmod>2019-12-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/advanced-installer-options.html</loc>
-    <lastmod>2019-11-14</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/manual-installation--kubernetes-.html</loc>
-    <lastmod>2019-10-29</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/set-up--kubernetes-.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/install-components--kubernetes-.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/access-sysdig-platform.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/troubleshoot-data.html</loc>
-    <lastmod>2019-11-27</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/manual-installation--openshift-.html</loc>
-    <lastmod>2019-10-29</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/set-up--openshift-.html</loc>
-    <lastmod>2019-12-05</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/install-components--openshift-.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/access-the-sysdig-platform.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/collect-troubleshooting-data.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-on-premises-installation.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-12-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-upgrades.html</loc>

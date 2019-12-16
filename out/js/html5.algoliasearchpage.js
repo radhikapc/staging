@@ -1,7 +1,27 @@
 search.addWidget(
-instantsearch.widgets.searchBox({
-    container: '#search-input'
-}));
+	instantsearch.widgets.searchBox({
+		container: '#searchbox',
+		cssClasses: {
+			input: 'form-control search-field',
+			submit: 'btn'
+		},
+		showReset: false,
+		autofocus: true,
+		placeholder: 'Search',
+	})
+);
+
+search.addWidget(
+	instantsearch.widgets.clearRefinements({
+		container: '#clear-refinements',
+		templates: {
+			resetLabel: 'Clear filters',
+		},
+		cssClasses: {
+			button: 'btn btn-default',
+		},
+	})
+);
 
 search.addWidget(
 instantsearch.widgets.hits({
