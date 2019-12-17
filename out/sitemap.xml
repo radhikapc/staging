@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2019-11-15</lastmod>
+    <lastmod>2019-12-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started.html</loc>
@@ -17,35 +17,19 @@
     <lastmod>2019-12-11</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/view-the-clusters-data.html</loc>
+    <loc>https://docs.sysdig.com/en/clusters-data.html</loc>
     <lastmod>2019-12-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/interpret-the-cluster-data.html</loc>
-    <lastmod>2019-12-13</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/view-the-nodes-data.html</loc>
+    <loc>https://docs.sysdig.com/en/nodes-data.html</loc>
     <lastmod>2019-12-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/interpret-the-nodes-data.html</loc>
+    <loc>https://docs.sysdig.com/en/namespaces-data.html</loc>
     <lastmod>2019-12-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/view-the-namespaces-data.html</loc>
-    <lastmod>2019-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/interpret-the-namespaces-data.html</loc>
-    <lastmod>2019-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/view-the-workloads-data.html</loc>
-    <lastmod>2019-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/interpret-the-workloads-data.html</loc>
+    <loc>https://docs.sysdig.com/en/workloads-data.html</loc>
     <lastmod>2019-12-16</lastmod>
   </url>
   <url>
@@ -397,6 +381,30 @@
     <lastmod>2019-11-27</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/alerts.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/event-alerts.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/metric-alerts.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/downtime-alert.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/group-outlier-alerts.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/anomaly-detection-alerts.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/events.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>
@@ -426,26 +434,6 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/review-events.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/event-alerts.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/downtime-alert.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/metric-alerts.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/group-outlier-alerts.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/anomaly-detection-alerts.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>

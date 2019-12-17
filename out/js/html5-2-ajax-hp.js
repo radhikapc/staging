@@ -76,13 +76,17 @@ $(document).ready(function () {
         300);
     });
     
- 	var $searchfield = $(".tool-search-form .search-field");
-	$(".toolbar .tool-search").click(function() {
-		$searchfield.fadeIn(100).focus();
-		});
-		$searchfield.focusout(function() {
-		$(".tool-search-form .search-field").fadeOut(100);
-	});
+    var $searchform = $(".tool-search-form");
+    $(".toolbar .tool-search > i").click(function() {
+        $searchform.show().fadeIn(100, function() {
+            $(".tool-search-form .search-field").focus();
+        });
+    });
+    $searchform.focusout(function() {
+        $searchform.fadeOut(100, function() {
+            $(this).hide(); 
+        });
+    });    
     
     /*Flatten and append the articles:*/
     $('article.topic').appendTo('main');

@@ -42,15 +42,20 @@ $(document).ready(function () {
         }
     });
     
- 	var $searchfield = $(".tool-search-form .search-field");
-	$(".toolbar .tool-search").click(function() {
-		$searchfield.fadeIn(100).focus();
-		$(".top-nav-menu").fadeOut(100);
-		});
-		$searchfield.focusout(function() {
-		$(".tool-search-form .search-field").fadeOut(100);
-		$(".top-nav-menu").fadeIn(100);
-	});
+    var $searchform = $(".tool-search-form");
+    $(".toolbar .tool-search > i").click(function() {
+        $searchform.show().fadeIn(100, function() {
+            $(".tool-search-form .search-field").focus();
+            $(".top-nav-menu").fadeOut(100);
+        });
+    });
+    $searchform.focusout(function() {
+        $searchform.fadeOut(100, function() {
+            $(this).hide();
+            $(".top-nav-menu").fadeIn(100);
+        });
+    });    
+
 	initChecklist();
 });
 

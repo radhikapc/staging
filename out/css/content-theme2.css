@@ -956,4 +956,6 @@ ul.searchresults .search-highlight {
     color: inherit;
 }
 
-
+.search-page-link a {
+    margin-right: 50px;
+}
