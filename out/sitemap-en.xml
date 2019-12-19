@@ -586,11 +586,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
-    <lastmod>2019-12-13</lastmod>
+    <lastmod>2019-12-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
-    <lastmod>2019-12-13</lastmod>
+    <lastmod>2019-12-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/installer--kubernetes---openshift-.html</loc>
@@ -601,12 +601,12 @@
     <lastmod>2019-11-14</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/manual-install--kubernetes-.html</loc>
-    <lastmod>2019-12-13</lastmod>
+    <loc>https://docs.sysdig.com/en/manual-install--kubernetes-3-0-0-.html</loc>
+    <lastmod>2019-12-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-install--openshift-.html</loc>
-    <lastmod>2019-12-13</lastmod>
+    <lastmod>2019-12-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-with-replicated.html</loc>
@@ -635,6 +635,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-upgrades.html</loc>
     <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/manual-upgrade--kubernetes-3-0-0-.html</loc>
+    <lastmod>2019-12-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v2-5-0--upgrade--installer--kubernetes-.html</loc>
@@ -1282,6 +1286,6 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-on-premises-release-notes.html</loc>
-    <lastmod>2019-11-07</lastmod>
+    <lastmod>2019-12-19</lastmod>
   </url>
 </urlset>
