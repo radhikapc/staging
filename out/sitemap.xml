@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/overview.html</loc>
-    <lastmod>2019-12-17</lastmod>
+    <lastmod>2019-12-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/clusters-data.html</loc>
@@ -26,10 +26,6 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/workloads-data.html</loc>
-    <lastmod>2019-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/troubleshooting-with-overview.html</loc>
     <lastmod>2019-12-16</lastmod>
   </url>
   <url>
@@ -637,24 +633,24 @@
     <lastmod>2019-11-22</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/manual-upgrade--kubernetes-3-0-0-.html</loc>
+    <loc>https://docs.sysdig.com/en/manual-upgrade--3-0-0-.html</loc>
     <lastmod>2019-12-19</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/v2-5-0--upgrade--installer--kubernetes-.html</loc>
+    <loc>https://docs.sysdig.com/en/installer-upgrade--2-5-0--.html</loc>
     <lastmod>2019-12-19</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/v2-4-1--v2-5-0-upgrade--manual-kubernetes-.html</loc>
-    <lastmod>2019-12-05</lastmod>
+    <loc>https://docs.sysdig.com/en/manual-upgrade--2-4-1--2-5-0-.html</loc>
+    <lastmod>2019-12-19</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/v-2-3-0-upgrade--kubernetes-.html</loc>
-    <lastmod>2019-11-22</lastmod>
+    <loc>https://docs.sysdig.com/en/manual-upgrade--2-3-0-.html</loc>
+    <lastmod>2019-12-19</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/v2435--2304,-2266,-2172--upgrade--kubernetes-.html</loc>
-    <lastmod>2019-11-22</lastmod>
+    <loc>https://docs.sysdig.com/en/manual-upgrade--v2435-.html</loc>
+    <lastmod>2019-12-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v1765-migration-tool-for-upgrade--kubernetes-.html</loc>
@@ -662,7 +658,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v1765-upgrade--kubernetes-.html</loc>
-    <lastmod>2019-11-22</lastmod>
+    <lastmod>2019-12-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v1149--migration-tool-for-unified-events.html</loc>
@@ -673,8 +669,8 @@
     <lastmod>2019-09-27</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/upgrade-replicated-installations.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/basic-upgrade--replicated-.html</loc>
+    <lastmod>2019-12-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/find-the-super-admin-credentials-and-api-token.html</loc>
