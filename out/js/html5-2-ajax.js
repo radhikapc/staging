@@ -77,21 +77,7 @@ $(document).ready(function () {
     addPopover();
     initChecklist();
     
-    //Unbind first, since it needs to be called multiple times (on load for dynamic loads)
-    $(".toolbar .tool-search > i").off();
-    var $searchform = $(".tool-search-form");
-    $(".toolbar .tool-search > i").click(function() {
-        $searchform.show().fadeIn(100, function() {
-            $(".tool-search-form .search-field").focus();
-            $(".top-nav-menu").fadeOut(100);
-        });
-    });
-    $searchform.focusout(function() {
-        $searchform.fadeOut(100, function() {
-            $(this).hide();
-            $(".top-nav-menu").fadeIn(100);
-        });
-    });    
+    initSearchField();   
     
     $(document.body).on('click', 'a[href]', function (event) {
         var clickedLink = $(this);
@@ -138,6 +124,24 @@ $(document).ready(function () {
     });
 });
 
+function initSearchField(){
+    //For theme2 search field. Unbind first, since it needs to be called multiple times (on load for dynamic loads)
+    $(".toolbar .tool-search > i").off();
+    var $searchform = $(".tool-search-form");
+    $(".toolbar .tool-search > i").click(function() {
+        $searchform.show().fadeIn(100, function() {
+            $(".tool-search-form .search-field").focus();
+            $(".top-nav-menu").fadeOut(100);
+        });
+    });
+    $searchform.focusout(function() {
+        $searchform.fadeOut(100, function() {
+            $(this).hide();
+            $(".top-nav-menu").fadeIn(100);
+        });
+    }); 
+}
+
 /* Adjusting position in view for internal page toc links. Non-ajax handles this in html5-2.js */
 $.fn.scrollView = function () {
   return this.each(function () {
@@ -175,17 +179,7 @@ function loadContent(href, hash) {
         
         displayAccordionTarget(hash);
         
-        //Unbind first, since it needs to be called multiple times (on load for dynamic loads)
-        $(".toolbar .tool-search").off();
-     	var $searchfield = $(".tool-search-form .search-field");
-    	$(".toolbar .tool-search").click(function() {
-    		$searchfield.fadeIn(100).focus();
-    		$(".top-nav-menu").fadeOut(100);
-    		});
-    		$searchfield.focusout(function() {
-    		$(".tool-search-form .search-field").fadeOut(100);
-    		$(".top-nav-menu").fadeIn(100);
-    	});
+        initSearchField();  
         
         window.scrollTo(0, 0);
         

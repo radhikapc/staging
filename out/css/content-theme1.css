@@ -316,7 +316,7 @@ code.email{
     background-color: transparent;
 }
 
-.procedure-title, .variablelist-title, .orderedlist-title, .itemizedlist-title{
+.procedure-title, .variablelist-title, .orderedlist-title, .itemizedlist-title, .task-title{
     margin: 1.2em 0 1em;
     font-weight: 700;
 }

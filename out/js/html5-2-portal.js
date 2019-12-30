@@ -42,6 +42,10 @@ $(document).ready(function () {
     $("input.search-field").focus();
 });
 
+function initChecklist(){
+    //Not used for portal
+}
+
 function showCurrentLanguage(portalLanguage) {
     $("*[data-portal-language]").hide();
     var $portal_content = $('.portal-content');
