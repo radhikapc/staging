@@ -78,7 +78,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics-dictionary.html</loc>
-    <lastmod>2019-09-23</lastmod>
+    <lastmod>2020-01-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/applications.html</loc>
@@ -282,7 +282,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/containers.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2020-01-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/file.html</loc>
@@ -1062,7 +1062,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/example-configuration.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2020-01-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enabling-histogram-metrics.html</loc>
