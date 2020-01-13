@@ -216,4 +216,20 @@
     <loc>https://docs.sysdig.com/en/review-a-capture-file.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/sysdig-platform.html</loc>
+    <lastmod>2020-01-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
+    <lastmod>2020-01-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/authentication-and-authorization--on-prem-options-.html</loc>
+    <lastmod>2020-01-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-split-dns.html</loc>
+    <lastmod>2020-01-13</lastmod>
+  </url>
 </urlset>
