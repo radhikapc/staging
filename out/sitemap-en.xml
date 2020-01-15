@@ -218,11 +218,19 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-platform.html</loc>
-    <lastmod>2020-01-13</lastmod>
+    <lastmod>2020-01-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
     <lastmod>2020-01-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
+    <lastmod>2020-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/administration-settings.html</loc>
+    <lastmod>2020-01-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/authentication-and-authorization--on-prem-options-.html</loc>
