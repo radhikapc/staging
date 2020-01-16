@@ -192,6 +192,22 @@ table.image-viewport img {
     vertical-align: text-top;
 }
 
+/*hide extra space after the table element */
+
+.table-responsive-break {
+  display:none;
+ } 
+ 
+ .table {
+  margin-bottom: 2px;
+ }
+ 
+ @media screen and (max-width: 767px) {
+ .table-responsive-break {
+  display:block;
+  }
+ }
+
 /* Right menu */
 .theme1 .section-nav.nav li.active>a {
   color: #00b4c8;
