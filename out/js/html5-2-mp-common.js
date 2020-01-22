@@ -212,12 +212,13 @@ function chunkedPrevNext() {
 }
 
 function displayAccordionTarget(id) {
-    if ($(id).length && $(id).hasClass('accordion')) {
-        var parentbody = $(id).find('.panel-body');
-        var parentheading = $(id).find('.panel-heading');
-        
-        parentheading.addClass('active');
-        parentbody.addClass('in');
+    if (!id) {
+        return false;
+    }
+    var $accordion = $(id).closest('.accordion');    
+    if ($accordion.length) {
+        $accordion.find('.panel-heading').addClass('active');
+        $accordion.find('.panel-body').addClass('in');
     }
 }
 
