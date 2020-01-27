@@ -11,7 +11,7 @@
   <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-201226/5e209bd71e919.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-201226/5e13b4402172e.png"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-201226/5d3f76a79081d.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5e2a26bd2f2cb1.69305530/200967-Staging_Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5e2f1d0581ae30.78474908/200967-Staging_Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2020 Sysdig "/>
@@ -43,6 +43,7 @@
   <param name="layout.custom.style.persistent.name" select="0"/>
   <param name="open.category.first.topic" select="1"/>
   <param name="elastic.site.search" select=""/>
+  <param name="elastic.site.search.only.index.main.content" select="0"/>
   <param name="other.custom.search" select="0"/>
   <param name="use.page.toc" select="1"/>
   <param name="swagger.embed" select="1"/>
@@ -67,4 +68,5 @@
   <param name="create.search.page.for.algolia" select="0"/>
   <param name="add.canonical.url" select="0"/>
   <param name="custom.favicon.path" select=""/>
+  <param name="initial.heading.level" select="chunk"/>
 </params>
