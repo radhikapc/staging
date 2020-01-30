@@ -238,10 +238,14 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/authentication-and-authorization--on-prem-options-.html</loc>
-    <lastmod>2020-01-13</lastmod>
+    <lastmod>2020-01-30</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-split-dns.html</loc>
     <lastmod>2020-01-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
+    <lastmod>2020-01-30</lastmod>
   </url>
 </urlset>
