@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2020-01-10</lastmod>
+    <lastmod>2020-02-03</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started.html</loc>
@@ -153,6 +153,22 @@
     <lastmod>2020-01-23</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/types-of-panels-202953.html</loc>
+    <lastmod>2020-02-03</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/number-panel.html</loc>
+    <lastmod>2020-02-03</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/toplist.html</loc>
+    <lastmod>2020-02-03</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/table-panel.html</loc>
+    <lastmod>2020-02-03</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/events.html</loc>
     <lastmod>2020-01-10</lastmod>
   </url>
@@ -246,6 +262,6 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
-    <lastmod>2020-01-30</lastmod>
+    <lastmod>2020-01-31</lastmod>
   </url>
 </urlset>
