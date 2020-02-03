@@ -138,7 +138,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/new-dashboards.html</loc>
-    <lastmod>2020-01-22</lastmod>
+    <lastmod>2020-02-03</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-new-dashboard.html</loc>
@@ -154,6 +154,10 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels-202953.html</loc>
+    <lastmod>2020-02-03</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/time-series-panel.html</loc>
     <lastmod>2020-02-03</lastmod>
   </url>
   <url>
