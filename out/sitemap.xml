@@ -149,14 +149,6 @@
     <lastmod>2019-11-27</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/sharing-new-dashboards.html</loc>
-    <lastmod>2020-01-23</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/create-panel-alerts.html</loc>
-    <lastmod>2020-02-03</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/types-of-panels-202953.html</loc>
     <lastmod>2020-02-03</lastmod>
   </url>
@@ -177,7 +169,11 @@
     <lastmod>2020-02-03</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/create-panel-alerts-202969.html</loc>
+    <loc>https://docs.sysdig.com/en/sharing-new-dashboards.html</loc>
+    <lastmod>2020-01-23</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/create-panel-alerts.html</loc>
     <lastmod>2020-02-03</lastmod>
   </url>
   <url>
