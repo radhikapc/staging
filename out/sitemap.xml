@@ -154,19 +154,19 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/timechart-panel.html</loc>
-    <lastmod>2020-02-03</lastmod>
+    <lastmod>2020-02-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/number-panel.html</loc>
-    <lastmod>2020-02-03</lastmod>
+    <lastmod>2020-02-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/toplist.html</loc>
-    <lastmod>2020-02-04</lastmod>
+    <lastmod>2020-02-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/table-panel.html</loc>
-    <lastmod>2020-02-04</lastmod>
+    <lastmod>2020-02-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sharing-new-dashboards.html</loc>
@@ -270,14 +270,14 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-split-dns.html</loc>
-    <lastmod>2020-01-22</lastmod>
+    <lastmod>2020-02-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
-    <lastmod>2020-01-31</lastmod>
+    <lastmod>2020-02-05</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/configuring-adfs--saml-.html</loc>
-    <lastmod>2020-02-04</lastmod>
+    <loc>https://docs.sysdig.com/en/adfs--saml-.html</loc>
+    <lastmod>2020-02-05</lastmod>
   </url>
 </urlset>
