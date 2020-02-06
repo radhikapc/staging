@@ -89,8 +89,8 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/data-retention.html</loc>
-    <lastmod>2019-09-27</lastmod>
+    <loc>https://docs.sysdig.com/en/data-retention-for-sysdig-monitor.html</loc>
+    <lastmod>2020-02-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
@@ -138,7 +138,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/new-dashboards.html</loc>
-    <lastmod>2020-02-03</lastmod>
+    <lastmod>2020-02-06</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-new-dashboard.html</loc>
@@ -170,15 +170,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sharing-new-dashboards.html</loc>
-    <lastmod>2020-01-23</lastmod>
+    <lastmod>2020-02-06</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/create-panel-alerts.html</loc>
-    <lastmod>2020-02-03</lastmod>
+    <lastmod>2020-02-06</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/export-panel-data.html</loc>
-    <lastmod>2020-02-05</lastmod>
+    <lastmod>2020-02-06</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/events.html</loc>
