@@ -280,4 +280,12 @@
     <loc>https://docs.sysdig.com/en/adfs--saml-.html</loc>
     <lastmod>2020-02-05</lastmod>
   </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
+    <lastmod>2020-02-07</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/sysdig-api.html</loc>
+    <lastmod>2020-02-07</lastmod>
+  </url>
 </urlset>
