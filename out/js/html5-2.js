@@ -12,7 +12,7 @@ $(document).ready(function () {
     displayAccordionTarget(hash);
     
     /*Same page*/
-    $(document.body).on('click', 'a.xref, a.link', function (event) {
+    $(document.body).on('click', 'a.xref, a.link, .aa-dropdown-menu a', function (event) {
         var id = this.hash;
         displayAccordionTarget(id);
     });
@@ -45,7 +45,7 @@ $(document).ready(function () {
     var $searchform = $(".tool-search-form");
     $(".toolbar .tool-search > i").click(function() {
         $searchform.show().fadeIn(100, function() {
-            $(".tool-search-form .search-field").focus();
+            $(".tool-search-form .search-field").select();
             $(".top-nav-menu").fadeOut(100);
         });
     });
@@ -66,7 +66,7 @@ $.fn.scrollView = function () {
       scrollTop: $(this).offset().top - 80
     }, 0);
   });
-}
+};
 
 $(document).on('toc.ready', function () {
     
@@ -90,7 +90,7 @@ $(document).on('toc.ready', function () {
     if (theme == '3' || theme == '3b') {
         $("aside ul.toc").attr({
             "data-spy": "affix", "data-offset-top": "157", "data-offset-bottom": "50"
-        })
+        });
     }
     
     /*Swagger embed needs the nav arrow for dynamically loaded sub toc:*/

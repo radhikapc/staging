@@ -79,7 +79,7 @@ $(document).ready(function () {
     var $searchform = $(".tool-search-form");
     $(".toolbar .tool-search > i").click(function() {
         $searchform.show().fadeIn(100, function() {
-            $(".tool-search-form .search-field").focus();
+            $(".tool-search-form .search-field").select();
         });
     });
     $searchform.focusout(function() {

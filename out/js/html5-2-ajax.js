@@ -12,7 +12,7 @@ $(document).on('toc.ready', function () {
     if (theme == '3' || theme == '3b') {
         $("aside ul.toc").attr({
             "data-spy": "affix", "data-offset-top": "157", "data-offset-bottom": "50"
-        })
+        });
     }
     
     /*Swagger embed needs the nav arrow for dynamically loaded sub toc:*/
@@ -130,7 +130,7 @@ function initSearchField(){
     var $searchform = $(".tool-search-form");
     $(".toolbar .tool-search > i").click(function() {
         $searchform.show().fadeIn(100, function() {
-            $(".tool-search-form .search-field").focus();
+            $(".tool-search-form .search-field").select();
             $(".top-nav-menu").fadeOut(100);
         });
     });
@@ -149,7 +149,7 @@ $.fn.scrollView = function () {
       scrollTop: $(this).offset().top - 80
     }, 0);
   });
-}
+};
 
 
 function scrollToElement(ele) {
@@ -237,11 +237,9 @@ function loadContent(href, hash) {
 }
 
 window.addEventListener('popstate', function (e) {
-    var href = e.state;
-    var hash = href.hash;
-    if (href == null) {
-        //Do nothing
-    } else {
+    var href = window.location.href;
+    if (href !== null) {
+        var hash = window.location.hash;
         loadContent(href, hash);
     }
 });
