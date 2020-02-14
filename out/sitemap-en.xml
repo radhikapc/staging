@@ -138,7 +138,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/new-dashboards.html</loc>
-    <lastmod>2020-02-13</lastmod>
+    <lastmod>2020-02-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-new-dashboard.html</loc>
@@ -254,7 +254,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
-    <lastmod>2020-01-13</lastmod>
+    <lastmod>2020-02-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
@@ -275,6 +275,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
     <lastmod>2020-02-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/disable-password-authentication.html</loc>
+    <lastmod>2020-02-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/adfs--saml-.html</loc>
