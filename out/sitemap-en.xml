@@ -142,7 +142,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-new-dashboard.html</loc>
-    <lastmod>2020-02-05</lastmod>
+    <lastmod>2020-02-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
@@ -158,7 +158,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/number-panel.html</loc>
-    <lastmod>2020-02-05</lastmod>
+    <lastmod>2020-02-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/toplist.html</loc>
@@ -166,7 +166,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/table-panel.html</loc>
-    <lastmod>2020-02-05</lastmod>
+    <lastmod>2020-02-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sharing-new-dashboards.html</loc>
@@ -242,7 +242,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-sysdig-captures.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2020-02-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/review-a-capture-file.html</loc>
@@ -270,7 +270,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-split-dns.html</loc>
-    <lastmod>2020-02-05</lastmod>
+    <lastmod>2020-02-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
