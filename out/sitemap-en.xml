@@ -254,7 +254,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
-    <lastmod>2020-02-14</lastmod>
+    <lastmod>2020-02-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
@@ -263,10 +263,6 @@
   <url>
     <loc>https://docs.sysdig.com/en/administration-settings.html</loc>
     <lastmod>2020-02-04</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/configure-custom-s3-endpoint--optional-.html</loc>
-    <lastmod>2020-02-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/authentication-and-authorization--on-prem-options-.html</loc>
@@ -287,6 +283,14 @@
   <url>
     <loc>https://docs.sysdig.com/en/adfs--saml-.html</loc>
     <lastmod>2020-02-05</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/storage--configure-options-for-capture-files.html</loc>
+    <lastmod>2020-02-20</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-custom-s3-endpoint--optional-.html</loc>
+    <lastmod>2020-02-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
