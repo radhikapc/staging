@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2020-02-04</lastmod>
+    <lastmod>2020-02-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started.html</loc>
@@ -91,6 +91,22 @@
   <url>
     <loc>https://docs.sysdig.com/en/data-retention.html</loc>
     <lastmod>2020-02-07</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/metrics-dictionary.html</loc>
+    <lastmod>2020-02-21</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/kubernetes.html</loc>
+    <lastmod>2020-02-21</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/resource-usage.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/kubernetes-state.html</loc>
+    <lastmod>2020-02-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
