@@ -123,7 +123,7 @@ ingress:
 </pre></li><li class="step"><p>Apply the changes.</p></li><li class="step"><p>Ensure that the following snippet is added to the Ngnix configuration file at <code class="code">/etc/nginx/conf.d/api.confapi.conf</code>:</p><pre class="programlisting">proxy_set_header X-Forwarded-Host $host:$server_port;
 proxy_set_header X-Forwarded-Server $host;</pre></li></ol></div></li></ol></div></section><section dir="ltr" class="section" data-origin-id="" data-publication-date="" id="UUID-242f564b-5c56-edea-a46d-6dceacc1c28c_section-idm4557419556707231578842069345"><div class="titlepage"><div><div class="title"><h2 class="title" style="clear: both">IDP Configuration</h2></div></div></div><div class="procedure" id="UUID-242f564b-5c56-edea-a46d-6dceacc1c28c_procedure-idm4586854922875231578961251715"><ol class="procedure" type="1"><li class="step"><p>Ensure that Single Sign On (SSO) configuration is completed on the Sysdig Platform side.</p></li><li class="step"><p>Retrieve the current SSO settings with the API:</p><pre class="programlisting">curl -v  -X GET -H "Accept: application/json" -H "Content-type: application/json" -H 'Authorization: bearer XXXXXX' https://&lt;<span class="emphasis"><em>API ENDPOINT</em></span>&gt;/api/admin/auth/settings/{{settingsID}}| jq</pre></li><li class="step"><p>In the JSON file obtained with the <code class="code">authenticationSettings</code> object , add the following lines:</p><pre class="programlisting">"splitDnsSupport": true,
 "splitDnsOriginHostHeader": "x-forwarded-server",
-"splitDnsOriginSchemeHeader": "x-forwarded-proto"</pre></li><li class="step"><p>(optional) If you are using OpenID Connect protocol for SSO, include <code class="code">settings.clientSecret</code> , because it’s not returned with the API call:</p><pre class="programlisting">"clientSecret": "___sdanb1u2bb128cqwd1re21kPdFcNZ6mDh"</pre></li><li class="step"><p>Update the <code class="code">authenticationSettings</code> object with a PUT request to the same endpoint with the changes introduced in the previous steps. For example:</p><pre class="programlisting">curl -v -X PUT -H "Accept: application/json" -H "Content-type: application/json" -H 'Authorization: bearer xxxxxxx' https://&lt;<span class="emphasis"><em>API ENDPOINT</em></span>&gt;/api/admin/auth/settings/1 -d'
+"splitDnsOriginSchemeHeader": "x-forwarded-proto"</pre></li><li class="step"><p>(optional) If you are using OpenID Connect protocol for SSO, include <code class="code">settings.clientSecret</code> , because it’s not returned with the API call:</p><pre class="programlisting">"clientSecret": "&lt;<span class="emphasis"><em>Replace with your clientSecret</em></span>&gt;"</pre></li><li class="step"><p>Update the <code class="code">authenticationSettings</code> object with a PUT request to the same endpoint with the changes introduced in the previous steps. For example:</p><pre class="programlisting">curl -v -X PUT -H "Accept: application/json" -H "Content-type: application/json" -H 'Authorization: bearer xxxxxxx' https://&lt;<span class="emphasis"><em>API ENDPOINT</em></span>&gt;/api/admin/auth/settings/1 -d'
 {
   "authenticationSettings": {
     "id": 1,
@@ -135,9 +135,9 @@ proxy_set_header X-Forwarded-Server $host;</pre></li></ol></div></li></ol></div>
     "settings": {
       "createUserOnLogin": true,
       "forbidPasswordLogin": false,
-      "issuer": "https://&lt;<span class="emphasis"><em>issuer</em></span>&gt;.com",
-      "clientId": "&lt;<span class="emphasis"><em>client_id</em></span>&gt;",
-      "clientSecret": "&lt;<span class="emphasis"><em>client_secret</em></span>&gt;",
+      "issuer": "https://&lt;<span class="emphasis"><em>Replace with your issuer</em></span>&gt;.com",
+      "clientId": "&lt;<span class="emphasis"><em>Replace with your client_id</em></span>&gt;",
+      "clientSecret": "&lt;<span class="emphasis"><em>Replace with your client_secret</em></span>&gt;",
       "metadata": null,
       "splitDnsSupport": true,
       "splitDnsOriginHostHeader": "x-forwarded-server",
