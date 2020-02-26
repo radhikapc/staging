@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes.html</loc>
-    <lastmod>2020-02-21</lastmod>
+    <lastmod>2020-02-25</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/resource-usage.html</loc>
@@ -286,7 +286,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-split-dns.html</loc>
-    <lastmod>2020-02-24</lastmod>
+    <lastmod>2020-02-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
