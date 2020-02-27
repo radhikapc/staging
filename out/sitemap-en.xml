@@ -106,7 +106,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes-state.html</loc>
-    <lastmod>2020-02-21</lastmod>
+    <lastmod>2020-02-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
@@ -266,7 +266,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-platform.html</loc>
-    <lastmod>2020-02-04</lastmod>
+    <lastmod>2020-02-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
@@ -289,10 +289,6 @@
     <lastmod>2020-02-26</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
-    <lastmod>2020-02-13</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/disable-password-authentication.html</loc>
     <lastmod>2020-02-14</lastmod>
   </url>
@@ -303,6 +299,18 @@
   <url>
     <loc>https://docs.sysdig.com/en/storage--configure-options-for-capture-files.html</loc>
     <lastmod>2020-02-20</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/aws--integrate-aws-account-and-cloudwatch-metrics--optional-.html</loc>
+    <lastmod>2020-02-27</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/iam-policy-code-to-use.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
+    <lastmod>2020-02-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
