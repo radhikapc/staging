@@ -78,7 +78,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understanding-default,-custom,-and-missing-metrics.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2020-03-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-metric-scale.html</loc>
@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/data-retention.html</loc>
-    <lastmod>2020-02-07</lastmod>
+    <lastmod>2020-03-12</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics-dictionary.html</loc>
@@ -290,7 +290,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/disable-password-authentication.html</loc>
-    <lastmod>2020-02-14</lastmod>
+    <lastmod>2020-03-12</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/adfs--saml-.html</loc>
@@ -298,7 +298,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/storage--configure-options-for-capture-files.html</loc>
-    <lastmod>2020-02-20</lastmod>
+    <lastmod>2020-03-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/aws--integrate-aws-account-and-cloudwatch-metrics--optional-.html</loc>
@@ -314,7 +314,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
-    <lastmod>2020-02-07</lastmod>
+    <lastmod>2020-03-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-api.html</loc>

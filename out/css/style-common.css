@@ -215,6 +215,8 @@ span.translation-changed{
     margin-right: 10px;
     vertical-align: 0%;
     font-style: normal;
+    display: inline-block;
+    width: 15px;
  }
 
  .panel-heading.active :not(div).title:before, .panel-heading.active .sidebar-title:before{
@@ -233,6 +235,7 @@ span.translation-changed{
     margin-top: 1.5em;
     -webkit-box-shadow: none;
     box-shadow: none;
+    border-radius: 0px;
     /*border: 0.5px solid #ccc;*/
  }
 

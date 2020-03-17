@@ -218,7 +218,7 @@ function displayAccordionTarget(id) {
     var $accordion = $(id).closest('.accordion');    
     if ($accordion.length) {
         $accordion.find('.panel-heading').addClass('active');
-        $accordion.find('.panel-body').addClass('in');
+        $accordion.find('.panel-body').addClass('in').css('height', 'auto');
     }
 }
 

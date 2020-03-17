@@ -12,7 +12,7 @@ $(document).ready(function () {
     displayAccordionTarget(hash);
     
     /*Same page*/
-    $(document.body).on('click', 'a.xref, a.link, .aa-dropdown-menu a', function (event) {
+    $(document.body).on('click', 'a.xref, a.link, .aa-dropdown-menu a, #search-result-wrapper a', function (event) {
         var id = this.hash;
         displayAccordionTarget(id);
     });
@@ -55,6 +55,49 @@ $(document).ready(function () {
             $(".top-nav-menu").fadeIn(100);
         });
     });    
+
+    /**
+     * JM: This snippet will add an 'oncopy' eventlistener to all programlistings that are usign callouts.
+     * This listener will clean out any callout elements before copying and after the copying restore the 
+     * callouts.  
+     */
+    $(".programlisting").has(".co").on("copy", 
+    function () {
+        // Save selection
+        var sel = window.getSelection();
+        var range;
+        var startClass = 'start-selection';
+        var endClass = 'end-selection';
+        if (sel.getRangeAt && sel.rangeCount) {
+            var savedRange = window.getSelection().getRangeAt(0);
+            // Save start
+            range = savedRange.cloneRange();
+            range.collapse(true);
+            var $start = $('<span></span>').addClass(startClass);
+            range.insertNode($start[0]);
+            // Save end
+            range = savedRange.cloneRange();
+            range.collapse(false);
+            var $end = $('<span></span>').addClass(endClass);
+            range.insertNode($end[0]);
+        }
+        var el = $(this); 
+        var innerHtml = el.html();
+        el.find('.co').remove();
+        setTimeout(function() {
+            el.children().remove();
+            el.html(innerHtml);
+            // Restore selection
+            sel.removeAllRanges();
+            range.setStartBefore($('.'+startClass)[0]);
+            range.setEndBefore($('.'+endClass)[0]);
+            sel.addRange(range);
+
+            $('.'+startClass).remove();
+            $('.'+endClass).remove();
+        });
+    }
+    );
 
 	initChecklist();
 });
