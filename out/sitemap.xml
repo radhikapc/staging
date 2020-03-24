@@ -270,7 +270,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
-    <lastmod>2020-02-20</lastmod>
+    <lastmod>2020-03-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
@@ -310,15 +310,23 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
-    <lastmod>2020-02-27</lastmod>
+    <lastmod>2020-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/enable-aws-role-delegation-with-api.html</loc>
+    <lastmod>2020-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/enable-aws-role-delegation.html</loc>
+    <lastmod>2020-03-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
     <lastmod>2020-03-17</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/data-api.html</loc>
-    <lastmod>2020-03-17</lastmod>
+    <loc>https://docs.sysdig.com/en/working-with-the-data-api.html</loc>
+    <lastmod>2020-03-18</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/guidelines-for-using-data-api.html</loc>
