@@ -328,4 +328,40 @@
     <loc>https://docs.sysdig.com/en/sysdig-api.html</loc>
     <lastmod>2020-02-07</lastmod>
   </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/sysdig-integrations.html</loc>
+    <lastmod>2020-03-31</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/working-with-prometheus-metrics.html</loc>
+    <lastmod>2020-03-31</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/setting-up-the-environment.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configuring-sysdig-agent.html</loc>
+    <lastmod>2020-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/example-configuration.html</loc>
+    <lastmod>2020-01-02</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/enabling-histogram-metrics.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/logging-and-troubleshooting.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/collecting-prometheus-metrics-from-remote-hosts.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/legacy-prometheus-application-check.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
 </urlset>
