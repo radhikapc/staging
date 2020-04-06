@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
-    <lastmod>2020-03-31</lastmod>
+    <lastmod>2020-04-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
@@ -142,7 +142,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/visualizing-metrics-using-the-topology-view.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2020-04-06</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/pre-defined-dashboards.html</loc>
@@ -170,19 +170,19 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/timechart-panel.html</loc>
-    <lastmod>2020-02-05</lastmod>
+    <lastmod>2020-04-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/number-panel.html</loc>
-    <lastmod>2020-02-20</lastmod>
+    <lastmod>2020-04-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/toplist.html</loc>
-    <lastmod>2020-02-05</lastmod>
+    <lastmod>2020-04-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/table-panel.html</loc>
-    <lastmod>2020-02-20</lastmod>
+    <lastmod>2020-04-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sharing-new-dashboards.html</loc>
@@ -290,7 +290,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/disable-password-authentication.html</loc>
-    <lastmod>2020-03-12</lastmod>
+    <lastmod>2020-04-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/adfs--saml-.html</loc>
@@ -310,7 +310,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
-    <lastmod>2020-03-31</lastmod>
+    <lastmod>2020-04-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
@@ -334,11 +334,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/working-with-prometheus-metrics.html</loc>
-    <lastmod>2020-03-31</lastmod>
+    <lastmod>2020-04-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/setting-up-the-environment.html</loc>
     <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/filtering-prometheus-metrics.html</loc>
+    <lastmod>2020-04-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configuring-sysdig-agent.html</loc>
