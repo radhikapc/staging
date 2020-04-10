@@ -34,19 +34,19 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/clusters-data.html</loc>
-    <lastmod>2019-12-16</lastmod>
+    <lastmod>2020-04-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/nodes-data.html</loc>
-    <lastmod>2019-12-16</lastmod>
+    <lastmod>2020-04-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/namespaces-data.html</loc>
-    <lastmod>2019-12-16</lastmod>
+    <lastmod>2020-04-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/workloads-data.html</loc>
-    <lastmod>2019-12-16</lastmod>
+    <lastmod>2020-04-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/explore.html</loc>
@@ -162,7 +162,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2019-11-27</lastmod>
+    <lastmod>2020-04-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels-202953.html</loc>
@@ -270,7 +270,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
-    <lastmod>2020-03-24</lastmod>
+    <lastmod>2020-04-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
@@ -295,6 +295,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/adfs--saml-.html</loc>
     <lastmod>2020-02-05</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/azure-active-directory--saml-.html</loc>
+    <lastmod>2020-04-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/storage--configure-options-for-capture-files.html</loc>
