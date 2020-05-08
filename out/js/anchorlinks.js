@@ -5,13 +5,27 @@ function setAnchors() {
         var idattr = $(this).attr('id');
         
         if (idattr !== undefined) {
-            //id prefixed al (for anchorlink)
-            id = 'al_' + idattr;
+            //id prefixed al (for anchorlink), not used if using reader-friendly fragment id option
+            id = idattr;
+            if(anchoroption == true){
+                id = 'al_' + idattr;
+            }
+            
             //If the anchor doesn't already exist:
             if (! $(this).prev('a[id]').length) {
                 section = $(this);
-                var anchor = $("<a></a>").attr('id', id);
-                $(anchor).insertBefore(section);
+                //Only if not using reader-friendly fragment option:
+                if(anchoroption == true){
+                    var anchor = $("<a></a>").attr('id', id);
+                    $(anchor).insertBefore(section);
+                }
+                //Reader-friendly fragment id option used, but option to still preserve legacy anchors enabled:
+                if(typeof legacyAnchorID !== 'undefined'){
+                    var legacyID = $(this).attr('data-legacy-id');
+                    anchorID = 'al_' + legacyID;
+                    var anchor = $("<a></a>").attr('id', anchorID);
+                    $(anchor).insertBefore(section);
+                }
                 
                 icon = '<i class="fa fa-link"></i>';
                 if ($(this).hasClass('bridgehead')) {

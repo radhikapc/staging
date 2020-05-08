@@ -892,3 +892,16 @@ ul.searchresults .search-highlight {
     margin-right: 50px;
 }
 
+/* Avoiding target elements being hidden by banner when using sticky header */
+html {
+  scroll-padding-top: 80px; 
+}
+
+/* Safari 11+ (scroll-padding-top not supported in Safari yet) */
+@media not all and (min-resolution:.001dpcm)
+{ @supports (-webkit-appearance:none) and (stroke-color:transparent) {
+    :target { 
+        padding-top: 80px;
+        margin-top: -80px;
+    }
+}}
