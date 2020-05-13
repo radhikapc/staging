@@ -129,15 +129,39 @@ function addSearch() {
                 if ($('.portal-search-result').length) {
                     url = portalLanguage + '/' + storelocal[ref].href;
                 }
-                
-                var searchitem = '';
-                if (storelocal[ref].snippet != '') {
-                    searchitem = '<li class="searchresultitem"><a href="' + url + '"><h3 class="searchresulttitle">' + storelocal[ref].title + '</h3><p class="searchresultsnippet">' + storelocal[ref].snippet + '</p>' + pathdisplay + '</a></li>';
+
+                if (storelocal[ref].snippet !== '') {
+                    var $li = $('<li></li>')
+                        .addClass('searchresultitem');
+
+                    var $a = $('<a></a>')
+                        .attr('href', url);
+
+                    var $h3 = $('<h3></h3>')
+                        .addClass('searchresulttitle')
+                        .html(storelocal[ref].title + videosearchicon);
+
+                    var $p = $('<p></p>')
+                        .addClass('searchresultsnippet')
+                        .text(storelocal[ref].snippet);
+
+                    $a
+                        .append($h3)
+                        .append($p)
+                        .append(pathdisplay)
+                        .appendTo($li);
                 } else {
-                    var searchitem = '<li class="searchresultitem-nosnippet"><a href="' + url + '">' + storelocal[ref].title + '</a></li>';
+                    var $li = $('<li></li>')
+                        .addClass('searchresultitem-nosnippet');
+
+                    var $a = $('<a></a>')
+                        .attr('href', url)
+                        .text(storelocal[ref].title);
+
+                    $li.append($a);
                 }
                 
-                $ul.append(searchitem);
+                $ul.append($li);
             }
             showSearch($resultcontainer)
                                     

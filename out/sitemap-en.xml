@@ -334,19 +334,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-integrations.html</loc>
-    <lastmod>2020-03-31</lastmod>
+    <lastmod>2020-05-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/working-with-prometheus-metrics.html</loc>
-    <lastmod>2020-04-16</lastmod>
+    <lastmod>2020-05-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/setting-up-the-environment.html</loc>
     <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/filtering-prometheus-metrics.html</loc>
-    <lastmod>2020-05-07</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configuring-sysdig-agent.html</loc>
@@ -357,15 +353,27 @@
     <lastmod>2020-01-02</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/enforcing-limit-on-prometheus-metric-collection.html</loc>
+    <lastmod>2020-05-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/filtering-prometheus-metrics.html</loc>
+    <lastmod>2020-05-07</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/limit-prometheus-metric-collection.html</loc>
+    <lastmod>2020-05-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/collecting-prometheus-metrics-from-remote-hosts.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/enabling-histogram-metrics.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/logging-and-troubleshooting.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/collecting-prometheus-metrics-from-remote-hosts.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>

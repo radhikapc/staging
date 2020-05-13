@@ -103,8 +103,10 @@ function addSearch() {
         hideSearch($resultcontainer);
     });
     
-    $('.portal-content, .site-content').click(function () {
-        hideSearch($resultcontainer);
+    $('.portal-content, .site-content').click(function (e) {
+        if(typeof(e.target.closest('.toolbar')) == 'undefined' || e.target.closest('.toolbar') == null){
+            hideSearch($resultcontainer);
+        }
     });
     
     hideSearch($resultcontainer);
@@ -192,20 +194,37 @@ function search(e, searchfield) {
                     videosearchicon = '<span class="video-search-icon" style="margin-left: 0.5em"><i class="fa fa-film" aria-hidden="true"></i></span>'
                 }
                 
-                var searchitem = '';
-                if (result[item].snippet != '') {
-                    searchitem = '<li class="searchresultitem"><a href="' + url + '">' +
-                    '<h3 class="searchresulttitle">' + result[item].title + 
-                    videosearchicon +
-                    '</h3>' +
-                    '<p class="searchresultsnippet">' + result[item].snippet + '</p>' +
-                    pathdisplay +
-                    '</a></li>';
+                if (result[item].snippet !== '') {
+                    var $li = $('<li></li>')
+                        .addClass('searchresultitem');
+
+                    var $a = $('<a></a>')
+                        .attr('href', url);
+
+                    var $h3 = $('<h3></h3>')
+                        .addClass('searchresulttitle')
+                        .html(result[item].title + videosearchicon);
+
+                    var $p = $('<p></p>')
+                        .addClass('searchresultsnippet')
+                        .text(result[item].snippet);
+
+                    $a
+                        .append($h3)
+                        .append($p)
+                        .appendTo($li);
                 } else {
-                    var searchitem = '<li class="searchresultitem-nosnippet"><a href="' + url + '">' + result[item].title + '</a></li>';
+                    var $li = $('<li></li>')
+                        .addClass('searchresultitem-nosnippet');
+
+                    var $a = $('<a></a>')
+                        .attr('href', url)
+                        .text(result[item].title);
+
+                    $li.append($a);
                 }
                 
-                $ul.append(searchitem);
+                $ul.append($li);
             }
             
             showSearch($resultcontainer);

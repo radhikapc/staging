@@ -69,7 +69,8 @@ function addPopover() {
 }
 
 $(document).ready(function () {
-    if ($("aside ul.toc").length) {
+    //If not using standalone toc, we still need to call all the functions in toc ready, otherwise it's done when creating the standalone toc
+    if ($(".standalone-toc").length == 0) {
         $(document).trigger('toc.ready');
     }
     

@@ -26,14 +26,13 @@
 	}
 }
 html {
-/*	background: url(image/body-background.jpg) no-repeat center center fixed; */
-  background-color: rgb(230, 230, 230);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+	background-color: rgb(230, 230, 230);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
-body {
+body#index-page {
 	background: transparent;
 	color: #333;
 	height: auto;
@@ -96,14 +95,9 @@ body {
 #main ul li a:hover > .glyphicon {
 	visibility: visible;
 }
-
-#main ul li a:link,
-#main ul li a:visited {
-}
 #logotype {
 	height: 160px;
 	width: 160px;
-	/* background-color: orange; */
 	position: absolute;
 	right: 0px;
 	top: -100px;
