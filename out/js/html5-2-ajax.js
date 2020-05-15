@@ -70,7 +70,8 @@ function addPopover() {
 
 $(document).ready(function () {
     //If not using standalone toc, we still need to call all the functions in toc ready, otherwise it's done when creating the standalone toc
-    if ($(".standalone-toc").length == 0) {
+    var tocstandalone = document.querySelector('meta[name="tocstandalone"]').content;
+    if(tocstandalone == 'no'){
         $(document).trigger('toc.ready');
     }
     

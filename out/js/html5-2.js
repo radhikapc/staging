@@ -1,9 +1,10 @@
 $(document).ready(function () {
 
     //If not using standalone toc, we still need to call all the functions in toc ready, otherwise it's done when creating the standalone toc
-    if ($(".standalone-toc").length == 0) {
+    var tocstandalone = document.querySelector('meta[name="tocstandalone"]').content;
+    if(tocstandalone == 'no'){
         $(document).trigger('toc.ready');
-    }   
+    } 
     
     /*If a link target is a hidden accordion, first display it:
     =========*/
@@ -140,4 +141,10 @@ $(document).on('toc.ready', function () {
     /*Swagger embed needs the nav arrow for dynamically loaded sub toc:*/
     var glyphicon = "<span class='glyphicon'></span>"; 
     $('ul.nav-site-sidebar .swagger-topic').append(glyphicon);    
+    
+            /*Collapse sections:*/
+    $(".nav-site-sidebar a .glyphicon").click(function (e) {
+        e.preventDefault();
+        $(this).closest("li").toggleClass("opened");
+    });
 });

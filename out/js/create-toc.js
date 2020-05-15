@@ -31,7 +31,7 @@ $(document).ready(function () {
     
     var result = parseNodes(toc);
     
-    result.setAttribute('class', 'toc nav nav-site-sidebar standalone-toc');
+    result.setAttribute('class', 'toc nav nav-site-sidebar');
     
     //============
     

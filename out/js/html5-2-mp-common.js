@@ -11,12 +11,6 @@ $(document).ready(function () {
     $(".collapsible-sidebar-nav .site-sidebar-header .navbar-toggle").click(function() {
         $(".site-body-row").toggleClass("collapse-sidebar-nav");
     });
-    
-    /*Collapse sections:*/
-    $(".nav-site-sidebar a .glyphicon").click(function (e) {
-        e.preventDefault();
-        $(this).closest("li").toggleClass("opened");
-    });
 
     /*Accordion glyphs:*/
     $(document.body).on('click', '.panel-heading .titlepage', function (event) {
