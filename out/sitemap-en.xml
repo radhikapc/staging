@@ -162,7 +162,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2020-04-10</lastmod>
+    <lastmod>2020-05-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels-202953.html</loc>
@@ -314,7 +314,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
-    <lastmod>2020-04-02</lastmod>
+    <lastmod>2020-05-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
@@ -338,11 +338,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-prometheus-metrics.html</loc>
-    <lastmod>2020-05-14</lastmod>
+    <lastmod>2020-05-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/working-with-prometheus-metrics.html</loc>
-    <lastmod>2020-05-15</lastmod>
+    <lastmod>2020-05-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/setting-up-the-environment.html</loc>
@@ -350,23 +350,23 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configuring-sysdig-agent.html</loc>
-    <lastmod>2020-05-14</lastmod>
+    <lastmod>2020-05-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/example-configuration.html</loc>
-    <lastmod>2020-01-02</lastmod>
+    <lastmod>2020-05-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enforcing-limit-on-prometheus-metric-collection.html</loc>
-    <lastmod>2020-05-13</lastmod>
+    <lastmod>2020-05-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/filtering-prometheus-metrics.html</loc>
-    <lastmod>2020-05-07</lastmod>
+    <lastmod>2020-05-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/limit-prometheus-metric-collection.html</loc>
-    <lastmod>2020-05-15</lastmod>
+    <lastmod>2020-05-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/collecting-prometheus-metrics-from-remote-hosts.html</loc>
