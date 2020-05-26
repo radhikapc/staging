@@ -129,6 +129,8 @@ function addSearch() {
                 if ($('.portal-search-result').length) {
                     url = portalLanguage + '/' + storelocal[ref].href;
                 }
+                
+                var videosearchicon = ''; //NA for this search
 
                 if (storelocal[ref].snippet !== '') {
                     var $li = $('<li></li>')

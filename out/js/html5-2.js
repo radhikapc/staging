@@ -1,10 +1,13 @@
 $(document).ready(function () {
 
     //If not using standalone toc, we still need to call all the functions in toc ready, otherwise it's done when creating the standalone toc
-    var tocstandalone = document.querySelector('meta[name="tocstandalone"]').content;
-    if(tocstandalone == 'no'){
-        $(document).trigger('toc.ready');
-    } 
+    var tocmeta = document.querySelector('meta[name="tocstandalone"]');
+    if(tocmeta){
+        var tocstandalone = document.querySelector('meta[name="tocstandalone"]').content;
+        if(tocstandalone == 'no'){
+            $(document).trigger('toc.ready');
+        } 
+    }
     
     /*If a link target is a hidden accordion, first display it:
     =========*/
