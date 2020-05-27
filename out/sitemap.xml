@@ -349,6 +349,10 @@
     <lastmod>2019-11-22</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/configure-agent-profile.html</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/filter-data.html</loc>
     <lastmod>2020-04-16</lastmod>
   </url>
@@ -370,14 +374,6 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-uninstall.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/agent-upgrade-206799.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/agent-uninstall-206800.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
