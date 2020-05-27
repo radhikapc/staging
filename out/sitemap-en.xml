@@ -266,7 +266,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-platform.html</loc>
-    <lastmod>2020-05-08</lastmod>
+    <lastmod>2020-05-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
@@ -315,6 +315,70 @@
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
     <lastmod>2020-05-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/sysdig-agent.html</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
+    <lastmod>2020-04-06</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/host-requirements-for-agent-installation.html</loc>
+    <lastmod>2020-03-31</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/agent-install--kubernetes.html</loc>
+    <lastmod>2020-04-04</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/agent-install--non-orchestrated.html</loc>
+    <lastmod>2020-04-04</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/troubleshooting-agent-installation.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/agent-configuration.html</loc>
+    <lastmod>2019-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/understand-agent-config.html</loc>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/filter-data.html</loc>
+    <lastmod>2020-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/enable-kube-state-metrics.html</loc>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/use-go-to-process-kubernetes-events.html</loc>
+    <lastmod>2020-01-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/agent-auto-config.html</loc>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/agent-upgrade.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/agent-uninstall.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/agent-upgrade-206799.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/agent-uninstall-206800.html</loc>
+    <lastmod>2019-09-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
