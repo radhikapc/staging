@@ -13,7 +13,7 @@
   $(".cat-panel-5").closest("a").prepend("<img src='" + icon5 + "'></img>");
   $(".cat-panel-6").closest("a").prepend("<img src='" + icon6 + "'></img>");
   $(".publication-icon").remove();
-  $('.portal-header h1').text('Welcome to the Sysdig Staging Documentation Hub!');
+  $('.portal-header h1').text('Welcome to the Sysdig Staging Doc Hub!');
   $( "<p class='intro-para'>Explore the new sections we have added recently. We encourage you to report issues by filing JIRA Tickets</a>.</p>" ).insertAfter('.portal-search')
   //$( "<p class='intro-para'> This is our brand-new Doc site. You may encounter some broken links and missing images. We are actively working on it. <br />In the meantime, explore the site and let us know what you think. Send your feedback to <a>doc-feedback@sysdig.com</a>.</p>" ).insertAfter('.portal-search')
  });
