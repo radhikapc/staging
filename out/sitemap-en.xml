@@ -452,4 +452,8 @@
     <loc>https://docs.sysdig.com/en/integrate-jmx-metrics-from-java-virtual-machines.html</loc>
     <lastmod>2020-06-01</lastmod>
   </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/sysdig-secure.html</loc>
+    <lastmod>2020-06-01</lastmod>
+  </url>
 </urlset>
