@@ -900,7 +900,7 @@ html {
 /* Safari 11+ (scroll-padding-top not supported in Safari yet) */
 @media not all and (min-resolution:.001dpcm)
 { @supports (-webkit-appearance:none) and (stroke-color:transparent) {
-    :target { 
+    .section:target { 
         padding-top: 80px;
         margin-top: -80px;
     }

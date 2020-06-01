@@ -1,3 +1,22 @@
+
+//Polyfill for supporting IE for anchor links:
+if (!Element.prototype.matches) {
+  Element.prototype.matches = Element.prototype.msMatchesSelector || 
+                              Element.prototype.webkitMatchesSelector;
+}
+
+if (!Element.prototype.closest) {
+  Element.prototype.closest = function(s) {
+    var el = this;
+
+    do {
+      if (Element.prototype.matches.call(el, s)) return el;
+      el = el.parentElement || el.parentNode;
+    } while (el !== null && el.nodeType === 1);
+    return null;
+  };
+}
+
 function setAnchors() {
     
     $("#topic-content section.section, #topic-content .example, #topic-content .procedure, #topic-content .figure, #topic-content .table, #topic-content .bridgehead, #topic-content .note, #topic-content .warning, #topic-content .caution, #topic-content .important, #topic-content .tip").each(function (index) {
