@@ -394,7 +394,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-integrations.html</loc>
-    <lastmod>2020-05-13</lastmod>
+    <lastmod>2020-06-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-prometheus-metrics.html</loc>
@@ -447,5 +447,9 @@
   <url>
     <loc>https://docs.sysdig.com/en/legacy-prometheus-application-check.html</loc>
     <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/integrate-jmx-metrics-from-java-virtual-machines.html</loc>
+    <lastmod>2020-06-01</lastmod>
   </url>
 </urlset>
