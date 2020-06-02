@@ -44,12 +44,15 @@ function addSearch() {
         templates: {
             //'suggestion' templating function used to render a single suggestion
             suggestion: function (suggestion) {
+                var body = suggestion._highlightResult.body.value;
+
+                // Escape tags
+                body = body.replace(/\</g, '&lt;');
+                body = body.replace(/\>/g, '&gt;');
+
                 var html = '<a href="' + up + suggestion.url + '"><div class="aa-search-title">' +
                 suggestion._highlightResult.title.value + '</div><div class="aa-search-body">' +
-                suggestion._highlightResult.body.value + '</div></a>';
-
-                // Fix script tags executing automatically
-                html = html.replace('<script>', "<script&#8232;>");
+                body + '</div></a>';
 
                 return html;
             }
