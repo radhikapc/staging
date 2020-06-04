@@ -94,7 +94,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics-dictionary.html</loc>
-    <lastmod>2020-02-21</lastmod>
+    <lastmod>2020-06-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes.html</loc>
@@ -107,6 +107,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes-state.html</loc>
     <lastmod>2020-02-26</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/host-uname.html</loc>
+    <lastmod>2020-06-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
@@ -342,7 +346,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-configuration.html</loc>
-    <lastmod>2019-09-24</lastmod>
+    <lastmod>2020-06-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understand-agent-config.html</loc>
@@ -350,7 +354,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-sysdig-monitor-using-agent-modes.html</loc>
-    <lastmod>2020-06-03</lastmod>
+    <lastmod>2020-06-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/filter-data.html</loc>

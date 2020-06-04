@@ -47,8 +47,12 @@ function addSearch() {
                 var body = suggestion._highlightResult.body.value;
 
                 // Escape tags
+                body = body.replace(/\<em\>/g, '[PALIGO-EM-REPLACEMENT-FIX-1]');
+                body = body.replace(/\<\/em\>/g, '[PALIGO-EM-REPLACEMENT-FIX-2]');
                 body = body.replace(/\</g, '&lt;');
                 body = body.replace(/\>/g, '&gt;');
+                body = body.replace(/\[PALIGO-EM-REPLACEMENT-FIX-1\]/g, '<em>');
+                body = body.replace(/\[PALIGO-EM-REPLACEMENT-FIX-2\]/g, '</em>');
 
                 var html = '<a href="' + up + suggestion.url + '"><div class="aa-search-title">' +
                 suggestion._highlightResult.title.value + '</div><div class="aa-search-body">' +

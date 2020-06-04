@@ -8,10 +8,10 @@
   <param name="algolia.custom.index.name" select=""/>
   <param name="use.fuse.search" select="1"/>
   <param name="use.multilingual.default.search" select="0"/>
-  <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-207357/5ed7eedc5ddd4.css"/>
-  <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-207357/5e13b4402172e.png"/>
-  <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-207357/5ed7e2e07a100.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5ed7eeebb952a7.65717450/200967-Staging_Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
+  <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-201226/5e209bd71e919.css"/>
+  <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-201226/5e13b4402172e.png"/>
+  <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-201226/5d3f76a79081d.png"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5ed9434e9cf279.94008435/200967-Staging_Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2020 Sysdig "/>
@@ -23,7 +23,7 @@
   <param name="google.analytics" select="UA-40398182-24"/>
   <param name="google.analytics.type" select="gtag"/>
   <param name="user.custom.script" select="0"/>
-  <param name="layout.custom.script" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-207357/5ed57623b7cd8.js"/>
+  <param name="layout.custom.script" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-201226/5ed57623b7cd8.js"/>
   <param name="create.sitemap" select="1"/>
   <param name="destination.domain" select="https://docs.sysdig.com"/>
   <param name="submit.feedback" select="1"/>

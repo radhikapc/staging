@@ -55,4 +55,4 @@ instantsearch.widgets.hierarchicalMenu({
 }));
 
 
-search.start();
+/* search.start(); */ // moved to the end of search.html

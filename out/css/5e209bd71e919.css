@@ -45,10 +45,10 @@ topic-content .breadcrumb {
 
 /* replace header background */
 .portal-content .portal-header:after {
-    background-color: auto;
+    background-color: #EEF3F3;
     background-size: auto;
     background-repeat: repeat;
-    background-image: url(https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/uploads/doc-site-banner.svg);
+    background-image: linear-gradient(90deg, rgba(195,210,212,0.6) 0, rgba(255,255,255,0) 20%),linear-gradient(-90deg, rgba(195,210,212,0.6) 0, rgba(255,255,255,0) 20%),url(https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/themes/sysdig/assets/images/patterns/blockbits-gray-v1.svg);
     background-position: center;
 }
 .portal-header:after {
