@@ -8,10 +8,10 @@
   <param name="algolia.custom.index.name" select=""/>
   <param name="use.fuse.search" select="1"/>
   <param name="use.multilingual.default.search" select="0"/>
-  <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-207357/5ed96094e9e6a.css"/>
+  <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-207357/5edab8d4b4a03.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-207357/5e13b4402172e.png"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-207357/5ed7e2e07a100.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5ed960a3128376.82476697/200967-Staging_Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5edab8f3621ad3.85859244/200967-Staging_Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2020 Sysdig "/>
