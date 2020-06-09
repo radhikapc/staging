@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-on-premises-release-notes.html</loc>
-    <lastmod>2020-01-10</lastmod>
+    <lastmod>2020-06-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
@@ -166,23 +166,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels-202953.html</loc>
-    <lastmod>2020-02-03</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/timechart-panel.html</loc>
     <lastmod>2020-06-09</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/number-panel.html</loc>
-    <lastmod>2020-04-01</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/toplist.html</loc>
-    <lastmod>2020-04-01</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/table-panel.html</loc>
-    <lastmod>2020-04-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sharing-new-dashboards.html</loc>
@@ -285,11 +269,11 @@
     <lastmod>2020-06-09</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/managing-dashboards-208180.html</loc>
+    <loc>https://docs.sysdig.com/en/dashboards-types.html</loc>
     <lastmod>2020-06-09</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/managing-dashboards-208181.html</loc>
+    <loc>https://docs.sysdig.com/en/set-a-default-dashboard.html</loc>
     <lastmod>2020-06-09</lastmod>
   </url>
   <url>
@@ -305,6 +289,10 @@
     <lastmod>2020-06-09</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/create-a-new-panel.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/configure-new-dashboard-208185.html</loc>
     <lastmod>2020-02-20</lastmod>
   </url>
@@ -314,22 +302,22 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels-208188.html</loc>
-    <lastmod>2020-02-03</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/timechart-panel-202958.html</loc>
     <lastmod>2020-06-09</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/number-panel-202646.html</loc>
+    <loc>https://docs.sysdig.com/en/timechart-panel.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/number-panel.html</loc>
     <lastmod>2020-04-01</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/toplist-201943.html</loc>
+    <loc>https://docs.sysdig.com/en/table-panel.html</loc>
     <lastmod>2020-04-01</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/table-panel-202925.html</loc>
+    <loc>https://docs.sysdig.com/en/toplist.html</loc>
     <lastmod>2020-04-01</lastmod>
   </url>
   <url>
