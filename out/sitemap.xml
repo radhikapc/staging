@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2020-02-21</lastmod>
+    <lastmod>2020-06-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started.html</loc>
@@ -162,7 +162,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2020-05-16</lastmod>
+    <lastmod>2020-06-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels-202953.html</loc>
@@ -170,7 +170,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/timechart-panel.html</loc>
-    <lastmod>2020-04-01</lastmod>
+    <lastmod>2020-06-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/number-panel.html</loc>
@@ -263,6 +263,82 @@
   <url>
     <loc>https://docs.sysdig.com/en/review-a-capture-file.html</loc>
     <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/dashboards-208174.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/about-the-dashboard-ui.html</loc>
+    <lastmod>2020-05-28</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/dashboard-scope-208176.html</loc>
+    <lastmod>2020-05-29</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-dashboards-208269.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/managing-dashboards-208179.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/managing-dashboards-208180.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/managing-dashboards-208181.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/sharing-new-dashboards-208183.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/rbac-rules-for-dashboards.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-panels-208189.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-new-dashboard-208185.html</loc>
+    <lastmod>2020-02-20</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/using-promql-208186.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/types-of-panels-208188.html</loc>
+    <lastmod>2020-02-03</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/timechart-panel-202958.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/number-panel-202646.html</loc>
+    <lastmod>2020-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/toplist-201943.html</loc>
+    <lastmod>2020-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/table-panel-202925.html</loc>
+    <lastmod>2020-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/managing-panels-208187.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/pre-defined-dashboards-208190.html</loc>
+    <lastmod>2020-06-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-platform.html</loc>
