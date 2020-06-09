@@ -321,11 +321,19 @@
     <lastmod>2020-04-01</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/text.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/histogram.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/managing-panels-208187.html</loc>
     <lastmod>2020-06-09</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/pre-defined-dashboards-208190.html</loc>
+    <loc>https://docs.sysdig.com/en/dashboard-templates.html</loc>
     <lastmod>2020-06-09</lastmod>
   </url>
   <url>
