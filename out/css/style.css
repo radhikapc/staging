@@ -592,9 +592,10 @@ div.caption{
 /**
  * Mediaobject containers
  */
-.mediaobject table {
-    width: 100%;
+.mediaobject table:not([width]) {
+  width: 100%;
 }
+
 .mediaobject table td {
     padding-right: 50px;
     text-align: left;

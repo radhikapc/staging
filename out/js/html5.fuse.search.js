@@ -104,7 +104,7 @@ function addSearch() {
     });
     
     $('.portal-content, .site-content').click(function (e) {
-        if(typeof(e.target.closest('.toolbar')) == 'undefined' || e.target.closest('.toolbar') == null){
+        if($(e.target).closest('.toolbar').length === 0){
             hideSearch($resultcontainer);
         }
     });

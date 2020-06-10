@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2020-06-09</lastmod>
+    <lastmod>2020-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started.html</loc>
@@ -157,12 +157,12 @@
     <lastmod>2020-04-10</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/configure-new-dashboard.html</loc>
-    <lastmod>2020-02-20</lastmod>
+    <loc>https://docs.sysdig.com/en/create-a-new-panel.html</loc>
+    <lastmod>2020-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2020-06-09</lastmod>
+    <lastmod>2020-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels-202953.html</loc>
@@ -257,6 +257,10 @@
     <lastmod>2020-05-28</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/using-promql-208424.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope-208176.html</loc>
     <lastmod>2020-05-29</lastmod>
   </url>
@@ -289,16 +293,8 @@
     <lastmod>2020-06-09</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/create-a-new-panel.html</loc>
-    <lastmod>2020-06-09</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/configure-new-dashboard-208185.html</loc>
-    <lastmod>2020-02-20</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/using-promql-208186.html</loc>
-    <lastmod>2020-06-09</lastmod>
+    <loc>https://docs.sysdig.com/en/create-a-new-panel-208185.html</loc>
+    <lastmod>2020-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels-208188.html</loc>
