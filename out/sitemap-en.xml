@@ -266,7 +266,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-dashboards-208269.html</loc>
-    <lastmod>2020-06-09</lastmod>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/create-a-new-dashboard.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-dashboard-layout.html</loc>
+    <lastmod>2020-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/managing-dashboards-208179.html</loc>
@@ -326,7 +334,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/managing-panels-208187.html</loc>
-    <lastmod>2020-06-09</lastmod>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/create-panel-alerts-202263.html</loc>
+    <lastmod>2020-02-06</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/export-panel-data-203061.html</loc>
+    <lastmod>2020-02-06</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-templates.html</loc>
@@ -337,15 +353,31 @@
     <lastmod>2020-06-10</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/compliance-dashboards.html</loc>
+    <loc>https://docs.sysdig.com/en/compliance---security-dashboards.html</loc>
     <lastmod>2020-06-10</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/hosts-and-containers-dashboards.html</loc>
+    <loc>https://docs.sysdig.com/en/containers-dashboards.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/hosts-infrastructure-dashboards.html</loc>
     <lastmod>2020-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes-dashboards.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/marathon-dashboards.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/mesos-dashboards.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/troubleshooting-dashboards.html</loc>
     <lastmod>2020-06-10</lastmod>
   </url>
   <url>
