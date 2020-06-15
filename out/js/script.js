@@ -222,8 +222,9 @@ $(document).on('toc.ready', function(){
     if (useanchorlinks) {
         setAnchors();
     }
-
-	$('#topic-content table').addClass('table');
+    
+	//JM: exclude image-viewport from getting the table class. PAL2-3275
+	$('#topic-content table:not(.image-viewport)').addClass('table');
 	
 	/* make the toc navigation sticky */
 	if ($.isFunction($.fn.sticky)){

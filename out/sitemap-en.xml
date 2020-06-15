@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2020-06-11</lastmod>
+    <lastmod>2020-06-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started.html</loc>
@@ -145,6 +145,10 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/delete-an-existing-panel.html</loc>
+    <lastmod>2020-06-15</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/visualizing-metrics-using-the-topology-view.html</loc>
     <lastmod>2020-04-06</lastmod>
   </url>
@@ -258,7 +262,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/about-the-dashboard-ui.html</loc>
-    <lastmod>2020-05-28</lastmod>
+    <lastmod>2020-06-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql-208424.html</loc>
@@ -266,7 +270,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope-208176.html</loc>
-    <lastmod>2020-05-29</lastmod>
+    <lastmod>2020-06-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-dashboards-208269.html</loc>
@@ -274,11 +278,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/create-a-new-dashboard.html</loc>
-    <lastmod>2020-06-10</lastmod>
+    <lastmod>2020-06-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-templates.html</loc>
-    <lastmod>2020-06-11</lastmod>
+    <lastmod>2020-06-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-dashboard-layout.html</loc>
@@ -310,7 +314,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/rbac-rules-for-dashboards.html</loc>
-    <lastmod>2020-06-09</lastmod>
+    <lastmod>2020-06-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-panels-208189.html</loc>
@@ -346,7 +350,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/histogram.html</loc>
-    <lastmod>2020-06-09</lastmod>
+    <lastmod>2020-06-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/managing-panels-208187.html</loc>
@@ -363,6 +367,14 @@
   <url>
     <loc>https://docs.sysdig.com/en/copy-panels-to-a-different-dashboards.html</loc>
     <lastmod>2020-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/duplicate-a-panel.html</loc>
+    <lastmod>2020-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/delete-an-existing-panel-208481.html</loc>
+    <lastmod>2020-06-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-templates-208190.html</loc>
