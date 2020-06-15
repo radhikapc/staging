@@ -27,6 +27,14 @@ topic-content .breadcrumb {
   font-weight: bold;
 }
 
+/* size of the log */
+
+.portal-header .logo {
+    margin-bottom: 0;
+    height: 65px; 
+    width:180;
+}
+
 .portal-single-publication h3,
 .publication-contents a {
   color: #0a1429;
