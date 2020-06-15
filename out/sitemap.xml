@@ -170,7 +170,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2020-06-10</lastmod>
+    <lastmod>2020-06-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels-202953.html</loc>
@@ -258,7 +258,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards-208174.html</loc>
-    <lastmod>2020-06-10</lastmod>
+    <lastmod>2020-06-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/about-the-dashboard-ui.html</loc>
@@ -266,7 +266,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql-208424.html</loc>
-    <lastmod>2020-06-10</lastmod>
+    <lastmod>2020-06-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope-208176.html</loc>
