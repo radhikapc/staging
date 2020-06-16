@@ -212,6 +212,7 @@ function search(e, searchfield) {
                     $a
                         .append($h3)
                         .append($p)
+                        .append(pathdisplay)
                         .appendTo($li);
                 } else {
                     var $li = $('<li></li>')
