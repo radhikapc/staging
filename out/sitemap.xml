@@ -170,7 +170,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels-202953.html</loc>
@@ -234,7 +234,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/downtime-alert.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2020-06-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/anomaly-detection-alerts.html</loc>
@@ -262,11 +262,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/about-the-dashboard-ui.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql-208424.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope-208176.html</loc>
@@ -585,8 +585,8 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/configure-sysdig-datasource-for-grafana.html</loc>
-    <lastmod>2020-05-14</lastmod>
+    <loc>https://docs.sysdig.com/en/configure-sysdig-with-grafana.html</loc>
+    <lastmod>2020-06-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/logging-and-troubleshooting.html</loc>
