@@ -42,7 +42,7 @@ $(document).ready(function () {
         container: 'body',
         html: true,
         content: function () {
-            var clone = $($(this).data('popover-content')).clone(true).removeClass('hide');
+            var clone = $('.glossary-definitions ' + $(this).data('popover-content')).first().clone(true).removeClass('hide');
             return clone;
         }
     });

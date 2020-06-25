@@ -55,6 +55,8 @@ function showCurrentLanguage(portalLanguage) {
     //Show/hide more category panels, only for the current language
     $("*[data-portal-language='" + portalLanguage + "'] .portal-single-publication:not(:lt(" + categoriesShown + "))").hide();
     var pageUrl = '?lang=' + portalLanguage;
+    var pageTitle = languageTitleMap[portalLanguage];
+    if (pageTitle) {$("html head title").text(pageTitle);}
     window.history.pushState('', '', pageUrl);
     addSearch();
 }
