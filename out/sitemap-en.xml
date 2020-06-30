@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-07-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started.html</loc>
@@ -47,6 +47,162 @@
   <url>
     <loc>https://docs.sysdig.com/en/workloads-data.html</loc>
     <lastmod>2020-06-23</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/dashboards.html</loc>
+    <lastmod>2020-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/about-the-dashboard-ui.html</loc>
+    <lastmod>2020-06-17</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/using-promql.html</loc>
+    <lastmod>2020-06-17</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
+    <lastmod>2020-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-dashboards.html</loc>
+    <lastmod>2020-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/create-a-new-dashboard.html</loc>
+    <lastmod>2020-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/dashboard-templates.html</loc>
+    <lastmod>2020-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-dashboard-layout.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/delete-a-dashboard.html</loc>
+    <lastmod>2020-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/managing-dashboards.html</loc>
+    <lastmod>2020-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/dashboards-types.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/set-a-default-dashboard.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/display-dashboard-specific-events.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/sharing-new-dashboards.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/rbac-rules-for-dashboards.html</loc>
+    <lastmod>2020-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-panels.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/create-a-new-panel.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/types-of-panels.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/timechart-panel.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/number-panel.html</loc>
+    <lastmod>2020-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/table-panel.html</loc>
+    <lastmod>2020-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/toplist.html</loc>
+    <lastmod>2020-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/text.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/histogram.html</loc>
+    <lastmod>2020-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/managing-panels.html</loc>
+    <lastmod>2020-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/create-panel-alerts.html</loc>
+    <lastmod>2020-02-06</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/export-panel-data.html</loc>
+    <lastmod>2020-02-06</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/copy-panels-to-a-different-dashboards.html</loc>
+    <lastmod>2020-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/duplicate-a-panel.html</loc>
+    <lastmod>2020-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/delete-an-existing-panel.html</loc>
+    <lastmod>2020-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/dashboard-templates-208190.html</loc>
+    <lastmod>2020-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/aws-cloudwatch-dashboards.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/compliance---security-dashboards.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/containers-dashboards.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/hosts-infrastructure-dashboards.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/kubernetes-dashboards.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/marathon-dashboards.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/mesos-dashboards.html</loc>
+    <lastmod>2020-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/troubleshooting-dashboards.html</loc>
+    <lastmod>2020-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/explore.html</loc>
@@ -107,86 +263,6 @@
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes-state.html</loc>
     <lastmod>2020-02-26</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/dashboards.html</loc>
-    <lastmod>2020-01-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
-    <lastmod>2019-09-27</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/managing-dashboards.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/configure-dashboards.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/delete-a-dashboard.html</loc>
-    <lastmod>2020-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/configure-panels.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/types-of-panels.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/create-panels.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/managing-panels.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/delete-an-existing-panel.html</loc>
-    <lastmod>2020-06-15</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/visualizing-metrics-using-the-topology-view.html</loc>
-    <lastmod>2020-04-06</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/pre-defined-dashboards.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/save-and-restore-dashboards-with-scripts.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/new-dashboards.html</loc>
-    <lastmod>2020-04-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/create-a-new-panel.html</loc>
-    <lastmod>2020-06-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2020-06-17</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/types-of-panels-202953.html</loc>
-    <lastmod>2020-06-09</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/sharing-new-dashboards.html</loc>
-    <lastmod>2020-02-06</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/create-panel-alerts.html</loc>
-    <lastmod>2020-02-06</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/export-panel-data.html</loc>
-    <lastmod>2020-02-06</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/events.html</loc>
@@ -257,160 +333,28 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/dashboards-208174.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <loc>https://docs.sysdig.com/en/sysdig-integrations.html</loc>
+    <lastmod>2020-06-01</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/about-the-dashboard-ui.html</loc>
-    <lastmod>2020-06-17</lastmod>
+    <loc>https://docs.sysdig.com/en/integrate-prometheus-metrics.html</loc>
+    <lastmod>2020-05-20</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/using-promql-208424.html</loc>
-    <lastmod>2020-06-17</lastmod>
+    <loc>https://docs.sysdig.com/en/integrate-jmx-metrics-from-java-virtual-machines.html</loc>
+    <lastmod>2020-06-01</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/dashboard-scope-208176.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <loc>https://docs.sysdig.com/en/integrate-statsd-metrics.html</loc>
+    <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/configure-dashboards-208269.html</loc>
-    <lastmod>2020-06-11</lastmod>
+    <loc>https://docs.sysdig.com/en/integrate-node-js-application-metrics.html</loc>
+    <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/create-a-new-dashboard.html</loc>
-    <lastmod>2020-06-15</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/dashboard-templates.html</loc>
-    <lastmod>2020-06-15</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/configure-dashboard-layout.html</loc>
-    <lastmod>2020-06-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/delete-a-dashboard-208272.html</loc>
-    <lastmod>2020-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/managing-dashboards-208179.html</loc>
-    <lastmod>2020-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/dashboards-types.html</loc>
-    <lastmod>2020-06-09</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/set-a-default-dashboard.html</loc>
-    <lastmod>2020-06-09</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/display-dashboard-specific-events.html</loc>
-    <lastmod>2020-06-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/sharing-new-dashboards-208183.html</loc>
-    <lastmod>2020-06-09</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/rbac-rules-for-dashboards.html</loc>
-    <lastmod>2020-06-15</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/configure-panels-208189.html</loc>
-    <lastmod>2020-06-09</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/create-a-new-panel-208185.html</loc>
-    <lastmod>2020-06-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/types-of-panels-208188.html</loc>
-    <lastmod>2020-06-09</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/timechart-panel.html</loc>
-    <lastmod>2020-06-09</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/number-panel.html</loc>
-    <lastmod>2020-04-01</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/table-panel.html</loc>
-    <lastmod>2020-04-01</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/toplist.html</loc>
-    <lastmod>2020-04-01</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/text.html</loc>
-    <lastmod>2020-06-09</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/histogram.html</loc>
-    <lastmod>2020-06-19</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/managing-panels-208187.html</loc>
-    <lastmod>2020-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/create-panel-alerts-208477.html</loc>
-    <lastmod>2020-02-06</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/export-panel-data-208478.html</loc>
-    <lastmod>2020-02-06</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/copy-panels-to-a-different-dashboards.html</loc>
-    <lastmod>2020-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/duplicate-a-panel.html</loc>
-    <lastmod>2020-06-15</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/delete-an-existing-panel-208481.html</loc>
-    <lastmod>2020-06-15</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/dashboard-templates-208190.html</loc>
-    <lastmod>2020-06-09</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/aws-cloudwatch-dashboards.html</loc>
-    <lastmod>2020-06-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/compliance---security-dashboards.html</loc>
-    <lastmod>2020-06-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/containers-dashboards.html</loc>
-    <lastmod>2020-06-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/hosts-infrastructure-dashboards.html</loc>
-    <lastmod>2020-06-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/kubernetes-dashboards.html</loc>
-    <lastmod>2020-06-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/marathon-dashboards.html</loc>
-    <lastmod>2020-06-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/mesos-dashboards.html</loc>
-    <lastmod>2020-06-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/troubleshooting-dashboards.html</loc>
-    <lastmod>2020-06-10</lastmod>
+    <loc>https://docs.sysdig.com/en/monitor-log-files.html</loc>
+    <lastmod>2019-09-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-platform.html</loc>
@@ -465,6 +409,22 @@
     <lastmod>2020-05-16</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
+    <lastmod>2020-03-17</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/working-with-the-data-api.html</loc>
+    <lastmod>2020-03-18</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/guidelines-for-using-data-api.html</loc>
+    <lastmod>2020-03-17</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/sysdig-api.html</loc>
+    <lastmod>2020-02-07</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent.html</loc>
     <lastmod>2020-05-28</lastmod>
   </url>
@@ -477,12 +437,32 @@
     <lastmod>2020-06-22</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/kernel-header-troubleshooting.html</loc>
+    <lastmod>2020-03-31</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/agent-install--kubernetes.html</loc>
+    <lastmod>2020-04-04</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/steps-for-kubernetes--vanilla-.html</loc>
+    <lastmod>2020-04-04</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/steps-for-gke.html</loc>
+    <lastmod>2020-04-04</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/steps-for-openshift.html</loc>
     <lastmod>2020-04-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--non-orchestrated.html</loc>
     <lastmod>2020-04-04</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/agent-install--iks--ibm-cloud-with-sysdig-.html</loc>
+    <lastmod>2020-04-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-agent-installation.html</loc>
@@ -505,12 +485,40 @@
     <lastmod>2020-04-16</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/blacklist-ports.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/enable-disable-event-data.html</loc>
+    <lastmod>2019-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/include-exclude-custom-metrics.html</loc>
+    <lastmod>2019-09-26</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/prioritize-include-exclude-designated-containers.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/include-exclude-processes.html</loc>
+    <lastmod>2020-02-28</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/disable-captures.html</loc>
+    <lastmod>2019-09-24</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/enable-kube-state-metrics.html</loc>
     <lastmod>2019-11-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/use-go-to-process-kubernetes-events.html</loc>
     <lastmod>2020-01-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/change-agent-log-level.html</loc>
+    <lastmod>2020-05-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-auto-config.html</loc>
@@ -523,82 +531,6 @@
   <url>
     <loc>https://docs.sysdig.com/en/agent-uninstall.html</loc>
     <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
-    <lastmod>2020-03-17</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/working-with-the-data-api.html</loc>
-    <lastmod>2020-03-18</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/guidelines-for-using-data-api.html</loc>
-    <lastmod>2020-03-17</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/sysdig-api.html</loc>
-    <lastmod>2020-02-07</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/sysdig-integrations.html</loc>
-    <lastmod>2020-06-01</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/integrate-prometheus-metrics.html</loc>
-    <lastmod>2020-05-20</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/working-with-prometheus-metrics.html</loc>
-    <lastmod>2020-05-19</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/setting-up-the-environment.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/configuring-sysdig-agent.html</loc>
-    <lastmod>2020-05-20</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/example-configuration.html</loc>
-    <lastmod>2020-05-19</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/enforcing-limit-on-prometheus-metric-collection.html</loc>
-    <lastmod>2020-05-20</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/filtering-prometheus-metrics.html</loc>
-    <lastmod>2020-05-20</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/limit-prometheus-metric-collection.html</loc>
-    <lastmod>2020-05-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/collecting-prometheus-metrics-from-remote-hosts.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/enabling-histogram-metrics.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/configure-sysdig-with-grafana.html</loc>
-    <lastmod>2020-06-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/logging-and-troubleshooting.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/legacy-prometheus-application-check.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/integrate-jmx-metrics-from-java-virtual-machines.html</loc>
-    <lastmod>2020-06-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-secure.html</loc>
