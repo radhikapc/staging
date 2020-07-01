@@ -253,6 +253,14 @@
     <lastmod>2020-06-04</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/mapping-legacy-sysdig-kubernetes-metrics-with-promql-metrics.html</loc>
+    <lastmod>2020-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/mapping-between-classic-metrics-and-promql-metrics.html</loc>
+    <lastmod>2020-07-01</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/kubernetes.html</loc>
     <lastmod>2020-02-25</lastmod>
   </url>
