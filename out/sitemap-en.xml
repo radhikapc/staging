@@ -58,7 +58,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2020-06-17</lastmod>
+    <lastmod>2020-07-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
@@ -270,7 +270,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes-state.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-07-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/events.html</loc>
@@ -350,7 +350,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-jmx-metrics-from-java-virtual-machines.html</loc>
-    <lastmod>2020-06-01</lastmod>
+    <lastmod>2020-07-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-statsd-metrics.html</loc>
@@ -366,7 +366,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-platform.html</loc>
-    <lastmod>2020-05-28</lastmod>
+    <lastmod>2020-07-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
@@ -375,6 +375,66 @@
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
     <lastmod>2020-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/installer--kubernetes---openshift---3-5-0-.html</loc>
+    <lastmod>2020-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/manual-install-3-0-0---kubernetes-.html</loc>
+    <lastmod>2020-07-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/manual-install--openshift-.html</loc>
+    <lastmod>2020-07-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/install-with-replicated.html</loc>
+    <lastmod>2019-11-21</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/troubleshooting-on-premises-installation.html</loc>
+    <lastmod>2019-12-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/on-premises-upgrades.html</loc>
+    <lastmod>2020-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/manual-upgrade--3-0-0--.html</loc>
+    <lastmod>2020-07-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/installer-upgrade--2-5-0--.html</loc>
+    <lastmod>2020-07-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/manual-upgrade--2-4-1--2-5-0-.html</loc>
+    <lastmod>2020-04-03</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/manual-upgrade--2-3-0-.html</loc>
+    <lastmod>2019-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/manual-upgrade--v2435-.html</loc>
+    <lastmod>2019-12-19</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/v1765-migration-tool-for-upgrade--kubernetes-.html</loc>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/v1149--migration-tool-for-unified-events.html</loc>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/basic-upgrade-kubernetes-installations.html</loc>
+    <lastmod>2019-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/basic-upgrade--replicated-.html</loc>
+    <lastmod>2019-12-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/administration-settings.html</loc>
@@ -438,7 +498,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
-    <lastmod>2020-04-06</lastmod>
+    <lastmod>2020-07-08</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/host-requirements-for-agent-installation.html</loc>
@@ -466,7 +526,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--non-orchestrated.html</loc>
-    <lastmod>2020-04-04</lastmod>
+    <lastmod>2020-07-08</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--iks--ibm-cloud-with-sysdig-.html</loc>

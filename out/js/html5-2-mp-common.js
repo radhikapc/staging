@@ -228,24 +228,24 @@ function getEmbedCode(){
          */
         var resource = $(this).data("resource");
 
-        /**
-         * @type {Array}
-         */
-        var lang = hljs.listLanguages();
-
         $.get(resource)
             .fail(function(){
                 throw "[Paligo] Not able to load source: "+resource;
             })
             .success(function(data) {
-                var code;
+                let code = {
+                    value: data,
+                    language: '',
+                };
 
-                $pre.empty().addClass('hljs');
+                if (typeof hljs !== 'undefined') {
+                    $pre.empty().addClass('hljs');
 
-                if ($pre.data('language') && $.inArray($pre.data('language'), lang) > -1) {
-                    code = hljs.highlight($pre.data('language'), data);
-                } else {
-                    code = hljs.highlightAuto(data);
+                    if ($pre.data('language') && $.inArray($pre.data('language'), hljs.listLanguages()) > -1) {
+                        code = hljs.highlight($pre.data('language'), code.value);
+                    } else {
+                        code = hljs.highlightAuto(code.value);
+                    }
                 }
         
                 $pre.append(code.value).addClass(code.language);
