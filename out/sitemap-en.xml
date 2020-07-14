@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
-    <lastmod>2020-06-16</lastmod>
+    <lastmod>2020-07-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
@@ -38,15 +38,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/nodes-data.html</loc>
-    <lastmod>2020-06-23</lastmod>
+    <lastmod>2020-07-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/namespaces-data.html</loc>
-    <lastmod>2020-06-23</lastmod>
+    <lastmod>2020-07-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/workloads-data.html</loc>
-    <lastmod>2020-06-23</lastmod>
+    <lastmod>2020-07-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
@@ -254,11 +254,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/mapping-legacy-sysdig-kubernetes-metrics-with-promql-metrics.html</loc>
-    <lastmod>2020-07-01</lastmod>
+    <lastmod>2020-07-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/mapping-between-classic-metrics-and-promql-metrics.html</loc>
-    <lastmod>2020-07-01</lastmod>
+    <lastmod>2020-07-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes.html</loc>
