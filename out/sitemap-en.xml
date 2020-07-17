@@ -50,15 +50,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-07-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/about-the-dashboard-ui.html</loc>
-    <lastmod>2020-06-17</lastmod>
+    <lastmod>2020-07-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2020-07-13</lastmod>
+    <lastmod>2020-07-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
@@ -253,12 +253,12 @@
     <lastmod>2020-06-04</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/mapping-legacy-sysdig-kubernetes-metrics-with-promql-metrics.html</loc>
-    <lastmod>2020-07-14</lastmod>
+    <loc>https://docs.sysdig.com/en/mapping-legacy-sysdig-kubernetes-metrics-with-prometheus-metrics--kube-state-metrics-.html</loc>
+    <lastmod>2020-07-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/mapping-between-classic-metrics-and-promql-metrics.html</loc>
-    <lastmod>2020-07-14</lastmod>
+    <lastmod>2020-07-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes.html</loc>
@@ -377,8 +377,8 @@
     <lastmod>2020-01-15</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/installer--kubernetes---openshift---3-5-0-.html</loc>
-    <lastmod>2020-07-09</lastmod>
+    <loc>https://docs.sysdig.com/en/installer--kubernetes---openshift--3-5-0.html</loc>
+    <lastmod>2020-07-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-install-3-0-0---kubernetes-.html</loc>
