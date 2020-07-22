@@ -589,6 +589,10 @@
     <lastmod>2019-11-22</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/enable-http-proxy-for-agents.html</loc>
+    <lastmod>2020-07-22</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/use-go-to-process-kubernetes-events.html</loc>
     <lastmod>2020-01-16</lastmod>
   </url>
