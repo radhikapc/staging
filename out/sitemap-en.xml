@@ -546,15 +546,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-configuration.html</loc>
-    <lastmod>2020-06-04</lastmod>
+    <lastmod>2020-07-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understand-agent-config.html</loc>
     <lastmod>2019-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/configure-sysdig-monitor-using-agent-modes.html</loc>
-    <lastmod>2020-06-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/filter-data.html</loc>
@@ -583,6 +579,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/disable-captures.html</loc>
     <lastmod>2019-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-sysdig-monitor-using-agent-modes.html</loc>
+    <lastmod>2020-07-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-kube-state-metrics.html</loc>
