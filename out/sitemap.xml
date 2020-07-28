@@ -590,7 +590,19 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-sysdig-monitor-using-agent-modes.html</loc>
-    <lastmod>2020-07-27</lastmod>
+    <lastmod>2020-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/metrics-not-available-in-essentials-mode.html</loc>
+    <lastmod>2020-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/metrics-available-in-monitor-light.html</loc>
+    <lastmod>2020-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/additional-metrics-values-available-in-troubleshooting.html</loc>
+    <lastmod>2020-07-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-kube-state-metrics.html</loc>
