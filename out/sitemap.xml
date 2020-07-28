@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://docs.sysdig.com/en/release-notes.html</loc>
-    <lastmod>2020-01-10</lastmod>
+    <lastmod>2020-07-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-on-premises-release-notes.html</loc>
@@ -190,7 +190,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/hosts-infrastructure-dashboards.html</loc>
-    <lastmod>2020-06-10</lastmod>
+    <lastmod>2020-07-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes-dashboards.html</loc>
@@ -350,11 +350,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-prometheus-metrics.html</loc>
-    <lastmod>2020-05-20</lastmod>
+    <lastmod>2020-07-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-jmx-metrics-from-java-virtual-machines.html</loc>
-    <lastmod>2020-07-10</lastmod>
+    <lastmod>2020-07-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-statsd-metrics.html</loc>
@@ -530,7 +530,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/steps-for-kubernetes--vanilla-.html</loc>
-    <lastmod>2020-04-04</lastmod>
+    <lastmod>2020-07-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/steps-for-gke.html</loc>
@@ -598,7 +598,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-http-proxy-for-agents.html</loc>
-    <lastmod>2020-07-22</lastmod>
+    <lastmod>2020-07-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/use-go-to-process-kubernetes-events.html</loc>
