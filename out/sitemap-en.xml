@@ -86,7 +86,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/delete-a-dashboard.html</loc>
-    <lastmod>2020-06-11</lastmod>
+    <lastmod>2020-07-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/managing-dashboards.html</loc>
@@ -257,8 +257,8 @@
     <lastmod>2020-06-04</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/mapping-legacy-sysdig-kubernetes-metrics-with-prometheus-metrics--kube-state-metrics-.html</loc>
-    <lastmod>2020-07-16</lastmod>
+    <loc>https://docs.sysdig.com/en/mapping-legacy-sysdig-kubernetes-metrics-with-prometheus-metrics.html</loc>
+    <lastmod>2020-07-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/mapping-between-classic-metrics-and-promql-metrics.html</loc>
@@ -406,7 +406,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/installer-upgrade--3-5-0-.html</loc>
-    <lastmod>2020-07-22</lastmod>
+    <lastmod>2020-07-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/installer-upgrade--2-5-0--.html</loc>
@@ -510,7 +510,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent.html</loc>
-    <lastmod>2020-05-28</lastmod>
+    <lastmod>2020-07-31</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
@@ -593,10 +593,6 @@
     <lastmod>2020-07-28</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/metrics-not-available-in-essentials-mode.html</loc>
-    <lastmod>2020-07-28</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/metrics-available-in-monitor-light.html</loc>
     <lastmod>2020-07-28</lastmod>
   </url>
@@ -605,12 +601,12 @@
     <lastmod>2020-07-28</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/enable-kube-state-metrics.html</loc>
-    <lastmod>2019-11-22</lastmod>
+    <loc>https://docs.sysdig.com/en/metrics-not-available-in-essentials-mode.html</loc>
+    <lastmod>2020-07-28</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/enable-http-proxy-for-agents.html</loc>
-    <lastmod>2020-07-28</lastmod>
+    <loc>https://docs.sysdig.com/en/enable-kube-state-metrics.html</loc>
+    <lastmod>2019-11-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/use-go-to-process-kubernetes-events.html</loc>
