@@ -370,7 +370,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-platform.html</loc>
-    <lastmod>2020-07-13</lastmod>
+    <lastmod>2020-08-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
@@ -454,6 +454,10 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/openid-connect--saas-.html</loc>
+    <lastmod>2020-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/azure--openid-.html</loc>
     <lastmod>2020-08-01</lastmod>
   </url>
   <url>
