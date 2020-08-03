@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
-    <lastmod>2020-07-14</lastmod>
+    <lastmod>2020-08-03</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
@@ -458,7 +458,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/azure--openid-.html</loc>
-    <lastmod>2020-08-01</lastmod>
+    <lastmod>2020-08-03</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/azure--openid-on-prem-.html</loc>
+    <lastmod>2020-08-03</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-split-dns.html</loc>
@@ -593,8 +597,8 @@
     <lastmod>2020-02-28</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/collecting-metrics-from-remote-file-systems.html</loc>
-    <lastmod>2020-07-31</lastmod>
+    <loc>https://docs.sysdig.com/en/collect-metrics-from-remote-file-systems.html</loc>
+    <lastmod>2020-08-03</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/disable-captures.html</loc>
