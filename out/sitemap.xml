@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/falco-rules-changelog.html</loc>
-    <lastmod>2020-07-27</lastmod>
+    <lastmod>2020-08-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
@@ -114,7 +114,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-panels.html</loc>
-    <lastmod>2020-06-09</lastmod>
+    <lastmod>2020-08-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/create-a-new-panel.html</loc>
@@ -150,7 +150,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/managing-panels.html</loc>
-    <lastmod>2020-06-11</lastmod>
+    <lastmod>2020-08-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/create-panel-alerts.html</loc>
@@ -458,7 +458,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/azure--openid-.html</loc>
-    <lastmod>2020-08-03</lastmod>
+    <lastmod>2020-08-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/azure--openid-on-prem-.html</loc>
@@ -627,6 +627,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/enable-kube-state-metrics.html</loc>
     <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/enable-http-proxy-for-agents.html</loc>
+    <lastmod>2020-07-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/use-go-to-process-kubernetes-events.html</loc>
