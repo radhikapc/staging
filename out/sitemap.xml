@@ -458,7 +458,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/azure--openid-.html</loc>
-    <lastmod>2020-08-04</lastmod>
+    <lastmod>2020-08-06</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/azure--openid-on-prem-.html</loc>
@@ -630,7 +630,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-http-proxy-for-agents.html</loc>
-    <lastmod>2020-07-28</lastmod>
+    <lastmod>2020-08-06</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/use-go-to-process-kubernetes-events.html</loc>
