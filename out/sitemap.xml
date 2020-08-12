@@ -530,7 +530,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
-    <lastmod>2020-08-11</lastmod>
+    <lastmod>2020-08-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/host-requirements-for-agent-installation.html</loc>
@@ -559,6 +559,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--non-orchestrated.html</loc>
     <lastmod>2020-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/install-slim-agent.html</loc>
+    <lastmod>2020-08-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--iks--ibm-cloud-with-sysdig-.html</loc>
