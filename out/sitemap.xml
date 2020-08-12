@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
-    <lastmod>2020-08-03</lastmod>
+    <lastmod>2020-08-12</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
@@ -470,7 +470,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/disable-password-authentication.html</loc>
-    <lastmod>2020-04-04</lastmod>
+    <lastmod>2020-08-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/adfs--saml-.html</loc>
@@ -478,7 +478,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/azure-active-directory--saml-.html</loc>
-    <lastmod>2020-04-13</lastmod>
+    <lastmod>2020-08-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/storage--configure-options-for-capture-files.html</loc>
@@ -494,7 +494,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
-    <lastmod>2020-05-16</lastmod>
+    <lastmod>2020-08-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/subscription.html</loc>
@@ -506,7 +506,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
-    <lastmod>2020-08-04</lastmod>
+    <lastmod>2020-08-12</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
@@ -530,7 +530,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
-    <lastmod>2020-07-08</lastmod>
+    <lastmod>2020-08-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/host-requirements-for-agent-installation.html</loc>
@@ -610,7 +610,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-sysdig-monitor-using-agent-modes.html</loc>
-    <lastmod>2020-07-28</lastmod>
+    <lastmod>2020-08-07</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics-available-in-monitor-light.html</loc>
