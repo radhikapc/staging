@@ -534,7 +534,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/host-requirements-for-agent-installation.html</loc>
-    <lastmod>2020-06-22</lastmod>
+    <lastmod>2020-08-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kernel-header-troubleshooting.html</loc>
@@ -545,8 +545,8 @@
     <lastmod>2020-04-04</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/steps-for-kubernetes--vanilla-.html</loc>
-    <lastmod>2020-07-28</lastmod>
+    <loc>https://docs.sysdig.com/en/steps-for-kubernetes.html</loc>
+    <lastmod>2020-08-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/steps-for-gke.html</loc>
