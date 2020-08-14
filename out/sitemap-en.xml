@@ -530,7 +530,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
-    <lastmod>2020-08-13</lastmod>
+    <lastmod>2020-08-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/host-requirements-for-agent-installation.html</loc>
@@ -542,11 +542,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--kubernetes.html</loc>
-    <lastmod>2020-04-04</lastmod>
+    <lastmod>2020-08-14</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/steps-for-kubernetes.html</loc>
-    <lastmod>2020-08-13</lastmod>
+    <loc>https://docs.sysdig.com/en/steps-for-kubernetes--vanilla-.html</loc>
+    <lastmod>2020-08-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/steps-for-gke.html</loc>
@@ -558,11 +558,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--non-orchestrated.html</loc>
-    <lastmod>2020-07-08</lastmod>
+    <lastmod>2020-08-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-slim-agent.html</loc>
-    <lastmod>2020-08-13</lastmod>
+    <lastmod>2020-08-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--iks--ibm-cloud-with-sysdig-.html</loc>

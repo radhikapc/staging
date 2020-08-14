@@ -24,7 +24,7 @@ function init(){
     if(enterKey === 'search'){
         var searchfield = $('form .search-field');
         $(".portal-search .btn").click(function (e) {
-            search(e, searchfield);
+            search(e, searchfield.filter(':visible'));
             return false;
         });
     }
@@ -245,7 +245,7 @@ function showSearch($resultcontainer) {
 }
 
 function hideSearch($resultcontainer) {
-    var input = $('form .search-field');
+    var input = $('form .search-field:visible');
     //Do not hide results if the input has focus and is not empty
     if (input.is(":focus") && input.val() !== '') {
         return;
