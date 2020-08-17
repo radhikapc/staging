@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/falco-rules-changelog.html</loc>
-    <lastmod>2020-08-04</lastmod>
+    <lastmod>2020-08-18</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
@@ -374,11 +374,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
-    <lastmod>2020-04-10</lastmod>
+    <lastmod>2020-08-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
-    <lastmod>2020-01-15</lastmod>
+    <lastmod>2020-08-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/installer--kubernetes---openshift--3-5-0.html</loc>
@@ -402,11 +402,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-upgrades.html</loc>
-    <lastmod>2020-01-15</lastmod>
+    <lastmod>2020-08-17</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/installer-upgrade--3-5-0-.html</loc>
-    <lastmod>2020-07-29</lastmod>
+    <loc>https://docs.sysdig.com/en/installer-upgrade--3-5-0-3-5-1-.html</loc>
+    <lastmod>2020-08-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/installer-upgrade--2-5-0--.html</loc>
@@ -414,19 +414,19 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-upgrade--3-0-0--.html</loc>
-    <lastmod>2020-07-13</lastmod>
+    <lastmod>2020-08-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-upgrade--2-4-1--2-5-0-.html</loc>
-    <lastmod>2020-04-03</lastmod>
+    <lastmod>2020-08-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-upgrade--2-3-0-.html</loc>
-    <lastmod>2019-12-19</lastmod>
+    <lastmod>2020-08-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-upgrade--v2435-.html</loc>
-    <lastmod>2019-12-19</lastmod>
+    <lastmod>2020-08-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v1765-migration-tool-for-upgrade--kubernetes-.html</loc>
@@ -530,7 +530,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
-    <lastmod>2020-08-14</lastmod>
+    <lastmod>2020-08-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/host-requirements-for-agent-installation.html</loc>
