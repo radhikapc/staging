@@ -658,6 +658,22 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-secure.html</loc>
-    <lastmod>2020-06-01</lastmod>
+    <lastmod>2020-08-18</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/policies.html</loc>
+    <lastmod>2020-08-18</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/manage-policies.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/manage-rules.html</loc>
+    <lastmod>2020-08-14</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/-beta--policy-advisor.html</loc>
+    <lastmod>2020-07-10</lastmod>
   </url>
 </urlset>

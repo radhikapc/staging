@@ -2,16 +2,16 @@
 <params>
   <param name="html5.theme" select="1"/>
   <param name="html5.content.theme" select="2"/>
-  <param name="use.algolia.search" select="0"/>
-  <param name="use.algolia.free.docsearch" select="0"/>
+  <param name="use.algolia.search" select="1"/>
+  <param name="use.algolia.free.docsearch" select="1"/>
   <param name="publication.id" select="en-UUID-bb8cfbc6-39ef-ae96-046b-9e1f712dcc40"/>
   <param name="algolia.custom.index.name" select=""/>
   <param name="use.fuse.search" select="1"/>
-  <param name="use.multilingual.default.search" select="0"/>
+  <param name="use.multilingual.default.search" select="1"/>
   <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-208834/5ee7e4966de9f.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-208834/5ee7dbd0518ab.png"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-208834/5ed7e2e07a100.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5f3b04e021f1a9.03369324/200967-Staging_Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5f3b2e60175c20.36136731/200967-Staging_Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2020 Sysdig "/>
@@ -43,7 +43,7 @@
   <param name="layout.custom.style.persistent.name" select="0"/>
   <param name="open.category.first.topic" select="1"/>
   <param name="elastic.site.search" select=""/>
-  <param name="elastic.site.search.only.index.main.content" select="0"/>
+  <param name="elastic.site.search.only.index.main.content" select="1"/>
   <param name="other.custom.search" select="0"/>
   <param name="use.page.toc" select="1"/>
   <param name="swagger.embed" select="1"/>
@@ -65,7 +65,7 @@
   <param name="collapsible.toc" select="1"/>
   <param name="focus.on.current.toc.section" select="1"/>
   <param name="use.resource.version.suffix" select="1"/>
-  <param name="create.search.page.for.algolia" select="0"/>
+  <param name="create.search.page.for.algolia" select="1"/>
   <param name="add.canonical.url" select="0"/>
   <param name="custom.favicon.path" select=""/>
   <param name="initial.heading.level" select="chunk"/>
