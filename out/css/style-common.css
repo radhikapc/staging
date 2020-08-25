@@ -614,11 +614,15 @@ h6:hover .header-link,
     display: none;
 }
 
-iframe.gdoc, iframe.onedrive{
+iframe.gdoc, iframe.onedrive, iframe.external {
     display: block;
     width: 100%;
     height: 500px;
     border: 1px solid #ccc;
+}
+
+iframe.external {
+    border:none;
 }
 
 /* If using the option to output formal element labels separately, the default is not to display them for procedure and sidebar */

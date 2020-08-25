@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
-    <lastmod>2020-08-12</lastmod>
+    <lastmod>2020-08-25</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
@@ -350,7 +350,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-prometheus-metrics.html</loc>
-    <lastmod>2020-07-28</lastmod>
+    <lastmod>2020-08-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-jmx-metrics-from-java-virtual-machines.html</loc>
@@ -378,7 +378,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-installation.html</loc>
-    <lastmod>2020-08-17</lastmod>
+    <lastmod>2020-08-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/installer--kubernetes---openshift--3-5-0.html</loc>
@@ -394,7 +394,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-with-replicated.html</loc>
-    <lastmod>2019-11-21</lastmod>
+    <lastmod>2020-08-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-on-premises-installation.html</loc>
@@ -442,7 +442,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/basic-upgrade--replicated-.html</loc>
-    <lastmod>2019-12-19</lastmod>
+    <lastmod>2020-08-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/administration-settings.html</loc>
@@ -458,7 +458,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/azure--openid-.html</loc>
-    <lastmod>2020-08-06</lastmod>
+    <lastmod>2020-08-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/azure--openid-on-prem-.html</loc>
@@ -470,7 +470,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/disable-password-authentication.html</loc>
-    <lastmod>2020-08-10</lastmod>
+    <lastmod>2020-08-25</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/adfs--saml-.html</loc>
@@ -494,7 +494,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
-    <lastmod>2020-08-10</lastmod>
+    <lastmod>2020-08-25</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/subscription.html</loc>
@@ -506,7 +506,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
-    <lastmod>2020-08-12</lastmod>
+    <lastmod>2020-08-25</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
@@ -671,6 +671,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/manage-rules.html</loc>
     <lastmod>2020-08-14</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/install-falco-rules-on-premises.html</loc>
+    <lastmod>2020-08-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/-beta--policy-advisor.html</loc>
