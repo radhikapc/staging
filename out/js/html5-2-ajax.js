@@ -204,9 +204,8 @@ function loadContent(href, hash) {
         
         
         $.each($("ul.toc a"), function (i, e) {
-            var toclink = decodeURI(this.href);
-            var file = href.split('#')[0];
-            var r = new RegExp(file + '$');
+            var toclink = this.href;
+            var r = new RegExp(href.split('#')[0] + '$');
             
             if (r.test(toclink)) {
                 $(this).parent().addClass("active");

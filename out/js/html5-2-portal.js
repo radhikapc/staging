@@ -1,16 +1,16 @@
+/*var urlParams = new URLSearchParams(window.location.search);
+var lang = urlParams.get('lang');
+if (lang !== null) {
+    portalLanguage = lang;
+}*/
+
+//IE/Edge doesn't support URLSearchParams, so use this function:
+var lang = getQueryVariable("lang");
+if (lang) {
+    portalLanguage = lang;
+}
+
 $(document).ready(function () {
-    
-    /*var urlParams = new URLSearchParams(window.location.search);
-    var lang = urlParams.get('lang');
-    if (lang !== null) {
-        portalLanguage = lang;
-    }*/
-    
-    //IE/Edge doesn't support URLSearchParams, so use this function:
-    var lang = getQueryVariable("lang");
-    if (lang) {
-        portalLanguage = lang;
-    }
     
     //Only show the current language
     showCurrentLanguage(portalLanguage);
@@ -21,6 +21,7 @@ $(document).ready(function () {
         portalLanguage = $(this).attr('lang');
         $("*[data-portal-language='" + portalLanguage + "'] .dropup.languages .dropdown-toggle").html($(this).text() + ' <b class="caret"></b>');
         showCurrentLanguage(portalLanguage);
+        addSearch();
     });
     
     $(".category-more-toc").click(function (e) {
@@ -58,7 +59,6 @@ function showCurrentLanguage(portalLanguage) {
     var pageTitle = languageTitleMap[portalLanguage];
     if (pageTitle) {$("html head title").text(pageTitle);}
     window.history.pushState('', '', pageUrl);
-    addSearch();
 }
 
 function getQueryVariable(variable)

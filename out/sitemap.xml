@@ -358,7 +358,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-statsd-metrics.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2020-08-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-node-js-application-metrics.html</loc>
@@ -402,11 +402,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-upgrades.html</loc>
-    <lastmod>2020-08-17</lastmod>
+    <lastmod>2020-08-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/installer-upgrade--3-5-0-3-5-1-.html</loc>
-    <lastmod>2020-08-17</lastmod>
+    <lastmod>2020-08-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/installer-upgrade--2-5-0--.html</loc>
@@ -477,8 +477,12 @@
     <lastmod>2020-02-05</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/adfs--saml-on-prem-.html</loc>
+    <lastmod>2020-09-01</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/azure-active-directory--saml-.html</loc>
-    <lastmod>2020-08-11</lastmod>
+    <lastmod>2020-09-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/storage--configure-options-for-capture-files.html</loc>
@@ -506,7 +510,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
-    <lastmod>2020-08-25</lastmod>
+    <lastmod>2020-08-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
