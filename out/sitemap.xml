@@ -346,11 +346,47 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-integrations.html</loc>
-    <lastmod>2020-06-01</lastmod>
+    <lastmod>2020-09-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-prometheus-metrics.html</loc>
     <lastmod>2020-08-24</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/working-with-prometheus-metrics.html</loc>
+    <lastmod>2020-08-20</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/setting-up-the-environment.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configuring-sysdig-agent.html</loc>
+    <lastmod>2020-05-20</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/example-configuration.html</loc>
+    <lastmod>2020-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/enable-prometheus-native-service-discovery.html</loc>
+    <lastmod>2020-09-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/enforcing-limit-on-prometheus-metric-collection.html</loc>
+    <lastmod>2020-05-20</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/collecting-prometheus-metrics-from-remote-hosts.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-sysdig-with-grafana.html</loc>
+    <lastmod>2020-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/logging-and-troubleshooting.html</loc>
+    <lastmod>2019-09-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-jmx-metrics-from-java-virtual-machines.html</loc>
@@ -510,7 +546,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
-    <lastmod>2020-09-02</lastmod>
+    <lastmod>2020-09-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
@@ -566,11 +602,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--non-orchestrated.html</loc>
-    <lastmod>2020-08-14</lastmod>
+    <lastmod>2020-09-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-slim-agent.html</loc>
-    <lastmod>2020-08-15</lastmod>
+    <lastmod>2020-09-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--iks--ibm-cloud-with-sysdig-.html</loc>
