@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2020-07-22</lastmod>
+    <lastmod>2020-09-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
@@ -618,7 +618,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-configuration.html</loc>
-    <lastmod>2020-07-23</lastmod>
+    <lastmod>2020-09-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understand-the-agent-configuration.html</loc>
@@ -678,7 +678,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-http-proxy-for-agents.html</loc>
-    <lastmod>2020-08-06</lastmod>
+    <lastmod>2020-09-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/use-go-to-process-kubernetes-events.html</loc>
