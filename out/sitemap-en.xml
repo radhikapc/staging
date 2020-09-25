@@ -22,11 +22,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/falco-rules-changelog.html</loc>
-    <lastmod>2020-09-11</lastmod>
+    <lastmod>2020-09-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2020-07-01</lastmod>
+    <lastmod>2020-09-25</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started.html</loc>
@@ -111,6 +111,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/rbac-rules-for-dashboards.html</loc>
     <lastmod>2020-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/transfer-dashboard-ownership.html</loc>
+    <lastmod>2020-09-25</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-panels.html</loc>
@@ -350,11 +354,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-prometheus-metrics.html</loc>
-    <lastmod>2020-08-24</lastmod>
+    <lastmod>2020-09-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/working-with-prometheus-metrics.html</loc>
-    <lastmod>2020-08-20</lastmod>
+    <lastmod>2020-09-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/setting-up-the-environment.html</loc>
