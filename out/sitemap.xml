@@ -610,7 +610,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-slim-agent.html</loc>
-    <lastmod>2020-09-14</lastmod>
+    <lastmod>2020-09-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--iks--ibm-cloud-with-sysdig-.html</loc>
@@ -622,7 +622,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-configuration.html</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understand-the-agent-configuration.html</loc>
@@ -661,8 +661,8 @@
     <lastmod>2019-09-24</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/configure-sysdig-monitor-using-agent-modes.html</loc>
-    <lastmod>2020-08-07</lastmod>
+    <loc>https://docs.sysdig.com/en/configure-agent-modes.html</loc>
+    <lastmod>2020-09-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics-available-in-monitor-light.html</loc>
@@ -675,10 +675,6 @@
   <url>
     <loc>https://docs.sysdig.com/en/metrics-not-available-in-essentials-mode.html</loc>
     <lastmod>2020-07-28</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/secure-mode.html</loc>
-    <lastmod>2020-09-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-kube-state-metrics.html</loc>
