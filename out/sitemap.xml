@@ -322,7 +322,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metric-alerts.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2020-09-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/downtime-alert.html</loc>
@@ -571,10 +571,6 @@
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent.html</loc>
     <lastmod>2020-07-31</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/about-sysdig-agent.html</loc>
-    <lastmod>2020-09-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
