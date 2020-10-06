@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/falco-rules-changelog.html</loc>
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-10-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
@@ -370,7 +370,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/example-configuration.html</loc>
-    <lastmod>2020-07-08</lastmod>
+    <lastmod>2020-09-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-prometheus-native-service-discovery.html</loc>
@@ -662,7 +662,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-agent-modes.html</loc>
-    <lastmod>2020-09-28</lastmod>
+    <lastmod>2020-09-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics-available-in-monitor-light.html</loc>
