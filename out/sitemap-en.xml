@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
-    <lastmod>2020-10-12</lastmod>
+    <lastmod>2020-10-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/falco-rules-changelog.html</loc>
-    <lastmod>2020-10-01</lastmod>
+    <lastmod>2020-10-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
@@ -614,7 +614,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--iks--ibm-cloud-with-sysdig-.html</loc>
-    <lastmod>2020-04-02</lastmod>
+    <lastmod>2020-10-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-agent-installation.html</loc>

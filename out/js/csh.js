@@ -26,10 +26,13 @@ $(document).ready(function () {
     }
 });
 
+var notFoundTopicAppId = "not_found";
+
 function mapToHelpTopic(data, isrootindex) {
     var pathname = window.location.href;
     var pathonly = pathname.substring(0, pathname.lastIndexOf("/"));
     var helptopic = "";
+    var notfoundtopic = "";
     
     $.urlParam = function (name) {
         var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
@@ -45,6 +48,14 @@ function mapToHelpTopic(data, isrootindex) {
         if ($.urlParam('contextId') == appid) {
             helptopic = data.map[i].helptopic;
         }
+        if (notFoundTopicAppId == appid) {
+            notfoundtopic = data.map[i].helptopic;
+        }
+    }
+    
+    if (helptopic == "" && notfoundtopic != "") {
+        console.log('Help topic for contextId: "' + $.urlParam('contextId') + '" not found. Redirecting to contextId: "'  +  notFoundTopicAppId +'"');
+        helptopic = notfoundtopic;
     }
     
     if (helptopic == "") {
