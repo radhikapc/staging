@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
-    <lastmod>2020-07-22</lastmod>
+    <lastmod>2020-10-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/about-the-dashboard-ui.html</loc>
@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/create-a-new-panel.html</loc>
-    <lastmod>2020-06-10</lastmod>
+    <lastmod>2020-10-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels.html</loc>
@@ -242,7 +242,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understanding-default,-custom,-and-missing-metrics.html</loc>
-    <lastmod>2020-03-17</lastmod>
+    <lastmod>2020-10-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-metric-scale.html</loc>
@@ -262,7 +262,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/mapping-legacy-sysdig-kubernetes-metrics-with-prometheus-metrics.html</loc>
-    <lastmod>2020-07-29</lastmod>
+    <lastmod>2020-10-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/mapping-between-classic-metrics-and-promql-metrics.html</loc>
