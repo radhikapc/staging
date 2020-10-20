@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/create-a-new-panel.html</loc>
-    <lastmod>2020-10-19</lastmod>
+    <lastmod>2020-10-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels.html</loc>
@@ -722,7 +722,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-falco-rules-on-premises.html</loc>
-    <lastmod>2020-09-05</lastmod>
+    <lastmod>2020-10-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/-beta--policy-advisor.html</loc>
