@@ -11,7 +11,7 @@
   <param name="custom.css.source" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5ee90868a621c.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5ee908418041d.png"/>
   <param name="portal.background.filename" select="/var/www/ccms/usr/sysdig/xsl/custom/assets/layout-151234/5d3f76a79081d.png"/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5f906bec94e658.45157952/200967-Staging_Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/sysdig/production-5f98a9c215cb98.76571063/200967-Staging_Sysdig_Documentation-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Sysdig"/>
   <param name="copyright.year" select=""/>
   <param name="copyright" select=" &#xA9; 2020 Sysdig "/>
@@ -75,4 +75,23 @@
   <param name="drift.id" select=""/>
   <param name="pendo.agent" select=""/>
   <param name="highlight" select="1"/>
+  <param name="slides.revealjs.animate.listitems" select="1"/>
+  <param name="slides.revealjs.transition" select="slide"/>
+  <param name="slides.revealjs.show.progress" select="1"/>
+  <param name="slides.revealjs.show.controls" select="1"/>
+  <param name="slides.revealjs.valign.center" select="1"/>
+  <param name="slides.revealjs.navigation.mode" select="linear"/>
+  <param name="slides.revealjs.width" select="100%"/>
+  <param name="slides.revealjs.height" select="100%"/>
+  <param name="slides.revealjs.scale.min" select="0.2"/>
+  <param name="slides.revealjs.scale.max" select="1.5"/>
+  <param name="slides.revealjs.theme" select="white"/>
+  <param name="slides.revealjs.theme.custom" select=""/>
+  <param name="slides.revealjs.background.image.opacity" select="1"/>
+  <param name="slides.revealjs.default.background.image" select=""/>
+  <param name="slides.revealjs.default.background.image.out" select="/paligo/tmp/sysdig/production-5f98a9c215cb98.76571063/200967-Staging_Sysdig_Documentation-html5/out/css/image/default_slide_background.png"/>
+  <param name="slides.revealjs.logo" select=""/>
+  <param name="slides.revealjs.logo.out" select="/paligo/tmp/sysdig/production-5f98a9c215cb98.76571063/200967-Staging_Sysdig_Documentation-html5/out/css/image/logo-light.png"/>
+  <param name="slides.revealjs.logo.alt" select=""/>
+  <param name="slides.revealjs.logo.alt.out" select="/paligo/tmp/sysdig/production-5f98a9c215cb98.76571063/200967-Staging_Sysdig_Documentation-html5/out/css/image/logo-dark.png"/>
 </params>

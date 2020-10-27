@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/create-a-new-panel.html</loc>
-    <lastmod>2020-10-21</lastmod>
+    <lastmod>2020-10-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/types-of-panels.html</loc>
@@ -278,7 +278,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes-state.html</loc>
-    <lastmod>2020-07-02</lastmod>
+    <lastmod>2020-10-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/events.html</loc>
@@ -550,7 +550,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
-    <lastmod>2020-09-14</lastmod>
+    <lastmod>2020-10-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
