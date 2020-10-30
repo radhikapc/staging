@@ -17,13 +17,12 @@ ol.procedure, ul.procedure {
   margin-bottom: 10px;
 }
 .procedure > li::before {
+    float: left;
     margin-left: -40px;
-    position: absolute;
     width: 24px;
     padding-left: 0px;
     height: 24px;
     line-height: 24px;
-    vertical-align: top;
     -webkit-border-radius: 13px;
     -moz-border-radius: 13px;
     border-radius: 13px;
@@ -31,7 +30,7 @@ ol.procedure, ul.procedure {
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     color: #FFFFFF;
-    display: inline-block;
+    display: block;
     font-weight: 700;
     content: counter(step-counter);
     font-size: 14px;
@@ -71,7 +70,7 @@ ul.checklist > li {
   
   margin-bottom: 10px;
   border: 1px solid #ddd;
-border-radius: 5px;
+  border-radius: 5px;
 }
 
 /* Background-color on hover */
@@ -88,8 +87,6 @@ ul.checklist li.checked .check-item-content {
   text-decoration: line-through;
   opacity: 0.2;
 }
-
-
 
 /* Style the close button */
 .close {
