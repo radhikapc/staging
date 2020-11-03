@@ -1,16 +1,14 @@
 
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
-@import url('https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/themes/sysdig/assets/fonts/maax-mono/reg/maax-mono-reg.woff2');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,400&display=swap');
 
 body {
- font-family: 'Karla';
+ font-family: 'Lato', sans-serif;
  color: #415546;
 }
 /* change header font */
 
 h1,h2,h3 {
-  font-family: "Maax Mono",Monaco,Consolas,monospace;
+  font-family: "Lato",Monaco,Consolas,monospace;
   color: #0a1429;
 }
 
@@ -25,12 +23,11 @@ topic-content .breadcrumb {
 
 /* Home page */
 .portal-single-publication h3 {
-  font-family: 'Karla';
+  font-family: 'Lato';
   font-weight: bold;
 }
 
-
-/* logo size */
+/* size of the log */
 
 .portal-header .logo {
     margin-bottom: 0;
