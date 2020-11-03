@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2020-09-25</lastmod>
+    <lastmod>2020-11-03</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started.html</loc>
@@ -114,7 +114,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/transfer-dashboard-ownership.html</loc>
-    <lastmod>2020-09-25</lastmod>
+    <lastmod>2020-11-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-panels.html</loc>
@@ -257,6 +257,10 @@
     <lastmod>2020-07-27</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/metric-limits.html</loc>
+    <lastmod>2020-11-03</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/metrics-dictionary.html</loc>
     <lastmod>2020-06-04</lastmod>
   </url>
@@ -374,7 +378,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-prometheus-native-service-discovery.html</loc>
-    <lastmod>2020-10-08</lastmod>
+    <lastmod>2020-11-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enforcing-limit-on-prometheus-metric-collection.html</loc>
