@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
-    <lastmod>2020-10-19</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/about-the-dashboard-ui.html</loc>
@@ -114,7 +114,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/transfer-dashboard-ownership.html</loc>
-    <lastmod>2020-11-02</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-panels.html</loc>
@@ -258,7 +258,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metric-limits.html</loc>
-    <lastmod>2020-11-05</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics-dictionary.html</loc>
@@ -438,7 +438,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-with-replicated.html</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-on-premises-installation.html</loc>
@@ -466,11 +466,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-upgrade--2-3-0-.html</loc>
-    <lastmod>2020-08-17</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-upgrade--v2435-.html</loc>
-    <lastmod>2020-08-17</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v1765-migration-tool-for-upgrade--kubernetes-.html</loc>
@@ -478,7 +478,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v1149--migration-tool-for-unified-events.html</loc>
-    <lastmod>2019-11-22</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/basic-upgrade-kubernetes-installations.html</loc>
@@ -486,7 +486,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/basic-upgrade--replicated-.html</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/administration-settings.html</loc>
@@ -614,11 +614,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-slim-agent.html</loc>
-    <lastmod>2020-09-28</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--iks--ibm-cloud-with-sysdig-.html</loc>
     <lastmod>2020-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/airgapped-agent-installation.html</loc>
+    <lastmod>2020-11-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-agent-installation.html</loc>
@@ -626,7 +630,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-configuration.html</loc>
-    <lastmod>2020-09-28</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understand-the-agent-configuration.html</loc>
@@ -705,8 +709,8 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/agent-uninstall.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/uninstall-the-agent.html</loc>
+    <lastmod>2020-11-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-secure.html</loc>
@@ -718,11 +722,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-policies.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-rules.html</loc>
-    <lastmod>2020-08-14</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-falco-rules-on-premises.html</loc>
@@ -774,7 +778,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-install-3-0-0---kubernetes--216297.html</loc>
-    <lastmod>2020-08-17</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-install--openshift--216298.html</loc>
@@ -782,7 +786,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-with-replicated-216299.html</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/airgapped-installation.html</loc>
@@ -826,15 +830,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-upgrade--2-3-0--216310.html</loc>
-    <lastmod>2020-08-17</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-upgrade--v2435--216311.html</loc>
-    <lastmod>2020-08-17</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/basic-upgrade--replicated--216312.html</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/find-the-super-admin-credentials-and-api-token.html</loc>

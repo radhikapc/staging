@@ -33,7 +33,7 @@ function addSearch() {
     var client = algoliasearch(algolia_application_id, algolia_search_only_api_key);
     var index = client.initIndex(publication_id);
     //initialize autocomplete on search input (ID selector must match)
-    $("[data-portal-language='" + portalLanguage + "'] #aa-search-input, .site-body #aa-search-input").autocomplete({
+    $("[data-portal-language='" + portalLanguage + "'] #aa-search-input, .site-body #aa-search-input, .site-header #aa-search-input").autocomplete({
         hint: false,
         autoselect: true
     },[ {
