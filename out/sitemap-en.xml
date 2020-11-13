@@ -29,8 +29,8 @@
     <lastmod>2020-11-12</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/getting-started.html</loc>
-    <lastmod>2020-01-10</lastmod>
+    <loc>https://docs.sysdig.com/en/getting-started-with-sysdig-monitor.html</loc>
+    <lastmod>2020-11-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/overview.html</loc>
@@ -114,7 +114,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/transfer-dashboard-ownership.html</loc>
-    <lastmod>2020-11-12</lastmod>
+    <lastmod>2020-11-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-panels.html</loc>
@@ -578,7 +578,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
-    <lastmod>2020-08-15</lastmod>
+    <lastmod>2020-11-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/host-requirements-for-agent-installation.html</loc>
