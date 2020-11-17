@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2020-11-12</lastmod>
+    <lastmod>2020-11-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started-with-sysdig-monitor.html</loc>
@@ -214,15 +214,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/explore.html</loc>
-    <lastmod>2020-07-25</lastmod>
+    <lastmod>2020-11-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/explore-interface.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2020-11-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/explore-table.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <loc>https://docs.sysdig.com/en/navigate-the-explore-interface.html</loc>
+    <lastmod>2020-11-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/time-windows.html</loc>
@@ -238,7 +238,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/grouping,-scoping,-and-segmenting-metrics.html</loc>
-    <lastmod>2019-11-05</lastmod>
+    <lastmod>2020-11-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understanding-default,-custom,-and-missing-metrics.html</loc>
@@ -554,7 +554,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
-    <lastmod>2020-11-13</lastmod>
+    <lastmod>2020-11-14</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
