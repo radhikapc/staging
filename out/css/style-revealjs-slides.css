@@ -3,7 +3,7 @@ section.slide-left > * {
 	margin-right: 50%;
 }
 
-section.slide-right > * {
+section.slide-right:not(.stack) > * {
 	text-align: right;
 	margin-left: 50%;
 }
@@ -102,5 +102,5 @@ section.alt-slide, section.alt-slide h1, section.alt-slide h2, section.alt-slide
 }
 
 .reveal .slide-background-content {
-background-position: top;
+    background-position: top;
 }

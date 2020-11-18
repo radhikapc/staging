@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2020-09-15</lastmod>
+    <lastmod>2020-11-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
@@ -226,7 +226,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/groupings-editor.html</loc>
-    <lastmod>2020-11-17</lastmod>
+    <lastmod>2020-11-18</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/visualizing-metrics-using-the-topology-view.html</loc>
@@ -246,7 +246,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/grouping,-scoping,-and-segmenting-metrics.html</loc>
-    <lastmod>2020-11-16</lastmod>
+    <lastmod>2020-11-18</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understanding-default,-custom,-and-missing-metrics.html</loc>
