@@ -106,7 +106,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sharing-new-dashboards.html</loc>
-    <lastmod>2020-06-09</lastmod>
+    <lastmod>2020-11-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/rbac-rules-for-dashboards.html</loc>
@@ -114,6 +114,10 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/transfer-dashboard-ownership.html</loc>
+    <lastmod>2020-11-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/transfer-dashboard-ownership-216705.html</loc>
     <lastmod>2020-11-13</lastmod>
   </url>
   <url>
@@ -218,7 +222,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/explore-interface.html</loc>
-    <lastmod>2020-11-16</lastmod>
+    <lastmod>2020-11-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/navigate-the-explore-interface.html</loc>
@@ -229,8 +233,8 @@
     <lastmod>2020-11-18</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/visualizing-metrics-using-the-topology-view.html</loc>
-    <lastmod>2020-11-17</lastmod>
+    <loc>https://docs.sysdig.com/en/visualize-metrics-using-the-topology-view.html</loc>
+    <lastmod>2020-11-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/time-windows.html</loc>
@@ -246,7 +250,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/grouping,-scoping,-and-segmenting-metrics.html</loc>
-    <lastmod>2020-11-18</lastmod>
+    <lastmod>2020-11-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understanding-default,-custom,-and-missing-metrics.html</loc>
