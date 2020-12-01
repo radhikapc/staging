@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2020-11-16</lastmod>
+    <lastmod>2020-12-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started-with-sysdig-monitor.html</loc>
@@ -106,7 +106,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sharing-new-dashboards.html</loc>
-    <lastmod>2020-11-19</lastmod>
+    <lastmod>2020-12-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/rbac-rules-for-dashboards.html</loc>
@@ -114,10 +114,6 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/transfer-dashboard-ownership.html</loc>
-    <lastmod>2020-11-13</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/transfer-dashboard-ownership-216705.html</loc>
     <lastmod>2020-11-13</lastmod>
   </url>
   <url>
@@ -250,7 +246,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/grouping,-scoping,-and-segmenting-metrics.html</loc>
-    <lastmod>2020-11-19</lastmod>
+    <lastmod>2020-11-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understanding-default,-custom,-and-missing-metrics.html</loc>
@@ -390,7 +386,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-prometheus-native-service-discovery.html</loc>
-    <lastmod>2020-11-02</lastmod>
+    <lastmod>2020-11-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enforcing-limit-on-prometheus-metric-collection.html</loc>
