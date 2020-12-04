@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-on-premises-release-notes.html</loc>
-    <lastmod>2020-12-01</lastmod>
+    <lastmod>2020-12-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/falco-rules-changelog.html</loc>
-    <lastmod>2020-12-01</lastmod>
+    <lastmod>2020-12-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
@@ -754,7 +754,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/architecture.html</loc>
-    <lastmod>2020-08-24</lastmod>
+    <lastmod>2020-12-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/system-requirements.html</loc>
@@ -778,7 +778,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/installer--kubernetes---openshift-.html</loc>
-    <lastmod>2020-08-17</lastmod>
+    <lastmod>2020-12-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/frequently-used-installer-configurations.html</loc>
