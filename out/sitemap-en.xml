@@ -329,24 +329,24 @@
     <lastmod>2020-12-14</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/event-alerts.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/metric-alerts.html</loc>
-    <lastmod>2020-09-28</lastmod>
+    <lastmod>2020-12-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/downtime-alert.html</loc>
-    <lastmod>2020-06-17</lastmod>
+    <lastmod>2020-12-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/event-alerts.html</loc>
+    <lastmod>2020-12-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/anomaly-detection-alerts.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2020-12-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/group-outlier-alerts.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2020-12-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/captures.html</loc>
