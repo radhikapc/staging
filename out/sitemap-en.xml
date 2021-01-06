@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-06</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
@@ -110,11 +110,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/rbac-rules-for-dashboards.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-12-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/transfer-dashboard-ownership.html</loc>
-    <lastmod>2020-11-13</lastmod>
+    <lastmod>2020-12-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-panels.html</loc>
@@ -334,23 +334,23 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metric-alerts.html</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2020-12-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/downtime-alert.html</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2020-12-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/event-alerts.html</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2021-01-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/anomaly-detection-alerts.html</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2020-12-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/group-outlier-alerts.html</loc>
-    <lastmod>2020-12-15</lastmod>
+    <lastmod>2020-12-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/captures.html</loc>
@@ -566,7 +566,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2020-12-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
@@ -705,8 +705,8 @@
     <lastmod>2020-09-22</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/use-go-to-process-kubernetes-events.html</loc>
-    <lastmod>2020-01-16</lastmod>
+    <loc>https://docs.sysdig.com/en/process-kubernetes-events.html</loc>
+    <lastmod>2020-12-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/change-agent-log-level.html</loc>
