@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-on-premises-release-notes.html</loc>
-    <lastmod>2020-12-04</lastmod>
+    <lastmod>2021-01-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
@@ -14,15 +14,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
-    <lastmod>2020-11-13</lastmod>
+    <lastmod>2021-01-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-secure-release-notes.html</loc>
-    <lastmod>2020-01-10</lastmod>
+    <lastmod>2021-01-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/falco-rules-changelog.html</loc>
-    <lastmod>2020-12-04</lastmod>
+    <lastmod>2021-01-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
@@ -634,7 +634,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/airgapped-agent-installation.html</loc>
-    <lastmod>2020-11-11</lastmod>
+    <lastmod>2021-01-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-agent-installation.html</loc>
@@ -734,11 +734,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-policies.html</loc>
-    <lastmod>2020-11-10</lastmod>
+    <lastmod>2021-01-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-rules.html</loc>
-    <lastmod>2020-11-10</lastmod>
+    <lastmod>2021-01-12</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-falco-rules-on-premises.html</loc>
