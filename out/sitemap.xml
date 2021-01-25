@@ -253,6 +253,10 @@
     <lastmod>2020-10-19</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/prometheus-metrics-types.html</loc>
+    <lastmod>2021-01-25</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/manage-metric-scale.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>
@@ -334,7 +338,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/import-promql-alert-rules.html</loc>
-    <lastmod>2021-01-20</lastmod>
+    <lastmod>2021-01-25</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metric-alerts.html</loc>
