@@ -254,7 +254,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/prometheus-metrics-types.html</loc>
-    <lastmod>2021-01-25</lastmod>
+    <lastmod>2021-01-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-metric-scale.html</loc>
@@ -338,7 +338,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/import-promql-alert-rules.html</loc>
-    <lastmod>2021-01-25</lastmod>
+    <lastmod>2021-01-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metric-alerts.html</loc>
@@ -410,7 +410,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-sysdig-with-grafana.html</loc>
-    <lastmod>2020-08-10</lastmod>
+    <lastmod>2021-01-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/logging-and-troubleshooting.html</loc>
