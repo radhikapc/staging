@@ -302,7 +302,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/event-types.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2021-03-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/custom-events.html</loc>
@@ -543,6 +543,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/azure-active-directory--saml-.html</loc>
     <lastmod>2020-09-01</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-saml-single-logout.html</loc>
+    <lastmod>2021-03-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/storage--configure-options-for-capture-files.html</loc>
