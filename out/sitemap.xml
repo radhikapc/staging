@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
-    <lastmod>2021-01-19</lastmod>
+    <lastmod>2021-03-03</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-secure-release-notes.html</loc>
@@ -241,7 +241,7 @@
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/metric-manager.html</loc>
+    <loc>https://docs.sysdig.com/en/promql-query-explorer.html</loc>
     <lastmod>2021-03-03</lastmod>
   </url>
   <url>
@@ -549,10 +549,6 @@
     <lastmod>2020-09-01</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/configure-saml-single-logout.html</loc>
-    <lastmod>2021-03-02</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/storage--configure-options-for-capture-files.html</loc>
     <lastmod>2021-02-03</lastmod>
   </url>
@@ -590,7 +586,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-ibm-cloud-function-channel.html</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-03</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer.html</loc>
