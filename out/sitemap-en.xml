@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
-    <lastmod>2021-02-08</lastmod>
+    <lastmod>2021-03-08</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/clusters-data.html</loc>
-    <lastmod>2020-06-23</lastmod>
+    <lastmod>2021-03-08</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/nodes-data.html</loc>
@@ -51,6 +51,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/workloads-data.html</loc>
     <lastmod>2020-07-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/hosts-overview.html</loc>
+    <lastmod>2021-03-08</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards.html</loc>
@@ -218,7 +222,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/explore-interface.html</loc>
-    <lastmod>2020-11-19</lastmod>
+    <lastmod>2021-03-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/navigate-the-explore-interface.html</loc>
@@ -242,7 +246,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/promql-query-explorer.html</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics.html</loc>
@@ -562,7 +566,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
-    <lastmod>2020-08-25</lastmod>
+    <lastmod>2021-03-05</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/subscription.html</loc>
@@ -574,7 +578,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
-    <lastmod>2021-02-10</lastmod>
+    <lastmod>2021-03-08</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/notifications-management.html</loc>
