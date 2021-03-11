@@ -146,19 +146,19 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/serverless-agent-lp.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-03-11</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/serverless-agents.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <loc>https://docs.sysdig.com/en/fargate-serverless-agents.html</loc>
+    <lastmod>2021-03-11</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/sysdig-cloudconnnector-lp.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <loc>https://docs.sysdig.com/en/sysdig-cloudconnnector.html</loc>
+    <lastmod>2021-03-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-cloudconnector-on-aws.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-03-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-cloudconnector-on-gcp.html</loc>
@@ -166,7 +166,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/rapid-response--installation.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-03-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-administration.html</loc>
