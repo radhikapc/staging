@@ -5,6 +5,10 @@
     <lastmod>2021-03-10</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/sysdig-agent.html</loc>
+    <lastmod>2021-03-12</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
     <lastmod>2020-11-13</lastmod>
   </url>
@@ -750,7 +754,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-rules.html</loc>
-    <lastmod>2021-01-12</lastmod>
+    <lastmod>2021-03-12</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-falco-rules-on-premises.html</loc>
