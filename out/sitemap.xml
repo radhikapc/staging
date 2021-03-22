@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-installation.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-03-18</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent.html</loc>
-    <lastmod>2021-03-17</lastmod>
+    <lastmod>2021-03-18</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
@@ -41,24 +41,36 @@
     <lastmod>2020-04-04</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/agent-install--non-orchestrated.html</loc>
+    <lastmod>2020-12-08</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/install-slim-agent.html</loc>
+    <lastmod>2021-03-18</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/agent-install--manual-linux-installation.html</loc>
+    <lastmod>2020-04-04</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/agent-install--iks--ibm-cloud-with-sysdig-.html</loc>
     <lastmod>2020-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/agent-install--mesos---marathon---dcos.html</loc>
+    <lastmod>2020-09-14</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/airgapped-agent-installation.html</loc>
+    <lastmod>2021-01-11</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-agent-installation.html</loc>
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/agent-install--non-orchestrated.html</loc>
-    <lastmod>2020-12-08</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/install-slim-agent.html</loc>
-    <lastmod>2020-11-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/airgapped-agent-installation.html</loc>
-    <lastmod>2021-01-11</lastmod>
+    <loc>https://docs.sysdig.com/en/identify-agent-version.html</loc>
+    <lastmod>2020-12-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-configuration.html</loc>
@@ -67,38 +79,6 @@
   <url>
     <loc>https://docs.sysdig.com/en/understand-the-agent-configuration.html</loc>
     <lastmod>2020-08-14</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/filter-data.html</loc>
-    <lastmod>2020-04-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/blacklist-ports.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/enable-disable-event-data.html</loc>
-    <lastmod>2019-09-24</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/include-exclude-custom-metrics.html</loc>
-    <lastmod>2019-09-26</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/prioritize-include-exclude-designated-containers.html</loc>
-    <lastmod>2019-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/include-exclude-processes.html</loc>
-    <lastmod>2020-02-28</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/collect-metrics-from-remote-file-systems.html</loc>
-    <lastmod>2020-08-03</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/disable-captures.html</loc>
-    <lastmod>2019-09-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-agent-modes.html</loc>
@@ -117,16 +97,60 @@
     <lastmod>2020-07-28</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/enable-kube-state-metrics.html</loc>
-    <lastmod>2019-11-22</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/enable-http-proxy-for-agents.html</loc>
     <lastmod>2020-09-22</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/filter-data.html</loc>
+    <lastmod>2020-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/blacklist-ports.html</loc>
+    <lastmod>2019-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/enable-disable-event-data.html</loc>
+    <lastmod>2019-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/include-exclude-custom-metrics.html</loc>
+    <lastmod>2019-09-26</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/prioritize-designated-containers.html</loc>
+    <lastmod>2021-03-18</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/sysdig-aggregated-container-metrics.html</loc>
+    <lastmod>2021-03-18</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/include-exclude-processes.html</loc>
+    <lastmod>2020-02-28</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/collect-metrics-from-remote-file-systems.html</loc>
+    <lastmod>2020-08-03</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/disable-captures.html</loc>
+    <lastmod>2019-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/reduce-memory-consumption-in-agent.html</loc>
+    <lastmod>2021-03-04</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/enable-kube-state-metrics.html</loc>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/process-kubernetes-events.html</loc>
     <lastmod>2020-12-23</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/manage-agent-log-levels.html</loc>
+    <lastmod>2021-02-08</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/change-agent-log-level-globally.html</loc>
@@ -153,16 +177,16 @@
     <lastmod>2021-03-16</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/fargate-serverless-agents.html</loc>
-    <lastmod>2021-03-16</lastmod>
+    <loc>https://docs.sysdig.com/en/aws-fargate-serverless-agents.html</loc>
+    <lastmod>2021-03-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-cloudconnnector.html</loc>
     <lastmod>2021-03-11</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/install-cloudconnector-on-aws.html</loc>
-    <lastmod>2021-03-11</lastmod>
+    <loc>https://docs.sysdig.com/en/deploy-cloudconnector-on-aws.html</loc>
+    <lastmod>2021-03-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-cloudconnector-on-gcp.html</loc>
@@ -170,7 +194,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/rapid-response--installation.html</loc>
-    <lastmod>2021-03-11</lastmod>
+    <lastmod>2021-03-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-administration.html</loc>
@@ -302,7 +326,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
-    <lastmod>2021-03-05</lastmod>
+    <lastmod>2021-03-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/subscription.html</loc>
@@ -314,7 +338,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
-    <lastmod>2021-03-08</lastmod>
+    <lastmod>2021-03-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/notifications-management.html</loc>
@@ -325,8 +349,8 @@
     <lastmod>2021-03-01</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/configure-ibm-cloud-function-channel.html</loc>
-    <lastmod>2021-03-03</lastmod>
+    <loc>https://docs.sysdig.com/en/configure-ibm-cloud-functions-channel.html</loc>
+    <lastmod>2021-03-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
@@ -750,7 +774,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-policies.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-03-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-rules.html</loc>
