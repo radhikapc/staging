@@ -1,17 +1,16 @@
 
-
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 @import url('https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/themes/sysdig/assets/fonts/maax-mono/reg/maax-mono-reg.woff2');
 
 body {
- font-family: 'Roboto', sans-serif;
+ font-family: 'Karla';
  color: #415546;
 }
 /* change header font */
 
 h1,h2,h3 {
-  font-family: "Roboto",Monaco,Consolas,monospace;
+  font-family: "Maax Mono",Monaco,Consolas,monospace;
   color: #0a1429;
 }
 
@@ -26,7 +25,7 @@ topic-content .breadcrumb {
 
 /* Home page */
 .portal-single-publication h3 {
-  font-family: 'Roboto';
+  font-family: 'Karla';
   font-weight: bold;
 }
 
@@ -263,5 +262,4 @@ table.image-viewport img {
  .portal-single-publication a {
   padding: 40px 20px;
  }
-
 
