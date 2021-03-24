@@ -794,7 +794,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-developer-tools.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2021-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/creating-access-keys.html</loc>
+    <lastmod>2021-03-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/working-with-the-data-api.html</loc>
