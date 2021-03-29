@@ -66,7 +66,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-agent-installation.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2021-03-30</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/identify-agent-version.html</loc>
@@ -607,6 +607,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/metrics-dictionary.html</loc>
     <lastmod>2020-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/run-promql-queries-faster-with-extend-label-set.html</loc>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/mapping-legacy-sysdig-kubernetes-metrics-with-prometheus-metrics.html</loc>
