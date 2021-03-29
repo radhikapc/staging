@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://docs.sysdig.com/en/sysdig-installation.html</loc>
-    <lastmod>2021-03-18</lastmod>
+    <loc>https://docs.sysdig.com/en/installation.html</loc>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent.html</loc>
@@ -181,28 +181,28 @@
     <lastmod>2021-03-25</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/sysdig-cloudconnnector.html</loc>
-    <lastmod>2021-03-11</lastmod>
+    <loc>https://docs.sysdig.com/en/sysdig-secure-for-cloud.html</loc>
+    <lastmod>2021-03-27</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/deploy-cloudconnector-on-aws.html</loc>
-    <lastmod>2021-03-19</lastmod>
+    <loc>https://docs.sysdig.com/en/deploy-sysdig-secure-for-cloud-on-aws.html</loc>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-cloudconnector-on-gcp.html</loc>
     <lastmod>2021-03-10</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/-beta--configure-prometheus-remote-write.html</loc>
-    <lastmod>2021-03-24</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/rapid-response--installation.html</loc>
     <lastmod>2021-03-24</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/sysdig-administration.html</loc>
-    <lastmod>2021-03-10</lastmod>
+    <loc>https://docs.sysdig.com/en/-beta--configure-prometheus-remote-write.html</loc>
+    <lastmod>2021-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/administration.html</loc>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
@@ -330,7 +330,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/integrate-with-aws-role-delegation.html</loc>
-    <lastmod>2021-03-19</lastmod>
+    <lastmod>2021-03-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/subscription.html</loc>
@@ -793,8 +793,8 @@
     <lastmod>2020-07-10</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/sysdig-developer-tools.html</loc>
-    <lastmod>2021-03-24</lastmod>
+    <loc>https://docs.sysdig.com/en/developer-tools.html</loc>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/creating-access-keys.html</loc>
@@ -826,7 +826,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
-    <lastmod>2021-03-25</lastmod>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
