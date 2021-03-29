@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://docs.sysdig.com/en/installation.html</loc>
+    <loc>https://docs.sysdig.com/en/installation-lp.html</loc>
     <lastmod>2021-03-29</lastmod>
   </url>
   <url>
@@ -182,23 +182,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-secure-for-cloud.html</loc>
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/deploy-sysdig-secure-for-cloud-on-aws.html</loc>
     <lastmod>2021-03-29</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/install-cloudconnector-on-gcp.html</loc>
-    <lastmod>2021-03-10</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/rapid-response--installation.html</loc>
-    <lastmod>2021-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/-beta--configure-prometheus-remote-write.html</loc>
-    <lastmod>2021-03-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/administration.html</loc>
@@ -334,7 +322,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/subscription.html</loc>
-    <lastmod>2020-07-27</lastmod>
+    <lastmod>2021-03-29</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/about-aws-cloudwatch-licensing.html</loc>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/subscription--change-number-of-licensed-agents.html</loc>
@@ -358,7 +350,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2021-01-20</lastmod>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started-with-sysdig-monitor.html</loc>
@@ -610,7 +602,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metric-limits.html</loc>
-    <lastmod>2020-11-10</lastmod>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics-dictionary.html</loc>
