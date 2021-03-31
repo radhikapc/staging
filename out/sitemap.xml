@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://docs.sysdig.com/en/installation-lp.html</loc>
-    <lastmod>2021-03-29</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/sysdig-agent.html</loc>
-    <lastmod>2021-03-18</lastmod>
+    <loc>https://docs.sysdig.com/en/installation.html</loc>
+    <lastmod>2021-03-31</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
@@ -49,10 +45,6 @@
     <lastmod>2021-03-18</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/agent-install--manual-linux-installation.html</loc>
-    <lastmod>2020-04-04</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/agent-install--iks--ibm-cloud-with-sysdig-.html</loc>
     <lastmod>2020-10-16</lastmod>
   </url>
@@ -61,8 +53,8 @@
     <lastmod>2020-09-14</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/airgapped-agent-installation.html</loc>
-    <lastmod>2021-01-11</lastmod>
+    <loc>https://docs.sysdig.com/en/agent-install--manual-linux-installation.html</loc>
+    <lastmod>2020-04-04</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-agent-installation.html</loc>
@@ -187,6 +179,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/deploy-sysdig-secure-for-cloud-on-aws.html</loc>
     <lastmod>2021-03-29</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/-beta--configure-prometheus-remote-write.html</loc>
+    <lastmod>2021-03-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/administration.html</loc>
@@ -322,11 +318,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/subscription.html</loc>
-    <lastmod>2021-03-29</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/about-aws-cloudwatch-licensing.html</loc>
-    <lastmod>2021-03-29</lastmod>
+    <lastmod>2021-03-30</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/subscription--change-number-of-licensed-agents.html</loc>
@@ -390,7 +382,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2020-11-17</lastmod>
+    <lastmod>2021-03-30</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
@@ -598,7 +590,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/data-retention.html</loc>
-    <lastmod>2020-11-13</lastmod>
+    <lastmod>2021-03-30</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metric-limits.html</loc>
@@ -890,7 +882,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/airgapped-installation.html</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2021-03-30</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-components--replicated-.html</loc>
