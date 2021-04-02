@@ -570,7 +570,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/grouping,-scoping,-and-segmenting-metrics.html</loc>
-    <lastmod>2020-11-24</lastmod>
+    <lastmod>2021-04-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understanding-default,-custom,-and-missing-metrics.html</loc>
@@ -602,7 +602,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/run-promql-queries-faster-with-extend-label-set.html</loc>
-    <lastmod>2021-03-29</lastmod>
+    <lastmod>2021-03-31</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/mapping-legacy-sysdig-kubernetes-metrics-with-prometheus-metrics.html</loc>
