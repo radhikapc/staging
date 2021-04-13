@@ -70,7 +70,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/understand-the-agent-configuration.html</loc>
-    <lastmod>2020-08-14</lastmod>
+    <lastmod>2021-04-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-agent-modes.html</loc>
@@ -339,6 +339,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/configure-ibm-cloud-functions-channel.html</loc>
     <lastmod>2021-03-22</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-a-microsoft-teams-channel.html</loc>
+    <lastmod>2021-04-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
