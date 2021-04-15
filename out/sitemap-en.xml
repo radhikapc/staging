@@ -342,7 +342,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-a-microsoft-teams-channel.html</loc>
-    <lastmod>2021-04-13</lastmod>
+    <lastmod>2021-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-a-webhook-channel.html</loc>
+    <lastmod>2021-04-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
