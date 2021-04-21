@@ -174,7 +174,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/aws-fargate-serverless-agents.html</loc>
-    <lastmod>2021-04-19</lastmod>
+    <lastmod>2021-04-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-secure-for-cloud.html</loc>
@@ -182,7 +182,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/deploy-sysdig-secure-for-cloud-on-aws.html</loc>
-    <lastmod>2021-03-29</lastmod>
+    <lastmod>2021-04-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/-beta--configure-prometheus-remote-write.html</loc>
@@ -330,7 +330,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
-    <lastmod>2021-04-12</lastmod>
+    <lastmod>2021-04-20</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/notifications-management.html</loc>
@@ -613,8 +613,8 @@
     <lastmod>2020-06-04</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/run-promql-queries-faster-with-extend-label-set.html</loc>
-    <lastmod>2021-04-20</lastmod>
+    <loc>https://docs.sysdig.com/en/run-promql-queries-faster-with-extended-label-set.html</loc>
+    <lastmod>2021-04-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/mapping-legacy-sysdig-kubernetes-metrics-with-prometheus-metrics.html</loc>
@@ -834,7 +834,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-04-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-secure-release-notes.html</loc>
