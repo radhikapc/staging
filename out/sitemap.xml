@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://docs.sysdig.com/en/installation.html</loc>
-    <lastmod>2021-03-31</lastmod>
+    <lastmod>2021-04-30</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-agent-cli.html</loc>
-    <lastmod>2021-04-20</lastmod>
+    <lastmod>2021-04-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-http-proxy-for-agents.html</loc>
@@ -157,6 +157,10 @@
     <lastmod>2021-02-08</lastmod>
   </url>
   <url>
+    <loc>https://docs.sysdig.com/en/manage-console-logging-for-agent-components.html</loc>
+    <lastmod>2021-04-30</lastmod>
+  </url>
+  <url>
     <loc>https://docs.sysdig.com/en/agent-auto-config.html</loc>
     <lastmod>2019-11-22</lastmod>
   </url>
@@ -174,7 +178,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/aws-fargate-serverless-agents.html</loc>
-    <lastmod>2021-04-21</lastmod>
+    <lastmod>2021-04-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-secure-for-cloud.html</loc>
@@ -306,7 +310,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/storage--configure-options-for-capture-files.html</loc>
-    <lastmod>2021-04-22</lastmod>
+    <lastmod>2021-04-28</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/aws--integrate-aws-account-and-cloudwatch-metrics--optional-.html</loc>
@@ -350,7 +354,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-a-webhook-channel.html</loc>
-    <lastmod>2021-04-15</lastmod>
+    <lastmod>2021-04-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
@@ -394,7 +398,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-04-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
@@ -574,7 +578,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/promql-query-explorer.html</loc>
-    <lastmod>2021-03-04</lastmod>
+    <lastmod>2021-04-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics.html</loc>
@@ -698,7 +702,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/silence-alert-notifications.html</loc>
-    <lastmod>2021-04-13</lastmod>
+    <lastmod>2021-04-26</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/captures.html</loc>
