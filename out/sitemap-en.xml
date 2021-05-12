@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://docs.sysdig.com/en/installation.html</loc>
-    <lastmod>2021-04-30</lastmod>
+    <lastmod>2021-05-12</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
@@ -158,7 +158,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-console-logging-for-agent-components.html</loc>
-    <lastmod>2021-04-30</lastmod>
+    <lastmod>2021-05-07</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-auto-config.html</loc>
@@ -818,7 +818,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/working-with-the-data-api.html</loc>
-    <lastmod>2020-03-18</lastmod>
+    <lastmod>2021-05-12</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/guidelines-for-using-data-api.html</loc>
