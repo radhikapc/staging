@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-installation.html</loc>
-    <lastmod>2020-11-13</lastmod>
+    <lastmod>2021-05-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/host-requirements-for-agent-installation.html</loc>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/quick-install-sysdig-agent-on-kubernetes.html</loc>
-    <lastmod>2020-10-08</lastmod>
+    <lastmod>2021-05-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/steps-for-kubernetes--vanilla-.html</loc>
@@ -93,8 +93,8 @@
     <lastmod>2020-07-28</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/using-agent-cli.html</loc>
-    <lastmod>2021-04-26</lastmod>
+    <loc>https://docs.sysdig.com/en/using-the-agent-console.html</loc>
+    <lastmod>2021-05-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-http-proxy-for-agents.html</loc>
@@ -314,7 +314,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/storage--configure-options-for-capture-files.html</loc>
-    <lastmod>2021-04-28</lastmod>
+    <lastmod>2021-05-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/aws--integrate-aws-account-and-cloudwatch-metrics--optional-.html</loc>
