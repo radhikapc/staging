@@ -574,7 +574,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/explore.html</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-05-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/explore-interface.html</loc>
@@ -603,6 +603,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/promql-query-explorer.html</loc>
     <lastmod>2021-04-26</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/promql-library.html</loc>
+    <lastmod>2021-05-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics.html</loc>
