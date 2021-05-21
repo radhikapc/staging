@@ -841,20 +841,24 @@
     <lastmod>2021-05-21</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/alert-management-api.html</loc>
-    <lastmod>2021-05-21</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/silencing-rules-apis.html</loc>
-    <lastmod>2021-05-21</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/working-with-the-data-api.html</loc>
     <lastmod>2021-05-12</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/guidelines-for-using-data-api.html</loc>
     <lastmod>2020-03-17</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/working-with-dashboards.html</loc>
+    <lastmod>2020-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/dashboard-apis.html</loc>
+    <lastmod>2020-06-19</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/save-and-restore-dashboards-with-scripts.html</loc>
+    <lastmod>2019-09-30</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/user-provisioning-api.html</loc>
