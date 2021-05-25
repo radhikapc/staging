@@ -94,7 +94,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-the-agent-console.html</loc>
-    <lastmod>2021-05-13</lastmod>
+    <lastmod>2021-05-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-http-proxy-for-agents.html</loc>
@@ -106,7 +106,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/blacklist-ports.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2021-05-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-disable-event-data.html</loc>
@@ -367,6 +367,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/subscription--change-number-of-licensed-agents.html</loc>
     <lastmod>2020-07-27</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/time-series-billing.html</loc>
+    <lastmod>2021-05-25</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
@@ -841,8 +845,8 @@
     <lastmod>2021-05-21</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/silencing-rules-apis.html</loc>
-    <lastmod>2021-05-21</lastmod>
+    <loc>https://docs.sysdig.com/en/silencing-rules-api.html</loc>
+    <lastmod>2021-05-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/working-with-the-data-api.html</loc>
