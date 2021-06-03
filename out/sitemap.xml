@@ -193,8 +193,8 @@
     <lastmod>2021-04-20</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/-beta--configure-prometheus-remote-write.html</loc>
-    <lastmod>2021-03-24</lastmod>
+    <loc>https://docs.sysdig.com/en/-beta--prometheus-remote-write.html</loc>
+    <lastmod>2021-06-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/administration.html</loc>
@@ -370,7 +370,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/time-series-billing.html</loc>
-    <lastmod>2021-05-27</lastmod>
+    <lastmod>2021-06-03</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
@@ -418,7 +418,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-promql.html</loc>
-    <lastmod>2021-04-26</lastmod>
+    <lastmod>2021-06-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboard-scope.html</loc>
@@ -610,7 +610,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/promql-library.html</loc>
-    <lastmod>2021-05-17</lastmod>
+    <lastmod>2021-06-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics.html</loc>
@@ -710,7 +710,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/promql-alerts.html</loc>
-    <lastmod>2021-02-08</lastmod>
+    <lastmod>2021-06-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metric-alerts.html</loc>
@@ -822,7 +822,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-rules.html</loc>
-    <lastmod>2021-03-12</lastmod>
+    <lastmod>2021-06-01</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-falco-rules-on-premises.html</loc>
