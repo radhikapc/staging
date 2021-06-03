@@ -86,7 +86,7 @@ function mapVersionPage(){
         var currentVersion = window.location.pathname.split('/')[1];
         // let's find actual current version among available
         var $parent = $(this).closest('.version-dropdown');
-        $parent.find('li a').each((idx, el) => {
+        $parent.find('li a').each( function (idx, el) {
             const version = el.getAttribute('href').replace('index.html', '');
             if (window.location.pathname.indexOf(version) === 0) {
                 currentVersion = version;
@@ -100,8 +100,8 @@ function mapVersionPage(){
         var candidate = window.location.href.replace(currentVersion, newVersion);
 
         $.get(candidate)
-            .done(() => window.location.href = candidate)
-            .fail(() => window.location.href = urlDefault.href);
+    .done(function() { return window.location.href = candidate })
+    .fail(function() { return window.location.href = urlDefault.href });
         return false;
     });
 }
