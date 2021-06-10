@@ -186,7 +186,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-secure-for-cloud.html</loc>
-    <lastmod>2021-03-29</lastmod>
+    <lastmod>2021-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/deploy-sysdig-secure-for-cloud-on-aws.html</loc>
@@ -194,7 +194,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/-beta--prometheus-remote-write.html</loc>
-    <lastmod>2021-06-02</lastmod>
+    <lastmod>2021-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/administration.html</loc>
@@ -386,7 +386,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-monitoring-integrations.html</loc>
-    <lastmod>2021-06-07</lastmod>
+    <lastmod>2021-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/overview.html</loc>
