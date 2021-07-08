@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/steps-for-gke.html</loc>
-    <lastmod>2020-04-04</lastmod>
+    <lastmod>2021-06-22</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/steps-for-openshift.html</loc>
@@ -182,7 +182,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/aws-fargate-serverless-agents.html</loc>
-    <lastmod>2021-04-27</lastmod>
+    <lastmod>2021-06-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-secure-for-cloud.html</loc>
@@ -194,7 +194,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/-beta--prometheus-remote-write.html</loc>
-    <lastmod>2021-06-10</lastmod>
+    <lastmod>2021-06-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/administration.html</loc>
@@ -370,7 +370,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/time-series-billing.html</loc>
-    <lastmod>2021-06-15</lastmod>
+    <lastmod>2021-06-25</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
@@ -385,8 +385,8 @@
     <lastmod>2020-11-13</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/configure-monitoring-integrations.html</loc>
-    <lastmod>2021-06-10</lastmod>
+    <loc>https://docs.sysdig.com/en/-limited-availability--configure-monitoring-integrations.html</loc>
+    <lastmod>2021-06-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/overview.html</loc>
@@ -822,7 +822,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-policies.html</loc>
-    <lastmod>2021-03-22</lastmod>
+    <lastmod>2021-06-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manage-rules.html</loc>
@@ -890,7 +890,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-agent-release-notes.html</loc>
-    <lastmod>2021-05-27</lastmod>
+    <lastmod>2021-07-08</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas--sysdig-monitor-release-notes.html</loc>
