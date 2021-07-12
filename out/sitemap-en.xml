@@ -190,11 +190,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/deploy-sysdig-secure-for-cloud-on-aws.html</loc>
-    <lastmod>2021-04-20</lastmod>
+    <lastmod>2021-07-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/-beta--prometheus-remote-write.html</loc>
-    <lastmod>2021-06-23</lastmod>
+    <lastmod>2021-07-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/administration.html</loc>
@@ -209,16 +209,16 @@
     <lastmod>2020-08-24</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/installer--kubernetes---openshift--3-5-0.html</loc>
+    <loc>https://docs.sysdig.com/en/installer--kubernetes---openshift--2-5-0-3-2-2.html</loc>
     <lastmod>2020-07-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-install-3-0-0---kubernetes-.html</loc>
-    <lastmod>2020-07-13</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-install--openshift-.html</loc>
-    <lastmod>2020-07-13</lastmod>
+    <lastmod>2020-08-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-with-replicated.html</loc>
@@ -238,7 +238,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/installer-upgrade--2-5-0--.html</loc>
-    <lastmod>2020-07-13</lastmod>
+    <lastmod>2020-08-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/manual-upgrade--3-0-0--.html</loc>
@@ -350,7 +350,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/aws--integrate-aws-account-and-cloudwatch-metrics--optional-.html</loc>
-    <lastmod>2020-02-27</lastmod>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/iam-policy-code-to-use.html</loc>
@@ -375,6 +375,14 @@
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
     <lastmod>2021-04-20</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/administration-settings-224976.html</loc>
+    <lastmod>2020-02-04</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/configure-interactive-session-expiration.html</loc>
+    <lastmod>2021-05-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
