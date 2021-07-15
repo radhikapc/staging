@@ -361,18 +361,6 @@
     <lastmod>2021-04-12</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/subscription.html</loc>
-    <lastmod>2021-03-30</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/subscription--change-number-of-licensed-agents.html</loc>
-    <lastmod>2020-07-27</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/time-series-billing.html</loc>
-    <lastmod>2021-06-25</lastmod>
-  </url>
-  <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
     <lastmod>2021-04-20</lastmod>
   </url>
@@ -386,7 +374,23 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-customized-session-expiration.html</loc>
-    <lastmod>2021-07-12</lastmod>
+    <lastmod>2021-07-13</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/subscription.html</loc>
+    <lastmod>2021-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/subscription--change-number-of-licensed-agents.html</loc>
+    <lastmod>2020-07-27</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/time-series-billing.html</loc>
+    <lastmod>2021-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/fargate-billing.html</loc>
+    <lastmod>2021-07-15</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
@@ -790,7 +794,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-prometheus-native-service-discovery.html</loc>
-    <lastmod>2020-11-20</lastmod>
+    <lastmod>2021-07-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enforcing-limit-on-prometheus-metric-collection.html</loc>
