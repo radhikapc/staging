@@ -78,7 +78,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-agent-modes.html</loc>
-    <lastmod>2020-09-29</lastmod>
+    <lastmod>2021-07-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/metrics-available-in-monitor-light.html</loc>
@@ -727,6 +727,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/alerts.html</loc>
     <lastmod>2020-12-14</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/alert-library.html</loc>
+    <lastmod>2021-07-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/promql-alerts.html</loc>
