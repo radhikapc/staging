@@ -193,8 +193,8 @@
     <lastmod>2021-07-09</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/-beta--prometheus-remote-write.html</loc>
-    <lastmod>2021-07-09</lastmod>
+    <loc>https://docs.sysdig.com/en/prometheus-remote-write.html</loc>
+    <lastmod>2021-08-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/administration.html</loc>
@@ -362,7 +362,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/saas-regions-and-ip-ranges.html</loc>
-    <lastmod>2021-04-20</lastmod>
+    <lastmod>2021-08-06</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/administration-settings-224976.html</loc>
@@ -390,19 +390,15 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/fargate-billing.html</loc>
-    <lastmod>2021-07-15</lastmod>
+    <lastmod>2021-08-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
-    <lastmod>2021-03-29</lastmod>
+    <lastmod>2021-08-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/getting-started-with-sysdig-monitor.html</loc>
-    <lastmod>2020-11-13</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.sysdig.com/en/-limited-availability--configure-monitoring-integrations.html</loc>
-    <lastmod>2021-06-23</lastmod>
+    <lastmod>2021-08-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/overview.html</loc>
@@ -733,8 +729,8 @@
     <lastmod>2020-12-14</lastmod>
   </url>
   <url>
-    <loc>https://docs.sysdig.com/en/alert-library.html</loc>
-    <lastmod>2021-07-28</lastmod>
+    <loc>https://docs.sysdig.com/en/alerts-library.html</loc>
+    <lastmod>2021-08-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/promql-alerts.html</loc>
@@ -814,7 +810,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-sysdig-with-grafana.html</loc>
-    <lastmod>2021-01-26</lastmod>
+    <lastmod>2021-08-09</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/logging-and-troubleshooting.html</loc>
