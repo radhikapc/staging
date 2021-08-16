@@ -346,7 +346,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/storage--configure-options-for-capture-files.html</loc>
-    <lastmod>2021-05-13</lastmod>
+    <lastmod>2021-08-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/aws--integrate-aws-account-and-cloudwatch-metrics--optional-.html</loc>
@@ -390,7 +390,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/fargate-billing.html</loc>
-    <lastmod>2021-08-13</lastmod>
+    <lastmod>2021-08-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
@@ -758,7 +758,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/silence-alert-notifications.html</loc>
-    <lastmod>2021-05-20</lastmod>
+    <lastmod>2021-08-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/captures.html</loc>
