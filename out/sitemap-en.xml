@@ -94,7 +94,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-the-agent-console.html</loc>
-    <lastmod>2021-05-24</lastmod>
+    <lastmod>2021-08-19</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-http-proxy-for-agents.html</loc>
@@ -390,7 +390,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/fargate-billing.html</loc>
-    <lastmod>2021-08-16</lastmod>
+    <lastmod>2021-08-17</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
