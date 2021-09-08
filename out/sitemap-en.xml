@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/host-requirements-for-agent-installation.html</loc>
-    <lastmod>2021-07-29</lastmod>
+    <lastmod>2021-09-07</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kernel-header-troubleshooting.html</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--kubernetes.html</loc>
-    <lastmod>2020-08-14</lastmod>
+    <lastmod>2021-09-08</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/quick-install-sysdig-agent-on-kubernetes.html</loc>
@@ -39,6 +39,10 @@
   <url>
     <loc>https://docs.sysdig.com/en/steps-for-openshift.html</loc>
     <lastmod>2020-04-04</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.sysdig.com/en/steps-for-rancher.html</loc>
+    <lastmod>2021-09-08</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-install--non-orchestrated.html</loc>
@@ -62,7 +66,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-agent-installation.html</loc>
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-node-leases.html</loc>
@@ -98,7 +102,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/using-the-agent-console.html</loc>
-    <lastmod>2021-08-24</lastmod>
+    <lastmod>2021-08-23</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-http-proxy-for-agents.html</loc>
@@ -130,7 +134,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/include-exclude-processes.html</loc>
-    <lastmod>2020-02-28</lastmod>
+    <lastmod>2020-02-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/collect-metrics-from-remote-file-systems.html</loc>
@@ -146,7 +150,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/enable-kube-state-metrics.html</loc>
-    <lastmod>2019-11-22</lastmod>
+    <lastmod>2019-11-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/process-kubernetes-events.html</loc>
@@ -170,7 +174,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-auto-config.html</loc>
-    <lastmod>2019-11-22</lastmod>
+    <lastmod>2019-11-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/agent-upgrade.html</loc>
@@ -178,7 +182,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/uninstall-the-agent.html</loc>
-    <lastmod>2020-11-11</lastmod>
+    <lastmod>2020-11-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/serverless-agents.html</loc>
@@ -190,11 +194,11 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-secure-for-cloud.html</loc>
-    <lastmod>2021-06-10</lastmod>
+    <lastmod>2021-09-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/deploy-sysdig-secure-for-cloud-on-aws.html</loc>
-    <lastmod>2021-07-09</lastmod>
+    <lastmod>2021-09-02</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/prometheus-remote-write.html</loc>
@@ -202,7 +206,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/administration.html</loc>
-    <lastmod>2021-09-01</lastmod>
+    <lastmod>2021-08-31</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/on-premises-deployments.html</loc>
@@ -262,7 +266,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v1765-migration-tool-for-upgrade--kubernetes-.html</loc>
-    <lastmod>2019-11-22</lastmod>
+    <lastmod>2019-11-21</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/v1149--migration-tool-for-unified-events.html</loc>
@@ -290,7 +294,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-theme-preference.html</loc>
-    <lastmod>2021-05-14</lastmod>
+    <lastmod>2021-05-13</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/notifications-management.html</loc>
@@ -314,7 +318,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-team-email-notification-channel.html</loc>
-    <lastmod>2021-09-01</lastmod>
+    <lastmod>2021-08-31</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/authentication-and-authorization--on-prem-options-.html</loc>
@@ -338,7 +342,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/disable-password-authentication.html</loc>
-    <lastmod>2021-06-11</lastmod>
+    <lastmod>2021-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/adfs--saml-.html</loc>
@@ -398,7 +402,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/fargate-billing.html</loc>
-    <lastmod>2021-08-17</lastmod>
+    <lastmod>2021-08-16</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/sysdig-monitor.html</loc>
@@ -450,7 +454,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/configure-dashboards.html</loc>
-    <lastmod>2020-06-11</lastmod>
+    <lastmod>2020-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/create-a-new-dashboard.html</loc>
@@ -470,7 +474,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/managing-dashboards.html</loc>
-    <lastmod>2020-06-11</lastmod>
+    <lastmod>2020-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/dashboards-types.html</loc>
@@ -546,7 +550,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/copy-panels-to-a-different-dashboards.html</loc>
-    <lastmod>2020-06-11</lastmod>
+    <lastmod>2020-06-10</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/duplicate-a-panel.html</loc>
@@ -574,7 +578,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/hosts-infrastructure-dashboards.html</loc>
-    <lastmod>2020-07-28</lastmod>
+    <lastmod>2020-07-27</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes-dashboards.html</loc>
@@ -686,7 +690,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/kubernetes.html</loc>
-    <lastmod>2020-02-25</lastmod>
+    <lastmod>2020-02-24</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/resource-usage.html</loc>
@@ -986,7 +990,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/airgapped-installation.html</loc>
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-03-29</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/install-components--replicated-.html</loc>
@@ -998,7 +1002,7 @@
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/uninstall-replicated-installations.html</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-08-18</lastmod>
   </url>
   <url>
     <loc>https://docs.sysdig.com/en/troubleshooting-on-premises-installation-216304.html</loc>
